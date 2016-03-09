@@ -1,0 +1,121 @@
+home_team,away_team,match_id,round_id,year_id,replay,home_score,year,date,away_score,round,stage,qualifier
+Wanderers,Royal Engineers,0,0,71234,False,1,1872,16 March 1872,0,Final,0,False
+Oxford University,Royal Engineers,0,0,71236,False,2,1874,14 March 1874,0,Final,0,False
+Old Etonians,Clapham Rovers,0,0,71241,False,1,1879,29 March 1879,0,Final,0,False
+Old Carthusians,Old Etonians,0,0,71243,False,3,1881,09 April 1881,0,Final,0,False
+Clapham Rovers,Oxford University,0,0,71242,False,1,1880,10 April 1880,0,Final,0,False
+Wanderers,Oxford University,0,0,71235,False,2,1873,29 March 1873,0,Final,0,False
+Wanderers,Oxford University,0,0,71239,False,2,1877,24 March 1877,1,Final,0,False
+Wanderers,Royal Engineers,0,0,71240,False,3,1878,23 March 1878,1,Final,0,False
+Old Etonians,Blackburn Rovers,0,0,71244,False,1,1882,25 March 1882,0,Final,0,False
+Blackburn Olympic,Old Etonians,0,0,71245,False,2,1883,31 March 1883,1,Final,0,False
+Blackburn Rovers,Queen's Park (Glasgow),0,0,71247,False,2,1885,04 April 1885,0,Final,0,False
+Blackburn Rovers,Sheffield Wednesday,0,0,71252,False,6,1890,29 March 1890,1,Final,0,False
+Aston Villa,West Bromwich Albion,0,0,71249,False,2,1887,02 April 1887,0,Final,0,False
+Blackburn Rovers,Queen's Park (Glasgow),0,0,71246,False,2,1884,29 March 1884,1,Final,0,False
+West Bromwich Albion,Preston North End,0,0,71250,False,2,1888,24 March 1888,1,Final,0,False
+Preston North End,Wolverhampton Wanderers,0,0,71251,False,3,1889,30 March 1889,0,Final,0,False
+Blackburn Rovers,Notts County,0,0,71253,False,3,1891,21 March 1891,1,Final,0,False
+Wolverhampton Wanderers,Everton,0,0,71255,False,1,1893,25 March 1893,0,Final,0,False
+Notts County,Bolton Wanderers,0,0,71256,False,4,1894,31 March 1894,1,Final,0,False
+West Bromwich Albion,Aston Villa,0,0,71254,False,3,1892,19 March 1892,0,Final,0,False
+Sheffield Wednesday,Wolverhampton Wanderers,0,0,71258,False,2,1896,18 April 1896,1,Final,0,False
+Aston Villa,West Bromwich Albion,0,0,71257,False,1,1895,20 April 1895,0,Final,0,False
+Sheffield United,Derby County,0,0,71261,False,4,1899,15 April 1899,1,Final,0,False
+Aston Villa,Everton,0,0,71259,False,3,1897,10 April 1897,2,Final,0,False
+Nottingham Forest,Derby County,0,0,71260,False,3,1898,16 April 1898,1,Final,0,False
+Bury,Derby County,0,0,71265,False,6,1903,18 April 1903,0,Final,0,False
+Everton,Newcastle United,0,0,71268,False,1,1906,21 April 1906,0,Final,0,False
+Aston Villa,Newcastle United,0,0,71267,False,2,1905,15 April 1905,0,Final,0,False
+Bury,Southampton,0,0,71262,False,4,1900,21 April 1900,0,Final,0,False
+Wolverhampton Wanderers,Newcastle United,0,0,71270,False,3,1908,25 April 1908,1,Final,0,False
+Manchester City,Bolton Wanderers,0,0,71266,False,1,1904,23 April 1904,0,Final,0,False
+Sheffield Wednesday,Everton,0,0,71269,False,2,1907,20 April 1907,1,Final,0,False
+Burnley,Liverpool,0,0,71276,False,1,1914,25 April 1914,0,Final,0,False
+Sheffield United,Chelsea,0,0,71277,False,3,1915,24 April 1915,0,Final,0,False
+Bolton Wanderers,West Ham United,0,0,71281,False,2,1923,28 April 1923,0,Final,0,False
+Aston Villa,Huddersfield Town,0,0,71278,False,1,1920,24 April 1920,0,Final,0,False
+Manchester United,Bristol City,0,0,71271,False,1,1909,24 April 1909,0,Final,0,False
+Cardiff City,Arsenal,0,0,71285,False,1,1927,23 April 1927,0,Final,0,False
+Huddersfield Town,Preston North End,0,0,71280,False,1,1922,29 April 1922,0,Final,0,False
+Sheffield United,Cardiff City,0,0,71283,False,1,1925,25 April 1925,0,Final,0,False
+Newcastle United,Aston Villa,0,0,71282,False,2,1924,26 April 1924,0,Final,0,False
+Tottenham Hotspur,Wolverhampton Wanderers,0,0,71279,False,1,1921,23 April 1921,0,Final,0,False
+Bolton Wanderers,Portsmouth,0,0,71287,False,2,1929,27 April 1929,0,Final,0,False
+Bolton Wanderers,Manchester City,0,0,71284,False,1,1926,24 April 1926,0,Final,0,False
+Newcastle United,Arsenal,0,0,71290,False,2,1932,23 April 1932,1,Final,0,False
+Everton,Manchester City,0,0,71291,False,3,1933,29 April 1933,0,Final,0,False
+Arsenal,Sheffield United,0,0,71294,False,1,1936,25 April 1936,0,Final,0,False
+Sunderland AFC,Preston North End,0,0,71295,False,3,1937,01 May 1937,1,Final,0,False
+Manchester City,Portsmouth,0,0,71292,False,2,1934,28 April 1934,1,Final,0,False
+Aston Villa,Sunderland AFC,0,0,71275,False,1,1913,19 April 1913,0,Final,0,False
+West Bromwich Albion,Birmingham City,0,0,71289,False,2,1931,25 April 1931,1,Final,0,False
+Preston North End,Huddersfield Town,0,0,71296,False,1,1938,30 April 1938,0,Final,0,False
+Charlton Athletic,Burnley,0,0,71300,False,1,1947,26 April 1947,0,Final,0,False
+Manchester United,Blackpool,0,0,71301,False,4,1948,24 April 1948,2,Final,0,False
+Arsenal,Liverpool,0,0,71303,False,2,1950,29 April 1950,0,Final,0,False
+Portsmouth,Wolverhampton Wanderers,0,0,71297,False,4,1939,29 April 1939,1,Final,0,False
+Newcastle United,Blackpool,0,0,71304,False,2,1951,28 April 1951,0,Final,0,False
+Newcastle United,Arsenal,0,0,71305,False,1,1952,03 May 1952,0,Final,0,False
+Blackpool,Bolton Wanderers,0,0,71306,False,4,1953,02 May 1953,3,Final,0,False
+Newcastle United,Manchester City,0,0,71308,False,3,1955,07 May 1955,1,Final,0,False
+Sheffield Wednesday,West Bromwich Albion,0,0,71293,False,4,1935,27 April 1935,2,Final,0,False
+Aston Villa,Manchester United,0,0,71310,False,2,1957,04 May 1957,1,Final,0,False
+Derby County,Charlton Athletic,0,0,71299,False,4,1946,27 April 1946,1,Final,0,False
+Nottingham Forest,Luton Town,0,0,71312,False,2,1959,02 May 1959,1,Final,0,False
+Wolverhampton Wanderers,Leicester City,0,0,71302,False,3,1949,30 April 1949,1,Final,0,False
+Tottenham Hotspur,Leicester City,0,0,71314,False,2,1961,06 May 1961,0,Final,0,False
+Wolverhampton Wanderers,Blackburn Rovers,0,0,71313,False,3,1960,07 May 1960,0,Final,0,False
+Blackburn Rovers,Huddersfield Town,0,0,71286,False,3,1928,21 April 1928,1,Final,0,False
+Bolton Wanderers,Manchester United,0,0,71311,False,2,1958,03 May 1958,0,Final,0,False
+Manchester United,Leicester City,0,0,71316,False,3,1963,25 May 1963,1,Final,0,False
+Everton,Sheffield Wednesday,0,0,71319,False,3,1966,14 May 1966,2,Final,0,False
+Tottenham Hotspur,Chelsea,0,0,71320,False,2,1967,20 May 1967,1,Final,0,False
+West Bromwich Albion,Preston North End,0,0,71307,False,3,1954,01 May 1954,2,Final,0,False
+West Bromwich Albion,Everton,0,0,71321,False,1,1968,18 May 1968,0,Final,0,False
+Liverpool,Leeds United AFC,0,0,71318,False,2,1965,01 May 1965,1,Final,0,False
+Manchester City,Leicester City,0,0,71322,False,1,1969,26 April 1969,0,Final,0,False
+Manchester City,Birmingham City,0,0,71309,False,3,1956,05 May 1956,1,Final,0,False
+Arsenal,Liverpool,0,0,71324,False,2,1971,08 May 1971,1,Final,0,False
+Tottenham Hotspur,Burnley,0,0,71315,False,3,1962,05 May 1962,1,Final,0,False
+Sunderland AFC,Leeds United AFC,0,0,71326,False,1,1973,05 May 1973,0,Final,0,False
+West Ham United,Preston North End,0,0,71317,False,3,1964,02 May 1964,2,Final,0,False
+West Ham United,Fulham,0,0,71328,False,2,1975,03 May 1975,0,Final,0,False
+Liverpool,Newcastle United,0,0,71327,False,3,1974,04 May 1974,0,Final,0,False
+West Ham United,Arsenal,0,0,71333,False,1,1980,10 May 1980,0,Final,0,False
+Everton,Watford,0,0,71337,False,2,1984,19 May 1984,0,Final,0,False
+Manchester United,Everton,0,0,71338,False,1,1985,18 May 1985,0,Final,0,False
+Arsenal,Manchester United,0,0,71332,False,3,1979,12 May 1979,2,Final,0,False
+Southampton,Manchester United,0,0,71329,False,1,1976,01 May 1976,0,Final,0,False
+Wimbledon,Liverpool,0,0,71341,False,1,1988,14 May 1988,0,Final,0,False
+Liverpool,Everton,0,0,71342,False,3,1989,20 May 1989,2,Final,0,False
+Tottenham Hotspur,Nottingham Forest,0,0,71344,False,2,1991,18 May 1991,1,Final,0,False
+Liverpool,Sunderland AFC,0,0,71040,False,2,1992,09 May 1992,0,Final,0,False
+Ipswich Town,Arsenal,0,0,71331,False,1,1978,06 May 1978,0,Final,0,False
+Manchester United,Liverpool,0,0,71330,False,2,1977,21 May 1977,1,Final,0,False
+Arsenal,Huddersfield Town,0,0,71288,False,2,1930,26 April 1930,0,Final,0,False
+Manchester United,Liverpool,0,0,71044,False,1,1996,11 May 1996,0,Final,0,False
+Chelsea,Middlesbrough,0,0,71045,False,2,1997,17 May 1997,0,Final,0,False
+Arsenal,Newcastle United,0,0,71046,False,2,1998,16 May 1998,0,Final,0,False
+Everton,Manchester United,0,0,71043,False,1,1995,20 May 1995,0,Final,0,False
+Chelsea,Aston Villa,0,0,71048,False,1,2000,20 May 2000,0,Final,0,False
+Liverpool,Arsenal,0,0,71049,False,2,2001,12 May 2001,1,Final,0,False
+Arsenal,Chelsea,0,0,71050,False,2,2002,04 May 2002,0,Final,0,False
+Arsenal,Southampton,0,0,71051,False,1,2003,17 May 2003,0,Final,0,False
+Arsenal,Manchester United,0,0,71053,False,0,2005,21 May 2005,0,Final,0,False
+Manchester United,Millwall,0,0,71052,False,3,2004,22 May 2004,0,Final,0,False
+Chelsea,Manchester United,0,0,71226,False,1,2007,19 May 2007,0,Final,0,False
+Liverpool,Everton,0,0,71339,False,3,1986,10 May 1986,1,Final,0,False
+Coventry City,Tottenham Hotspur,0,0,71340,False,3,1987,16 May 1987,2,Final,0,False
+Chelsea,Everton,0,0,75388,False,2,2009,30 May 2009,1,Final,0,False
+Manchester City,Stoke City,0,0,75592,False,1,2011,14 May 2011,0,Final,0,False
+Chelsea,Liverpool,0,0,75670,False,2,2012,05 May 2012,1,Final,0,False
+Manchester City,Wigan Athletic,0,0,75721,False,0,2013,11 May 2013,1,Final,0,False
+Arsenal,Hull City,0,0,75769,False,3,2014,17 May 2014,2,Final,0,False
+Arsenal,Aston Villa,0,0,75823,False,4,2015,30 May 2015,0,Final,0,False
+Chelsea,Portsmouth,0,0,75425,False,1,2010,15 May 2010,0,Final,0,False
+Cardiff City,Portsmouth,0,0,75152,False,0,2008,17 May 2008,1,Final,0,False
+Liverpool,West Ham United,0,0,71054,False,3,2006,13 May 2006,3,Final,0,False
+Manchester United,Chelsea,0,0,71042,False,4,1994,14 May 1994,0,Final,0,False
+Manchester United,Newcastle United,0,0,71047,False,2,1999,22 May 1999,0,Final,0,False
+Leeds United AFC,Arsenal,0,0,71325,False,1,1972,06 May 1972,0,Final,0,False
