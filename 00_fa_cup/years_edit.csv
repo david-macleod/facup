@@ -1,0 +1,1508 @@
+round_id,round,year_id,year,stage
+10682,Semi-Final,71234,1872,4.0
+10681,Second Round Proper,71234,1872,2.0
+10683,Third Round Proper,71234,1872,3.0
+10680,First Round Proper,71234,1872,1.0
+10689,Third Round Proper,71235,1873,3.0
+10686,Fourth Round Proper,71235,1873,4.0
+10687,Second Round Proper,71235,1873,2.0
+10685,First Round Proper,71235,1873,1.0
+10688,Semi-Final,71235,1873,5.0
+10692,Second Round Proper,71236,1874,2.0
+10691,First Round Proper,71236,1874,1.0
+10694,Third Round Proper,71236,1874,3.0
+10693,Semi-Final,71236,1874,4.0
+10695,Final,71237,1875,5.0
+10698,Semi-Final,71237,1875,4.0
+10696,First Round Proper,71237,1875,1.0
+10699,Third Round Proper,71237,1875,3.0
+10697,Second Round Proper,71237,1875,2.0
+10704,Third Round Proper,71238,1876,3.0
+10701,First Round Proper,71238,1876,1.0
+10702,Second Round Proper,71238,1876,2.0
+10703,Semi-Final,71238,1876,4.0
+10700,Final,71238,1876,5.0
+10709,Semi-Final,71239,1877,5.0
+10708,Second Round Proper,71239,1877,2.0
+10706,First Round Proper,71239,1877,1.0
+10710,Third Round Proper,71239,1877,3.0
+10707,Fourth Round Proper,71239,1877,4.0
+10714,Second Round Proper,71240,1878,2.0
+10713,Fourth Round Proper,71240,1878,4.0
+10715,Semi-Final,71240,1878,5.0
+10712,First Round Proper,71240,1878,1.0
+10716,Third Round Proper,71240,1878,3.0
+10722,Third Round Proper,71241,1879,3.0
+10718,First Round Proper,71241,1879,1.0
+10719,Fourth Round Proper,71241,1879,4.0
+10721,Semi-Final,71241,1879,5.0
+10720,Second Round Proper,71241,1879,2.0
+10729,Third Round Proper,71242,1880,3.0
+10723,Fifth Round Proper,71242,1880,5.0
+10725,First Round Proper,71242,1880,1.0
+10727,Second Round Proper,71242,1880,2.0
+10726,Fourth Round Proper,71242,1880,4.0
+10728,Semi-Final,71242,1880,6.0
+10735,Semi-Final,71243,1881,6.0
+10732,First Round Proper,71243,1881,1.0
+10730,Fifth Round Proper,71243,1881,5.0
+10734,Second Round Proper,71243,1881,2.0
+10733,Fourth Round Proper,71243,1881,4.0
+10736,Third Round Proper,71243,1881,3.0
+10743,Third Round Proper,71244,1882,3.0
+10742,Semi-Final,71244,1882,6.0
+10739,First Round Proper,71244,1882,1.0
+10737,Fifth Round Proper,71244,1882,5.0
+10740,Fourth Round Proper,71244,1882,4.0
+10741,Second Round Proper,71244,1882,2.0
+10749,Semi-Final,71245,1883,6.0
+10748,Second Round Proper,71245,1883,2.0
+10746,First Round Proper,71245,1883,1.0
+10750,Third Round Proper,71245,1883,3.0
+10744,Fifth Round Proper,71245,1883,5.0
+10747,Fourth Round Proper,71245,1883,4.0
+10756,Semi-Final,71246,1884,6.0
+10754,Fourth Round Proper,71246,1884,4.0
+10757,Third Round Proper,71246,1884,3.0
+10753,First Round Proper,71246,1884,1.0
+10755,Second Round Proper,71246,1884,2.0
+10751,Fifth Round Proper,71246,1884,5.0
+10762,Second Round Proper,71247,1885,2.0
+10761,Fourth Round Proper,71247,1885,4.0
+10764,Sixth Round Proper,71247,1885,6.0
+10758,Fifth Round Proper,71247,1885,5.0
+10765,Third Round Proper,71247,1885,3.0
+10760,First Round Proper,71247,1885,1.0
+10763,Semi-Final,71247,1885,7.0
+10767,Final,71248,1886,8.0
+10771,Semi-Final,71248,1886,7.0
+10766,Fifth Round Proper,71248,1886,5.0
+10772,Sixth Round Proper,71248,1886,6.0
+10770,Second Round Proper,71248,1886,2.0
+10773,Third Round Proper,71248,1886,3.0
+10768,First Round Proper,71248,1886,1.0
+10769,Fourth Round Proper,71248,1886,4.0
+10779,Semi-Final,71249,1887,7.0
+10776,First Round Proper,71249,1887,1.0
+10781,Third Round Proper,71249,1887,3.0
+10780,Sixth Round Proper,71249,1887,6.0
+10778,Second Round Proper,71249,1887,2.0
+10774,Fifth Round Proper,71249,1887,5.0
+10777,Fourth Round Proper,71249,1887,4.0
+10789,Third Round Proper,71250,1888,3.0
+10786,Second Round Proper,71250,1888,2.0
+10787,Semi-Final,71250,1888,7.0
+10785,Fourth Round Proper,71250,1888,4.0
+10784,First Round Proper,71250,1888,1.0
+10788,Sixth Round Proper,71250,1888,6.0
+10782,Fifth Round Proper,71250,1888,5.0
+10796,Semi-Final,71251,1889,8.0
+10798,Third Round Proper,71251,1889,7.0
+10794,Second Qualifying Round,71251,1889,2.0
+10791,First Qualifying Round,71251,1889,1.0
+10795,Second Round Proper,71251,1889,6.0
+10793,Fourth Qualifying Round,71251,1889,4.0
+10797,Third Qualifying Round,71251,1889,3.0
+10792,First Round Proper,71251,1889,5.0
+10806,Third Qualifying Round,71252,1890,3.0
+10805,Semi-Final,71252,1890,8.0
+10802,Fourth Qualifying Round,71252,1890,4.0
+10807,Third Round Proper,71252,1890,7.0
+10801,First Round Proper,71252,1890,5.0
+10804,Second Round Proper,71252,1890,6.0
+10803,Second Qualifying Round,71252,1890,2.0
+10800,First Qualifying Round,71252,1890,1.0
+10817,Third Round Proper,71253,1891,8.0
+10813,Second Qualifying Round,71253,1891,3.0
+10815,Semi-Final,71253,1891,9.0
+10812,Preliminary Round,71253,1891,1.0
+10816,Third Qualifying Round,71253,1891,4.0
+10810,First Round Proper,71253,1891,6.0
+10814,Second Round Proper,71253,1891,7.0
+10809,First Qualifying Round,71253,1891,2.0
+10811,Fourth Qualifying Round,71253,1891,5.0
+10826,Third Round Proper,71254,1892,7.0
+10823,Second Round Proper,71254,1892,6.0
+10821,Fourth Qualifying Round,71254,1892,4.0
+10824,Semi-Final,71254,1892,8.0
+10825,Third Qualifying Round,71254,1892,3.0
+10820,First Round Proper,71254,1892,5.0
+10822,Second Qualifying Round,71254,1892,2.0
+10819,First Qualifying Round,71254,1892,1.0
+10828,First Qualifying Round,71255,1893,2.0
+10831,Preliminary Round,71255,1893,1.0
+10829,First Round Proper,71255,1893,6.0
+10832,Second Qualifying Round,71255,1893,3.0
+10836,Third Round Proper,71255,1893,8.0
+10834,Semi-Final,71255,1893,9.0
+10830,Fourth Qualifying Round,71255,1893,5.0
+10835,Third Qualifying Round,71255,1893,4.0
+10833,Second Round Proper,71255,1893,7.0
+10844,Third Qualifying Round,71256,1894,3.0
+10843,Semi-Final,71256,1894,8.0
+10838,First Qualifying Round,71256,1894,1.0
+10841,Second Qualifying Round,71256,1894,2.0
+10840,Fourth Qualifying Round,71256,1894,4.0
+10839,First Round Proper,71256,1894,5.0
+10842,Second Round Proper,71256,1894,6.0
+10845,Third Round Proper,71256,1894,7.0
+10849,Fourth Qualifying Round,71257,1895,5.0
+10848,First Round Proper,71257,1895,6.0
+10855,Third Round Proper,71257,1895,8.0
+10850,Preliminary Round,71257,1895,1.0
+10851,Second Qualifying Round,71257,1895,3.0
+10852,Second Round Proper,71257,1895,7.0
+10854,Third Qualifying Round,71257,1895,4.0
+10847,First Qualifying Round,71257,1895,2.0
+10853,Semi-Final,71257,1895,9.0
+10860,Preliminary Round,71258,1896,1.0
+10857,First Qualifying Round,71258,1896,2.0
+10858,First Round Proper,71258,1896,6.0
+10861,Second Qualifying Round,71258,1896,3.0
+10862,Second Round Proper,71258,1896,7.0
+10863,Semi-Final,71258,1896,9.0
+10865,Third Round Proper,71258,1896,8.0
+10859,Fourth Qualifying Round,71258,1896,5.0
+10864,Third Qualifying Round,71258,1896,4.0
+10876,Third Round Proper,71259,1897,9.0
+10873,Second Round Proper,71259,1897,8.0
+10874,Semi-Final,71259,1897,10.0
+10869,First Round Proper,71259,1897,7.0
+10870,Fourth Qualifying Round,71259,1897,5.0
+10868,First Qualifying Round,71259,1897,2.0
+10871,Preliminary Round,71259,1897,1.0
+10866,Fifth Qualifying Round,71259,1897,6.0
+10872,Second Qualifying Round,71259,1897,3.0
+10875,Third Qualifying Round,71259,1897,4.0
+10879,First Qualifying Round,71260,1898,2.0
+10881,Fourth Qualifying Round,71260,1898,5.0
+10884,Second Round Proper,71260,1898,8.0
+10880,First Round Proper,71260,1898,7.0
+10877,Fifth Qualifying Round,71260,1898,6.0
+10885,Semi-Final,71260,1898,10.0
+10883,Second Qualifying Round,71260,1898,3.0
+10886,Third Qualifying Round,71260,1898,4.0
+10887,Third Round Proper,71260,1898,9.0
+10882,Preliminary Round,71260,1898,1.0
+10897,Third Qualifying Round,71261,1899,4.0
+10888,Fifth Qualifying Round,71261,1899,6.0
+10891,First Round Proper,71261,1899,7.0
+10893,Preliminary Round,71261,1899,1.0
+10894,Second Qualifying Round,71261,1899,3.0
+10890,First Qualifying Round,71261,1899,2.0
+10896,Semi-Final,71261,1899,10.0
+10892,Fourth Qualifying Round,71261,1899,5.0
+10895,Second Round Proper,71261,1899,8.0
+10898,Third Round Proper,71261,1899,9.0
+10899,Fifth Qualifying Round,71262,1900,6.0
+10903,Fourth Qualifying Round,71262,1900,5.0
+10906,Second Round Proper,71262,1900,8.0
+10904,Preliminary Round,71262,1900,1.0
+10909,Third Round Proper,71262,1900,9.0
+10902,First Round Proper,71262,1900,7.0
+10908,Third Qualifying Round,71262,1900,4.0
+10907,Semi-Final,71262,1900,10.0
+10905,Second Qualifying Round,71262,1900,3.0
+10901,First Qualifying Round,71262,1900,2.0
+10916,Preliminary Round,71263,1901,1.0
+10915,Intermediate Round,71263,1901,7.0
+10911,Final,71263,1901,12.0
+10910,Fifth Qualifying Round,71263,1901,6.0
+10913,First Round Proper,71263,1901,8.0
+10917,Second Qualifying Round,71263,1901,3.0
+10920,Third Qualifying Round,71263,1901,4.0
+10912,First Qualifying Round,71263,1901,2.0
+10919,Semi-Final,71263,1901,11.0
+10921,Third Round Proper,71263,1901,10.0
+10914,Fourth Qualifying Round,71263,1901,5.0
+10918,Second Round Proper,71263,1901,9.0
+10929,Second Qualifying Round,71264,1902,3.0
+10924,First Qualifying Round,71264,1902,2.0
+10927,Intermediate Round,71264,1902,7.0
+10926,Fourth Qualifying Round,71264,1902,5.0
+10925,First Round Proper,71264,1902,8.0
+10928,Preliminary Round,71264,1902,1.0
+10933,Third Round Proper,71264,1902,10.0
+10923,Final,71264,1902,12.0
+10930,Second Round Proper,71264,1902,9.0
+10931,Semi-Final,71264,1902,11.0
+10922,Fifth Qualifying Round,71264,1902,6.0
+10932,Third Qualifying Round,71264,1902,4.0
+10945,Third Round Proper,71265,1903,10.0
+10939,Intermediate Round,71265,1903,7.0
+10937,First Round Proper,71265,1903,8.0
+10943,Semi-Final,71265,1903,11.0
+10941,Second Qualifying Round,71265,1903,3.0
+10938,Fourth Qualifying Round,71265,1903,5.0
+10934,Fifth Qualifying Round,71265,1903,6.0
+10942,Second Round Proper,71265,1903,9.0
+10936,First Qualifying Round,71265,1903,2.0
+10944,Third Qualifying Round,71265,1903,4.0
+10940,Preliminary Round,71265,1903,1.0
+10949,First Qualifying Round,71266,1904,3.0
+10955,Second Round Proper,71266,1904,10.0
+10947,Fifth Qualifying Round,71266,1904,7.0
+10950,First Round Proper,71266,1904,9.0
+10957,Third Qualifying Round,71266,1904,5.0
+10946,Extra Preliminary Round,71266,1904,1.0
+10958,Third Round Proper,71266,1904,11.0
+10956,Semi-Final,71266,1904,12.0
+10953,Preliminary Round,71266,1904,2.0
+10954,Second Qualifying Round,71266,1904,4.0
+10952,Intermediate Round,71266,1904,8.0
+10951,Fourth Qualifying Round,71266,1904,6.0
+10959,Extra Preliminary Round,71267,1905,1.0
+10960,Fifth Qualifying Round,71267,1905,7.0
+10967,Second Qualifying Round,71267,1905,4.0
+10969,Semi-Final,71267,1905,13.0
+10970,Sixth Qualifying Round,71267,1905,9.0
+10962,First Qualifying Round,71267,1905,3.0
+10971,Third Qualifying Round,71267,1905,5.0
+10966,Preliminary Round,71267,1905,2.0
+10965,Intermediate Round,71267,1905,8.0
+10972,Third Round Proper,71267,1905,12.0
+10968,Second Round Proper,71267,1905,11.0
+10964,Fourth Qualifying Round,71267,1905,6.0
+10963,First Round Proper,71267,1905,10.0
+10979,Second Qualifying Round,71268,1906,3.0
+10974,First Qualifying Round,71268,1906,2.0
+10976,Fourth Qualifying Round,71268,1906,5.0
+10978,Preliminary Round,71268,1906,1.0
+10980,Second Round Proper,71268,1906,7.0
+10982,Third Qualifying Round,71268,1906,4.0
+10977,Fourth Round Proper,71268,1906,9.0
+10983,Third Round Proper,71268,1906,8.0
+10981,Semi-Final,71268,1906,10.0
+10975,First Round Proper,71268,1906,6.0
+10995,Third Round Proper,71269,1907,9.0
+10991,Second Qualifying Round,71269,1907,3.0
+10989,Fourth Round Proper,71269,1907,10.0
+10994,Third Qualifying Round,71269,1907,4.0
+10984,Fifth Qualifying Round,71269,1907,6.0
+10987,First Round Proper,71269,1907,7.0
+10990,Preliminary Round,71269,1907,1.0
+10993,Semi-Final,71269,1907,11.0
+10988,Fourth Qualifying Round,71269,1907,5.0
+10992,Second Round Proper,71269,1907,8.0
+10986,First Qualifying Round,71269,1907,2.0
+11005,Semi-Final,71270,1908,11.0
+11003,Second Qualifying Round,71270,1908,3.0
+11007,Third Round Proper,71270,1908,9.0
+11006,Third Qualifying Round,71270,1908,4.0
+11000,Fourth Qualifying Round,71270,1908,5.0
+11001,Fourth Round Proper,71270,1908,10.0
+10999,First Round Proper,71270,1908,7.0
+10998,First Qualifying Round,71270,1908,2.0
+11004,Second Round Proper,71270,1908,8.0
+11002,Preliminary Round,71270,1908,1.0
+10996,Fifth Qualifying Round,71270,1908,6.0
+11018,Semi-Final,71271,1909,12.0
+11014,Fourth Round Proper,71271,1909,11.0
+11015,Preliminary Round,71271,1909,2.0
+11016,Second Qualifying Round,71271,1909,4.0
+11012,First Round Proper,71271,1909,8.0
+11020,Third Round Proper,71271,1909,10.0
+11013,Fourth Qualifying Round,71271,1909,6.0
+11009,Fifth Qualifying Round,71271,1909,7.0
+11008,Extra Preliminary Round,71271,1909,1.0
+11011,First Qualifying Round,71271,1909,3.0
+11019,Third Qualifying Round,71271,1909,5.0
+11017,Second Round Proper,71271,1909,9.0
+11028,Preliminary Round,71272,1910,2.0
+11033,Third Round Proper,71272,1910,10.0
+11022,Fifth Qualifying Round,71272,1910,7.0
+11031,Semi-Final,71272,1910,12.0
+11029,Second Qualifying Round,71272,1910,4.0
+11030,Second Round Proper,71272,1910,9.0
+11024,First Qualifying Round,71272,1910,3.0
+11027,Fourth Round Proper,71272,1910,11.0
+11021,Extra Preliminary Round,71272,1910,1.0
+11032,Third Qualifying Round,71272,1910,5.0
+11025,First Round Proper,71272,1910,8.0
+11023,Final,71272,1910,13.0
+11026,Fourth Qualifying Round,71272,1910,6.0
+11034,Extra Preliminary Round,71273,1911,1.0
+11040,Fourth Round Proper,71273,1911,11.0
+11043,Second Round Proper,71273,1911,9.0
+11044,Semi-Final,71273,1911,12.0
+11037,First Qualifying Round,71273,1911,3.0
+11039,Fourth Qualifying Round,71273,1911,6.0
+11041,Preliminary Round,71273,1911,2.0
+11045,Third Qualifying Round,71273,1911,5.0
+11038,First Round Proper,71273,1911,8.0
+11046,Third Round Proper,71273,1911,10.0
+11035,Fifth Qualifying Round,71273,1911,7.0
+11036,Final,71273,1911,13.0
+11042,Second Qualifying Round,71273,1911,4.0
+11049,Final,71274,1912,13.0
+11056,Second Round Proper,71274,1912,9.0
+11050,First Qualifying Round,71274,1912,3.0
+11047,Extra Preliminary Round,71274,1912,1.0
+11057,Semi-Final,71274,1912,12.0
+11054,Preliminary Round,71274,1912,2.0
+11052,Fourth Qualifying Round,71274,1912,6.0
+11055,Second Qualifying Round,71274,1912,4.0
+11053,Fourth Round Proper,71274,1912,11.0
+11058,Third Qualifying Round,71274,1912,5.0
+11048,Fifth Qualifying Round,71274,1912,7.0
+11051,First Round Proper,71274,1912,8.0
+11059,Third Round Proper,71274,1912,10.0
+11063,First Qualifying Round,71275,1913,3.0
+11071,Third Qualifying Round,71275,1913,5.0
+11060,Extra Preliminary Round,71275,1913,1.0
+11072,Third Round Proper,71275,1913,10.0
+11064,First Round Proper,71275,1913,8.0
+11069,Second Round Proper,71275,1913,9.0
+11068,Second Qualifying Round,71275,1913,4.0
+11070,Semi-Final,71275,1913,12.0
+11065,Fourth Qualifying Round,71275,1913,6.0
+11066,Fourth Round Proper,71275,1913,11.0
+11061,Fifth Qualifying Round,71275,1913,7.0
+11067,Preliminary Round,71275,1913,2.0
+11078,Fourth Qualifying Round,71276,1914,6.0
+11079,Fourth Round Proper,71276,1914,11.0
+11073,Extra Preliminary Round,71276,1914,1.0
+11074,Fifth Qualifying Round,71276,1914,7.0
+11085,Third Round Proper,71276,1914,10.0
+11080,Preliminary Round,71276,1914,2.0
+11082,Second Round Proper,71276,1914,9.0
+11083,Semi-Final,71276,1914,12.0
+11076,First Qualifying Round,71276,1914,3.0
+11081,Second Qualifying Round,71276,1914,4.0
+11084,Third Qualifying Round,71276,1914,5.0
+11077,First Round Proper,71276,1914,8.0
+11095,Second Round Proper,71277,1915,10.0
+11091,Fourth Qualifying Round,71277,1915,6.0
+11096,Semi-Final,71277,1915,13.0
+11089,First Qualifying Round,71277,1915,3.0
+11086,Extra Preliminary Round,71277,1915,1.0
+11090,First Round Proper,71277,1915,9.0
+11092,Fourth Round Proper,71277,1915,12.0
+11094,Second Qualifying Round,71277,1915,4.0
+11097,Sixth Qualifying Round,71277,1915,8.0
+11099,Third Round Proper,71277,1915,11.0
+11093,Preliminary Round,71277,1915,2.0
+11087,Fifth Qualifying Round,71277,1915,7.0
+11098,Third Qualifying Round,71277,1915,5.0
+11112,Third Qualifying Round,71278,1920,5.0
+11113,Third Round Proper,71278,1920,11.0
+11111,Sixth Qualifying Round,71278,1920,8.0
+11101,Fifth Qualifying Round,71278,1920,7.0
+11110,Semi-Final,71278,1920,13.0
+11100,Extra Preliminary Round,71278,1920,1.0
+11106,Fourth Round Proper,71278,1920,12.0
+11104,First Round Proper,71278,1920,9.0
+11109,Second Round Proper,71278,1920,10.0
+11103,First Qualifying Round,71278,1920,3.0
+11105,Fourth Qualifying Round,71278,1920,6.0
+11107,Preliminary Round,71278,1920,2.0
+11108,Second Qualifying Round,71278,1920,4.0
+11114,Extra Preliminary Round,71279,1921,1.0
+11123,Second Round Proper,71279,1921,10.0
+11124,Semi-Final,71279,1921,13.0
+11120,Fourth Round Proper,71279,1921,12.0
+11127,Third Round Proper,71279,1921,11.0
+11117,First Qualifying Round,71279,1921,3.0
+11125,Sixth Qualifying Round,71279,1921,8.0
+11119,Fourth Qualifying Round,71279,1921,6.0
+11115,Fifth Qualifying Round,71279,1921,7.0
+11122,Second Qualifying Round,71279,1921,4.0
+11118,First Round Proper,71279,1921,9.0
+11126,Third Qualifying Round,71279,1921,5.0
+11121,Preliminary Round,71279,1921,2.0
+11131,First Qualifying Round,71280,1922,3.0
+11140,Third Qualifying Round,71280,1922,5.0
+11132,First Round Proper,71280,1922,9.0
+11136,Second Qualifying Round,71280,1922,4.0
+11129,Fifth Qualifying Round,71280,1922,7.0
+11133,Fourth Qualifying Round,71280,1922,6.0
+11138,Semi-Final,71280,1922,13.0
+11135,Preliminary Round,71280,1922,2.0
+11139,Sixth Qualifying Round,71280,1922,8.0
+11141,Third Round Proper,71280,1922,11.0
+11134,Fourth Round Proper,71280,1922,12.0
+11137,Second Round Proper,71280,1922,10.0
+11128,Extra Preliminary Round,71280,1922,1.0
+11151,Second Round Proper,71281,1923,10.0
+11145,First Qualifying Round,71281,1923,3.0
+11150,Second Qualifying Round,71281,1923,4.0
+11155,Third Round Proper,71281,1923,11.0
+11146,First Round Proper,71281,1923,9.0
+11143,Fifth Qualifying Round,71281,1923,7.0
+11153,Sixth Qualifying Round,71281,1923,8.0
+11149,Preliminary Round,71281,1923,2.0
+11142,Extra Preliminary Round,71281,1923,1.0
+11154,Third Qualifying Round,71281,1923,5.0
+11147,Fourth Qualifying Round,71281,1923,6.0
+11152,Semi-Final,71281,1923,13.0
+11148,Fourth Round Proper,71281,1923,12.0
+11169,Third Round Proper,71282,1924,11.0
+11157,Fifth Qualifying Round,71282,1924,7.0
+11166,Semi-Final,71282,1924,13.0
+11167,Sixth Qualifying Round,71282,1924,8.0
+11156,Extra Preliminary Round,71282,1924,1.0
+11159,First Qualifying Round,71282,1924,3.0
+11168,Third Qualifying Round,71282,1924,5.0
+11162,Fourth Round Proper,71282,1924,12.0
+11163,Preliminary Round,71282,1924,2.0
+11164,Second Qualifying Round,71282,1924,4.0
+11160,First Round Proper,71282,1924,9.0
+11161,Fourth Qualifying Round,71282,1924,6.0
+11165,Second Round Proper,71282,1924,10.0
+11179,Second Round Proper,71283,1925,10.0
+11181,Sixth Qualifying Round,71283,1925,8.0
+11175,Fourth Qualifying Round,71283,1925,6.0
+11182,Third Qualifying Round,71283,1925,5.0
+11176,Fourth Round Proper,71283,1925,12.0
+11183,Third Round Proper,71283,1925,11.0
+11178,Second Qualifying Round,71283,1925,4.0
+11180,Semi-Final,71283,1925,13.0
+11177,Preliminary Round,71283,1925,2.0
+11170,Extra Preliminary Round,71283,1925,1.0
+11171,Fifth Qualifying Round,71283,1925,7.0
+11173,First Qualifying Round,71283,1925,3.0
+11174,First Round Proper,71283,1925,9.0
+11192,Second Qualifying Round,71284,1926,4.0
+11195,Sixth Round Proper,71284,1926,12.0
+11196,Third Qualifying Round,71284,1926,5.0
+11197,Third Round Proper,71284,1926,9.0
+11191,Preliminary Round,71284,1926,2.0
+11188,First Round Proper,71284,1926,7.0
+11190,Fourth Round Proper,71284,1926,10.0
+11189,Fourth Qualifying Round,71284,1926,6.0
+11184,Extra Preliminary Round,71284,1926,1.0
+11193,Second Round Proper,71284,1926,8.0
+11185,Fifth Round Proper,71284,1926,11.0
+11194,Semi-Final,71284,1926,13.0
+11187,First Qualifying Round,71284,1926,3.0
+11201,First Qualifying Round,71285,1927,3.0
+11202,First Round Proper,71285,1927,7.0
+11205,Preliminary Round,71285,1927,2.0
+11208,Semi-Final,71285,1927,13.0
+11199,Fifth Round Proper,71285,1927,11.0
+11211,Third Round Proper,71285,1927,9.0
+11207,Second Round Proper,71285,1927,8.0
+11204,Fourth Round Proper,71285,1927,10.0
+11210,Third Qualifying Round,71285,1927,5.0
+11203,Fourth Qualifying Round,71285,1927,6.0
+11206,Second Qualifying Round,71285,1927,4.0
+11209,Sixth Round Proper,71285,1927,12.0
+11198,Extra Preliminary Round,71285,1927,1.0
+11222,Semi-Final,71286,1928,13.0
+11212,Extra Preliminary Round,71286,1928,1.0
+11219,Preliminary Round,71286,1928,2.0
+11217,Fourth Qualifying Round,71286,1928,6.0
+11225,Third Round Proper,71286,1928,9.0
+11220,Second Qualifying Round,71286,1928,4.0
+11218,Fourth Round Proper,71286,1928,10.0
+11223,Sixth Round Proper,71286,1928,12.0
+11213,Fifth Round Proper,71286,1928,11.0
+11216,First Round Proper,71286,1928,7.0
+11221,Second Round Proper,71286,1928,8.0
+11215,First Qualifying Round,71286,1928,3.0
+11224,Third Qualifying Round,71286,1928,5.0
+11231,Fourth Qualifying Round,71287,1929,6.0
+11235,Second Round Proper,71287,1929,8.0
+11232,Fourth Round Proper,71287,1929,10.0
+11237,Sixth Round Proper,71287,1929,12.0
+11234,Second Qualifying Round,71287,1929,4.0
+11226,Extra Preliminary Round,71287,1929,1.0
+11239,Third Round Proper,71287,1929,9.0
+11230,First Round Proper,71287,1929,7.0
+11229,First Qualifying Round,71287,1929,3.0
+11227,Fifth Round Proper,71287,1929,11.0
+11238,Third Qualifying Round,71287,1929,5.0
+11236,Semi-Final,71287,1929,13.0
+11233,Preliminary Round,71287,1929,2.0
+11252,Third Qualifying Round,71288,1930,5.0
+11251,Sixth Round Proper,71288,1930,12.0
+11248,Second Qualifying Round,71288,1930,4.0
+11249,Second Round Proper,71288,1930,8.0
+11244,First Round Proper,71288,1930,7.0
+11253,Third Round Proper,71288,1930,9.0
+11245,Fourth Qualifying Round,71288,1930,6.0
+11243,First Qualifying Round,71288,1930,3.0
+11250,Semi-Final,71288,1930,13.0
+11241,Fifth Round Proper,71288,1930,11.0
+11240,Extra Preliminary Round,71288,1930,1.0
+11247,Preliminary Round,71288,1930,2.0
+11246,Fourth Round Proper,71288,1930,10.0
+11263,Second Round Proper,71289,1931,8.0
+11260,Fourth Round Proper,71289,1931,10.0
+11255,Fifth Round Proper,71289,1931,11.0
+11261,Preliminary Round,71289,1931,2.0
+11262,Second Qualifying Round,71289,1931,4.0
+11266,Third Qualifying Round,71289,1931,5.0
+11264,Semi-Final,71289,1931,13.0
+11257,First Qualifying Round,71289,1931,3.0
+11254,Extra Preliminary Round,71289,1931,1.0
+11267,Third Round Proper,71289,1931,9.0
+11259,Fourth Qualifying Round,71289,1931,6.0
+11265,Sixth Round Proper,71289,1931,12.0
+11258,First Round Proper,71289,1931,7.0
+11277,Second Round Proper,71290,1932,8.0
+11269,Fifth Round Proper,71290,1932,11.0
+11281,Third Round Proper,71290,1932,9.0
+11275,Preliminary Round,71290,1932,2.0
+11268,Extra Preliminary Round,71290,1932,1.0
+11271,First Qualifying Round,71290,1932,3.0
+11280,Third Qualifying Round,71290,1932,5.0
+11276,Second Qualifying Round,71290,1932,4.0
+11279,Sixth Round Proper,71290,1932,12.0
+11278,Semi-Final,71290,1932,13.0
+11273,Fourth Qualifying Round,71290,1932,6.0
+11272,First Round Proper,71290,1932,7.0
+11274,Fourth Round Proper,71290,1932,10.0
+11286,First Round Proper,71291,1933,7.0
+11289,Preliminary Round,71291,1933,2.0
+11294,Third Qualifying Round,71291,1933,5.0
+11293,Sixth Round Proper,71291,1933,12.0
+11291,Second Round Proper,71291,1933,8.0
+11285,First Qualifying Round,71291,1933,3.0
+11292,Semi-Final,71291,1933,13.0
+11290,Second Qualifying Round,71291,1933,4.0
+11295,Third Round Proper,71291,1933,9.0
+11282,Extra Preliminary Round,71291,1933,1.0
+11288,Fourth Round Proper,71291,1933,10.0
+11287,Fourth Qualifying Round,71291,1933,6.0
+11283,Fifth Round Proper,71291,1933,11.0
+11304,Second Qualifying Round,71292,1934,4.0
+11297,Fifth Round Proper,71292,1934,11.0
+11305,Second Round Proper,71292,1934,8.0
+11300,First Round Proper,71292,1934,7.0
+11302,Fourth Round Proper,71292,1934,10.0
+11307,Sixth Round Proper,71292,1934,12.0
+11299,First Qualifying Round,71292,1934,3.0
+11306,Semi-Final,71292,1934,13.0
+11301,Fourth Qualifying Round,71292,1934,6.0
+11309,Third Round Proper,71292,1934,9.0
+11303,Preliminary Round,71292,1934,2.0
+11308,Third Qualifying Round,71292,1934,5.0
+11296,Extra Preliminary Round,71292,1934,1.0
+11322,Third Qualifying Round,71293,1935,5.0
+11315,Fourth Qualifying Round,71293,1935,6.0
+11311,Fifth Round Proper,71293,1935,11.0
+11318,Second Qualifying Round,71293,1935,4.0
+11320,Semi-Final,71293,1935,13.0
+11317,Preliminary Round,71293,1935,2.0
+11310,Extra Preliminary Round,71293,1935,1.0
+11323,Third Round Proper,71293,1935,9.0
+11319,Second Round Proper,71293,1935,8.0
+11314,First Round Proper,71293,1935,7.0
+11313,First Qualifying Round,71293,1935,3.0
+11316,Fourth Round Proper,71293,1935,10.0
+11321,Sixth Round Proper,71293,1935,12.0
+11328,First Round Proper,71294,1936,7.0
+11333,Second Round Proper,71294,1936,8.0
+11335,Sixth Round Proper,71294,1936,12.0
+11325,Fifth Round Proper,71294,1936,11.0
+11331,Preliminary Round,71294,1936,2.0
+11330,Fourth Round Proper,71294,1936,10.0
+11332,Second Qualifying Round,71294,1936,4.0
+11327,First Qualifying Round,71294,1936,3.0
+11337,Third Round Proper,71294,1936,9.0
+11329,Fourth Qualifying Round,71294,1936,6.0
+11334,Semi-Final,71294,1936,13.0
+11336,Third Qualifying Round,71294,1936,5.0
+11324,Extra Preliminary Round,71294,1936,1.0
+11344,Fourth Round Proper,71295,1937,10.0
+11339,Fifth Round Proper,71295,1937,11.0
+11341,First Qualifying Round,71295,1937,3.0
+11346,Second Qualifying Round,71295,1937,4.0
+11342,First Round Proper,71295,1937,7.0
+11347,Second Round Proper,71295,1937,8.0
+11351,Third Round Proper,71295,1937,9.0
+11349,Sixth Round Proper,71295,1937,12.0
+11345,Preliminary Round,71295,1937,2.0
+11343,Fourth Qualifying Round,71295,1937,6.0
+11348,Semi-Final,71295,1937,13.0
+11350,Third Qualifying Round,71295,1937,5.0
+11338,Extra Preliminary Round,71295,1937,1.0
+11365,Third Round Proper,71296,1938,9.0
+11362,Semi-Final,71296,1938,13.0
+11358,Fourth Round Proper,71296,1938,10.0
+11363,Sixth Round Proper,71296,1938,12.0
+11364,Third Qualifying Round,71296,1938,5.0
+11356,First Round Proper,71296,1938,7.0
+11360,Second Qualifying Round,71296,1938,4.0
+11357,Fourth Qualifying Round,71296,1938,6.0
+11359,Preliminary Round,71296,1938,2.0
+11355,First Qualifying Round,71296,1938,3.0
+11352,Extra Preliminary Round,71296,1938,1.0
+11353,Fifth Round Proper,71296,1938,11.0
+11361,Second Round Proper,71296,1938,8.0
+11378,Third Qualifying Round,71297,1939,5.0
+11374,Second Qualifying Round,71297,1939,4.0
+11373,Preliminary Round,71297,1939,2.0
+11370,First Round Proper,71297,1939,7.0
+11367,Fifth Round Proper,71297,1939,11.0
+11376,Semi-Final,71297,1939,13.0
+11369,First Qualifying Round,71297,1939,3.0
+11379,Third Round Proper,71297,1939,9.0
+11377,Sixth Round Proper,71297,1939,12.0
+11372,Fourth Round Proper,71297,1939,10.0
+11371,Fourth Qualifying Round,71297,1939,6.0
+11366,Extra Preliminary Round,71297,1939,1.0
+11375,Second Round Proper,71297,1939,8.0
+11384,First Qualifying Round,71299,1946,3.0
+11387,Fourth Round Proper,71299,1946,10.0
+11388,Preliminary Round,71299,1946,2.0
+11394,Third Round Proper,71299,1946,9.0
+11391,Semi-Final,71299,1946,13.0
+11385,First Round Proper,71299,1946,7.0
+11382,Fifth Round Proper,71299,1946,11.0
+11381,Extra Preliminary Round,71299,1946,1.0
+11392,Sixth Round Proper,71299,1946,12.0
+11393,Third Qualifying Round,71299,1946,5.0
+11390,Second Round Proper,71299,1946,8.0
+11386,Fourth Qualifying Round,71299,1946,6.0
+11389,Second Qualifying Round,71299,1946,4.0
+11399,First Round Proper,71300,1947,7.0
+11403,Second Qualifying Round,71300,1947,4.0
+11395,Extra Preliminary Round,71300,1947,1.0
+11402,Preliminary Round,71300,1947,2.0
+11396,Fifth Round Proper,71300,1947,11.0
+11398,First Qualifying Round,71300,1947,3.0
+11407,Third Qualifying Round,71300,1947,5.0
+11408,Third Round Proper,71300,1947,9.0
+11405,Semi-Final,71300,1947,13.0
+11400,Fourth Qualifying Round,71300,1947,6.0
+11406,Sixth Round Proper,71300,1947,12.0
+11404,Second Round Proper,71300,1947,8.0
+11401,Fourth Round Proper,71300,1947,10.0
+11418,Second Round Proper,71301,1948,8.0
+11421,Third Qualifying Round,71301,1948,5.0
+11414,Fourth Qualifying Round,71301,1948,6.0
+11417,Second Qualifying Round,71301,1948,4.0
+11412,First Qualifying Round,71301,1948,3.0
+11413,First Round Proper,71301,1948,7.0
+11419,Semi-Final,71301,1948,13.0
+11416,Preliminary Round,71301,1948,2.0
+11410,Fifth Round Proper,71301,1948,11.0
+11415,Fourth Round Proper,71301,1948,10.0
+11422,Third Round Proper,71301,1948,9.0
+11420,Sixth Round Proper,71301,1948,12.0
+11409,Extra Preliminary Round,71301,1948,1.0
+11423,Extra Preliminary Round,71302,1949,1.0
+11436,Third Round Proper,71302,1949,9.0
+11433,Semi-Final,71302,1949,13.0
+11432,Second Round Proper,71302,1949,8.0
+11426,First Qualifying Round,71302,1949,3.0
+11431,Second Qualifying Round,71302,1949,4.0
+11428,Fourth Qualifying Round,71302,1949,6.0
+11435,Third Qualifying Round,71302,1949,5.0
+11430,Preliminary Round,71302,1949,2.0
+11427,First Round Proper,71302,1949,7.0
+11434,Sixth Round Proper,71302,1949,12.0
+11424,Fifth Round Proper,71302,1949,11.0
+11429,Fourth Round Proper,71302,1949,10.0
+11437,Extra Preliminary Round,71303,1950,1.0
+11441,First Round Proper,71303,1950,7.0
+11449,Third Qualifying Round,71303,1950,5.0
+11447,Semi-Final,71303,1950,13.0
+11442,Fourth Qualifying Round,71303,1950,6.0
+11446,Second Round Proper,71303,1950,8.0
+11448,Sixth Round Proper,71303,1950,12.0
+11450,Third Round Proper,71303,1950,9.0
+11443,Fourth Round Proper,71303,1950,10.0
+11444,Preliminary Round,71303,1950,2.0
+11440,First Qualifying Round,71303,1950,3.0
+11438,Fifth Round Proper,71303,1950,11.0
+11445,Second Qualifying Round,71303,1950,4.0
+11456,Fourth Qualifying Round,71304,1951,6.0
+11459,Second Qualifying Round,71304,1951,4.0
+11461,Semi-Final,71304,1951,13.0
+11457,Fourth Round Proper,71304,1951,10.0
+11463,Third Qualifying Round,71304,1951,5.0
+11451,Extra Preliminary Round,71304,1951,1.0
+11452,Fifth Round Proper,71304,1951,11.0
+11454,First Qualifying Round,71304,1951,3.0
+11462,Sixth Round Proper,71304,1951,12.0
+11464,Third Round Proper,71304,1951,9.0
+11458,Preliminary Round,71304,1951,2.0
+11455,First Round Proper,71304,1951,7.0
+11460,Second Round Proper,71304,1951,8.0
+11475,Sixth Round Proper,71305,1952,11.0
+11474,Semi-Final,71305,1952,12.0
+11468,First Round Proper,71305,1952,6.0
+11465,Fifth Round Proper,71305,1952,10.0
+11469,Fourth Qualifying Round,71305,1952,5.0
+11470,Fourth Round Proper,71305,1952,9.0
+11477,Third Round Proper,71305,1952,8.0
+11476,Third Qualifying Round,71305,1952,4.0
+11467,First Qualifying Round,71305,1952,2.0
+11473,Second Round Proper,71305,1952,7.0
+11471,Preliminary Round,71305,1952,1.0
+11472,Second Qualifying Round,71305,1952,3.0
+11484,Preliminary Round,71306,1953,1.0
+11490,Third Round Proper,71306,1953,8.0
+11486,Second Round Proper,71306,1953,7.0
+11489,Third Qualifying Round,71306,1953,4.0
+11481,First Round Proper,71306,1953,6.0
+11480,First Qualifying Round,71306,1953,2.0
+11488,Sixth Round Proper,71306,1953,11.0
+11485,Second Qualifying Round,71306,1953,3.0
+11478,Fifth Round Proper,71306,1953,10.0
+11487,Semi-Final,71306,1953,12.0
+11482,Fourth Qualifying Round,71306,1953,5.0
+11483,Fourth Round Proper,71306,1953,9.0
+11494,First Round Proper,71307,1954,6.0
+11501,Sixth Round Proper,71307,1954,11.0
+11498,Second Qualifying Round,71307,1954,3.0
+11493,First Qualifying Round,71307,1954,2.0
+11499,Second Round Proper,71307,1954,7.0
+11500,Semi-Final,71307,1954,12.0
+11503,Third Round Proper,71307,1954,8.0
+11495,Fourth Qualifying Round,71307,1954,5.0
+11497,Preliminary Round,71307,1954,1.0
+11502,Third Qualifying Round,71307,1954,4.0
+11491,Fifth Round Proper,71307,1954,10.0
+11496,Fourth Round Proper,71307,1954,9.0
+11508,Fourth Qualifying Round,71308,1955,5.0
+11507,First Round Proper,71308,1955,6.0
+11512,Second Round Proper,71308,1955,7.0
+11516,Third Round Proper,71308,1955,8.0
+11504,Fifth Round Proper,71308,1955,10.0
+11510,Preliminary Round,71308,1955,1.0
+11515,Third Qualifying Round,71308,1955,4.0
+11511,Second Qualifying Round,71308,1955,3.0
+11514,Sixth Round Proper,71308,1955,11.0
+11509,Fourth Round Proper,71308,1955,9.0
+11506,First Qualifying Round,71308,1955,2.0
+11513,Semi-Final,71308,1955,12.0
+11522,Fourth Round Proper,71309,1956,9.0
+11517,Fifth Round Proper,71309,1956,10.0
+11524,Second Qualifying Round,71309,1956,3.0
+11521,Fourth Qualifying Round,71309,1956,5.0
+11520,First Round Proper,71309,1956,6.0
+11523,Preliminary Round,71309,1956,1.0
+11526,Semi-Final,71309,1956,12.0
+11527,Sixth Round Proper,71309,1956,11.0
+11528,Third Qualifying Round,71309,1956,4.0
+11529,Third Round Proper,71309,1956,8.0
+11519,First Qualifying Round,71309,1956,2.0
+11525,Second Round Proper,71309,1956,7.0
+11540,Sixth Round Proper,71310,1957,11.0
+11534,Fourth Qualifying Round,71310,1957,5.0
+11533,First Round Proper,71310,1957,6.0
+11535,Fourth Round Proper,71310,1957,9.0
+11539,Semi-Final,71310,1957,12.0
+11538,Second Round Proper,71310,1957,7.0
+11537,Second Qualifying Round,71310,1957,3.0
+11536,Preliminary Round,71310,1957,1.0
+11530,Fifth Round Proper,71310,1957,10.0
+11542,Third Round Proper,71310,1957,8.0
+11532,First Qualifying Round,71310,1957,2.0
+11541,Third Qualifying Round,71310,1957,4.0
+11546,First Round Proper,71311,1958,6.0
+11545,First Qualifying Round,71311,1958,2.0
+11548,Fourth Round Proper,71311,1958,9.0
+11543,Fifth Round Proper,71311,1958,10.0
+11550,Second Qualifying Round,71311,1958,3.0
+11547,Fourth Qualifying Round,71311,1958,5.0
+11554,Third Qualifying Round,71311,1958,4.0
+11551,Second Round Proper,71311,1958,7.0
+11553,Sixth Round Proper,71311,1958,11.0
+11552,Semi-Final,71311,1958,12.0
+11555,Third Round Proper,71311,1958,8.0
+11549,Preliminary Round,71311,1958,1.0
+11566,Sixth Round Proper,71312,1959,11.0
+11561,Fourth Round Proper,71312,1959,9.0
+11558,First Qualifying Round,71312,1959,2.0
+11560,Fourth Qualifying Round,71312,1959,5.0
+11559,First Round Proper,71312,1959,6.0
+11568,Third Round Proper,71312,1959,8.0
+11567,Third Qualifying Round,71312,1959,4.0
+11564,Second Round Proper,71312,1959,7.0
+11562,Preliminary Round,71312,1959,1.0
+11556,Fifth Round Proper,71312,1959,10.0
+11565,Semi-Final,71312,1959,12.0
+11563,Second Qualifying Round,71312,1959,3.0
+11576,Second Qualifying Round,71313,1960,3.0
+11581,Third Round Proper,71313,1960,8.0
+11569,Fifth Round Proper,71313,1960,10.0
+11572,First Round Proper,71313,1960,6.0
+11574,Fourth Round Proper,71313,1960,9.0
+11579,Sixth Round Proper,71313,1960,11.0
+11578,Semi-Final,71313,1960,12.0
+11577,Second Round Proper,71313,1960,7.0
+11571,First Qualifying Round,71313,1960,2.0
+11575,Preliminary Round,71313,1960,1.0
+11580,Third Qualifying Round,71313,1960,4.0
+11573,Fourth Qualifying Round,71313,1960,5.0
+11585,First Round Proper,71314,1961,6.0
+11582,Fifth Round Proper,71314,1961,10.0
+11592,Sixth Round Proper,71314,1961,11.0
+11594,Third Round Proper,71314,1961,8.0
+11587,Fourth Round Proper,71314,1961,9.0
+11591,Semi-Final,71314,1961,12.0
+11588,Preliminary Round,71314,1961,1.0
+11590,Second Round Proper,71314,1961,7.0
+11584,First Qualifying Round,71314,1961,2.0
+11586,Fourth Qualifying Round,71314,1961,5.0
+11593,Third Qualifying Round,71314,1961,4.0
+11589,Second Qualifying Round,71314,1961,3.0
+11605,Sixth Round Proper,71315,1962,11.0
+11599,Fourth Qualifying Round,71315,1962,5.0
+11607,Third Round Proper,71315,1962,8.0
+11595,Fifth Round Proper,71315,1962,10.0
+11601,Preliminary Round,71315,1962,1.0
+11603,Second Round Proper,71315,1962,7.0
+11600,Fourth Round Proper,71315,1962,9.0
+11602,Second Qualifying Round,71315,1962,3.0
+11598,First Round Proper,71315,1962,6.0
+11604,Semi-Final,71315,1962,12.0
+11597,First Qualifying Round,71315,1962,2.0
+11606,Third Qualifying Round,71315,1962,4.0
+11615,Second Round Proper,71316,1963,6.0
+11614,Second Qualifying Round,71316,1963,2.0
+11611,First Round Proper,71316,1963,5.0
+11612,Fourth Qualifying Round,71316,1963,4.0
+11617,Sixth Round Proper,71316,1963,10.0
+11619,Third Round Proper,71316,1963,7.0
+11613,Fourth Round Proper,71316,1963,8.0
+11616,Semi-Final,71316,1963,11.0
+11608,Fifth Round Proper,71316,1963,9.0
+11618,Third Qualifying Round,71316,1963,3.0
+11610,First Qualifying Round,71316,1963,1.0
+11622,First Qualifying Round,71317,1964,1.0
+11631,Third Round Proper,71317,1964,7.0
+11629,Sixth Round Proper,71317,1964,10.0
+11630,Third Qualifying Round,71317,1964,3.0
+11620,Fifth Round Proper,71317,1964,9.0
+11625,Fourth Round Proper,71317,1964,8.0
+11624,Fourth Qualifying Round,71317,1964,4.0
+11628,Semi-Final,71317,1964,11.0
+11627,Second Round Proper,71317,1964,6.0
+11626,Second Qualifying Round,71317,1964,2.0
+11623,First Round Proper,71317,1964,5.0
+11639,Second Round Proper,71318,1965,6.0
+11636,Fourth Qualifying Round,71318,1965,4.0
+11635,First Round Proper,71318,1965,5.0
+11643,Third Round Proper,71318,1965,7.0
+11637,Fourth Round Proper,71318,1965,8.0
+11634,First Qualifying Round,71318,1965,1.0
+11640,Semi-Final,71318,1965,11.0
+11632,Fifth Round Proper,71318,1965,9.0
+11641,Sixth Round Proper,71318,1965,10.0
+11638,Second Qualifying Round,71318,1965,2.0
+11642,Third Qualifying Round,71318,1965,3.0
+11651,Second Round Proper,71319,1966,6.0
+11647,First Round Proper,71319,1966,5.0
+11654,Third Qualifying Round,71319,1966,3.0
+11646,First Qualifying Round,71319,1966,1.0
+11655,Third Round Proper,71319,1966,7.0
+11648,Fourth Qualifying Round,71319,1966,4.0
+11649,Fourth Round Proper,71319,1966,8.0
+11644,Fifth Round Proper,71319,1966,9.0
+11650,Second Qualifying Round,71319,1966,2.0
+11653,Sixth Round Proper,71319,1966,10.0
+11652,Semi-Final,71319,1966,11.0
+11665,Sixth Round Proper,71320,1967,10.0
+11662,Second Qualifying Round,71320,1967,2.0
+11666,Third Qualifying Round,71320,1967,3.0
+11658,First Qualifying Round,71320,1967,1.0
+11667,Third Round Proper,71320,1967,7.0
+11664,Semi-Final,71320,1967,11.0
+11660,Fourth Qualifying Round,71320,1967,4.0
+11661,Fourth Round Proper,71320,1967,8.0
+11659,First Round Proper,71320,1967,5.0
+11656,Fifth Round Proper,71320,1967,9.0
+11663,Second Round Proper,71320,1967,6.0
+11680,Third Round Proper,71321,1968,8.0
+11677,Semi-Final,71321,1968,12.0
+11678,Sixth Round Proper,71321,1968,11.0
+11673,Fourth Round Proper,71321,1968,9.0
+11676,Second Round Proper,71321,1968,7.0
+11670,First Qualifying Round,71321,1968,2.0
+11668,Fifth Round Proper,71321,1968,10.0
+11672,Fourth Qualifying Round,71321,1968,5.0
+11679,Third Qualifying Round,71321,1968,4.0
+11674,Preliminary Round,71321,1968,1.0
+11675,Second Qualifying Round,71321,1968,3.0
+11671,First Round Proper,71321,1968,6.0
+11685,Fourth Qualifying Round,71322,1969,5.0
+11683,First Qualifying Round,71322,1969,2.0
+11688,Second Qualifying Round,71322,1969,3.0
+11687,Preliminary Round,71322,1969,1.0
+11691,Sixth Round Proper,71322,1969,11.0
+11686,Fourth Round Proper,71322,1969,9.0
+11690,Semi-Final,71322,1969,12.0
+11692,Third Qualifying Round,71322,1969,4.0
+11681,Fifth Round Proper,71322,1969,10.0
+11693,Third Round Proper,71322,1969,8.0
+11689,Second Round Proper,71322,1969,7.0
+11684,First Round Proper,71322,1969,6.0
+11695,Final,71323,1970,13.0
+11702,Second Round Proper,71323,1970,7.0
+11701,Second Qualifying Round,71323,1970,3.0
+11694,Fifth Round Proper,71323,1970,10.0
+11696,First Qualifying Round,71323,1970,2.0
+11704,Sixth Round Proper,71323,1970,11.0
+11700,Preliminary Round,71323,1970,1.0
+11703,Semi-Final,71323,1970,12.0
+11697,First Round Proper,71323,1970,6.0
+11705,Third Qualifying Round,71323,1970,4.0
+11706,Third Round Proper,71323,1970,8.0
+11698,Fourth Qualifying Round,71323,1970,5.0
+11699,Fourth Round Proper,71323,1970,9.0
+11717,Sixth Round Proper,71324,1971,11.0
+11713,Preliminary Round,71324,1971,1.0
+11718,Third Qualifying Round,71324,1971,4.0
+11716,Semi-Final,71324,1971,12.0
+11719,Third Round Proper,71324,1971,8.0
+11715,Second Round Proper,71324,1971,7.0
+11709,First Qualifying Round,71324,1971,2.0
+11707,Fifth Round Proper,71324,1971,10.0
+11712,Fourth Round Proper,71324,1971,9.0
+11714,Second Qualifying Round,71324,1971,3.0
+11711,Fourth Qualifying Round,71324,1971,5.0
+11710,First Round Proper,71324,1971,6.0
+11732,Third Round Proper,71325,1972,8.0
+11729,Semi-Final,71325,1972,12.0
+11724,Fourth Qualifying Round,71325,1972,5.0
+11731,Third Qualifying Round,71325,1972,4.0
+11720,Fifth Round Proper,71325,1972,10.0
+11725,Fourth Round Proper,71325,1972,9.0
+11727,Second Qualifying Round,71325,1972,3.0
+11726,Preliminary Round,71325,1972,1.0
+11728,Second Round Proper,71325,1972,7.0
+11723,First Round Proper,71325,1972,6.0
+11730,Sixth Round Proper,71325,1972,11.0
+11722,First Qualifying Round,71325,1972,2.0
+11743,Sixth Round Proper,71326,1973,11.0
+11741,Second Round Proper,71326,1973,7.0
+11742,Semi-Final,71326,1973,12.0
+11738,Fourth Round Proper,71326,1973,9.0
+11735,First Qualifying Round,71326,1973,2.0
+11733,Fifth Round Proper,71326,1973,10.0
+11740,Second Qualifying Round,71326,1973,3.0
+11737,Fourth Qualifying Round,71326,1973,5.0
+11739,Preliminary Round,71326,1973,1.0
+11736,First Round Proper,71326,1973,6.0
+11745,Third Round Proper,71326,1973,8.0
+11744,Third Qualifying Round,71326,1973,4.0
+11750,Fourth Qualifying Round,71327,1974,5.0
+11754,Second Round Proper,71327,1974,7.0
+11752,Preliminary Round,71327,1974,1.0
+11756,Sixth Round Proper,71327,1974,11.0
+11751,Fourth Round Proper,71327,1974,9.0
+11757,Third Qualifying Round,71327,1974,4.0
+11746,Fifth Round Proper,71327,1974,10.0
+11753,Second Qualifying Round,71327,1974,3.0
+11749,First Round Proper,71327,1974,6.0
+11755,Semi-Final,71327,1974,12.0
+11758,Third Round Proper,71327,1974,8.0
+11748,First Qualifying Round,71327,1974,2.0
+11768,Semi-Final,71328,1975,12.0
+11763,Fourth Qualifying Round,71328,1975,5.0
+11761,First Qualifying Round,71328,1975,2.0
+11759,Fifth Round Proper,71328,1975,10.0
+11765,Preliminary Round,71328,1975,1.0
+11767,Second Round Proper,71328,1975,7.0
+11764,Fourth Round Proper,71328,1975,9.0
+11769,Sixth Round Proper,71328,1975,11.0
+11770,Third Qualifying Round,71328,1975,4.0
+11766,Second Qualifying Round,71328,1975,3.0
+11771,Third Round Proper,71328,1975,8.0
+11762,First Round Proper,71328,1975,6.0
+11772,Fifth Round Proper,71329,1976,10.0
+11780,Second Round Proper,71329,1976,7.0
+11774,First Qualifying Round,71329,1976,2.0
+11783,Third Qualifying Round,71329,1976,4.0
+11784,Third Round Proper,71329,1976,8.0
+11777,Fourth Round Proper,71329,1976,9.0
+11781,Semi-Final,71329,1976,12.0
+11779,Second Qualifying Round,71329,1976,3.0
+11778,Preliminary Round,71329,1976,1.0
+11782,Sixth Round Proper,71329,1976,11.0
+11775,First Round Proper,71329,1976,6.0
+11776,Fourth Qualifying Round,71329,1976,5.0
+11794,Semi-Final,71330,1977,12.0
+11785,Fifth Round Proper,71330,1977,10.0
+11787,First Qualifying Round,71330,1977,2.0
+11789,Fourth Qualifying Round,71330,1977,5.0
+11788,First Round Proper,71330,1977,6.0
+11795,Sixth Round Proper,71330,1977,11.0
+11796,Third Qualifying Round,71330,1977,4.0
+11797,Third Round Proper,71330,1977,8.0
+11791,Preliminary Round,71330,1977,1.0
+11790,Fourth Round Proper,71330,1977,9.0
+11793,Second Round Proper,71330,1977,7.0
+11792,Second Qualifying Round,71330,1977,3.0
+11800,First Qualifying Round,71331,1978,2.0
+11798,Fifth Round Proper,71331,1978,10.0
+11803,Fourth Round Proper,71331,1978,9.0
+11802,Fourth Qualifying Round,71331,1978,5.0
+11801,First Round Proper,71331,1978,6.0
+11806,Second Round Proper,71331,1978,7.0
+11810,Third Round Proper,71331,1978,8.0
+11805,Second Qualifying Round,71331,1978,3.0
+11808,Sixth Round Proper,71331,1978,11.0
+11804,Preliminary Round,71331,1978,1.0
+11807,Semi-Final,71331,1978,12.0
+11809,Third Qualifying Round,71331,1978,4.0
+11816,Fourth Round Proper,71332,1979,9.0
+11821,Sixth Round Proper,71332,1979,11.0
+11822,Third Qualifying Round,71332,1979,4.0
+11815,Fourth Qualifying Round,71332,1979,5.0
+11813,First Qualifying Round,71332,1979,2.0
+11818,Second Qualifying Round,71332,1979,3.0
+11819,Second Round Proper,71332,1979,7.0
+11811,Fifth Round Proper,71332,1979,10.0
+11820,Semi-Final,71332,1979,12.0
+11817,Preliminary Round,71332,1979,1.0
+11823,Third Round Proper,71332,1979,8.0
+11814,First Round Proper,71332,1979,6.0
+11830,Preliminary Round,71333,1980,1.0
+11828,Fourth Qualifying Round,71333,1980,5.0
+11832,Second Round Proper,71333,1980,7.0
+11829,Fourth Round Proper,71333,1980,9.0
+11827,First Round Proper,71333,1980,6.0
+11835,Third Qualifying Round,71333,1980,4.0
+11831,Second Qualifying Round,71333,1980,3.0
+11834,Sixth Round Proper,71333,1980,11.0
+11824,Fifth Round Proper,71333,1980,10.0
+11826,First Qualifying Round,71333,1980,2.0
+11836,Third Round Proper,71333,1980,8.0
+11833,Semi-Final,71333,1980,12.0
+11845,Second Round Proper,71334,1981,7.0
+11838,Final,71334,1981,13.0
+11847,Sixth Round Proper,71334,1981,11.0
+11848,Third Qualifying Round,71334,1981,4.0
+11839,First Qualifying Round,71334,1981,2.0
+11846,Semi-Final,71334,1981,12.0
+11842,Fourth Round Proper,71334,1981,9.0
+11837,Fifth Round Proper,71334,1981,10.0
+11843,Preliminary Round,71334,1981,1.0
+11844,Second Qualifying Round,71334,1981,3.0
+11841,Fourth Qualifying Round,71334,1981,5.0
+11849,Third Round Proper,71334,1981,8.0
+11840,First Round Proper,71334,1981,6.0
+11861,Third Qualifying Round,71335,1982,4.0
+11860,Sixth Round Proper,71335,1982,11.0
+11862,Third Round Proper,71335,1982,8.0
+11850,Fifth Round Proper,71335,1982,10.0
+11852,First Qualifying Round,71335,1982,2.0
+11859,Semi-Final,71335,1982,12.0
+11855,Fourth Round Proper,71335,1982,9.0
+11857,Second Qualifying Round,71335,1982,3.0
+11853,First Round Proper,71335,1982,6.0
+11851,Final,71335,1982,13.0
+11858,Second Round Proper,71335,1982,7.0
+11854,Fourth Qualifying Round,71335,1982,5.0
+11856,Preliminary Round,71335,1982,1.0
+11868,Fourth Round Proper,71336,1983,9.0
+11869,Preliminary Round,71336,1983,1.0
+11864,Final,71336,1983,13.0
+11874,Third Qualifying Round,71336,1983,4.0
+11865,First Qualifying Round,71336,1983,2.0
+11866,First Round Proper,71336,1983,6.0
+11871,Second Round Proper,71336,1983,7.0
+11873,Sixth Round Proper,71336,1983,11.0
+11870,Second Qualifying Round,71336,1983,3.0
+11875,Third Round Proper,71336,1983,8.0
+11863,Fifth Round Proper,71336,1983,10.0
+11872,Semi-Final,71336,1983,12.0
+11867,Fourth Qualifying Round,71336,1983,5.0
+11886,Sixth Round Proper,71337,1984,11.0
+11881,Fourth Round Proper,71337,1984,9.0
+11878,First Qualifying Round,71337,1984,2.0
+11885,Semi-Final,71337,1984,12.0
+11876,Fifth Round Proper,71337,1984,10.0
+11887,Third Qualifying Round,71337,1984,4.0
+11882,Preliminary Round,71337,1984,1.0
+11888,Third Round Proper,71337,1984,8.0
+11884,Second Round Proper,71337,1984,7.0
+11880,Fourth Qualifying Round,71337,1984,5.0
+11879,First Round Proper,71337,1984,6.0
+11883,Second Qualifying Round,71337,1984,3.0
+11901,Third Round Proper,71338,1985,8.0
+11894,Fourth Round Proper,71338,1985,9.0
+11892,First Round Proper,71338,1985,6.0
+11900,Third Qualifying Round,71338,1985,4.0
+11889,Fifth Round Proper,71338,1985,10.0
+11891,First Qualifying Round,71338,1985,2.0
+11896,Second Qualifying Round,71338,1985,3.0
+11895,Preliminary Round,71338,1985,1.0
+11893,Fourth Qualifying Round,71338,1985,5.0
+11898,Semi-Final,71338,1985,12.0
+11897,Second Round Proper,71338,1985,7.0
+11899,Sixth Round Proper,71338,1985,11.0
+11910,Second Round Proper,71339,1986,7.0
+11905,First Round Proper,71339,1986,6.0
+11914,Third Round Proper,71339,1986,8.0
+11904,First Qualifying Round,71339,1986,2.0
+11908,Preliminary Round,71339,1986,1.0
+11911,Semi-Final,71339,1986,12.0
+11909,Second Qualifying Round,71339,1986,3.0
+11907,Fourth Round Proper,71339,1986,9.0
+11906,Fourth Qualifying Round,71339,1986,5.0
+11912,Sixth Round Proper,71339,1986,11.0
+11913,Third Qualifying Round,71339,1986,4.0
+11902,Fifth Round Proper,71339,1986,10.0
+11917,First Qualifying Round,71340,1987,2.0
+11927,Third Round Proper,71340,1987,8.0
+11922,Second Qualifying Round,71340,1987,3.0
+11924,Semi-Final,71340,1987,12.0
+11923,Second Round Proper,71340,1987,7.0
+11919,Fourth Qualifying Round,71340,1987,5.0
+11925,Sixth Round Proper,71340,1987,11.0
+11920,Fourth Round Proper,71340,1987,9.0
+11926,Third Qualifying Round,71340,1987,4.0
+11921,Preliminary Round,71340,1987,1.0
+11918,First Round Proper,71340,1987,6.0
+11915,Fifth Round Proper,71340,1987,10.0
+11934,Preliminary Round,71341,1988,1.0
+11935,Second Qualifying Round,71341,1988,3.0
+11939,Third Qualifying Round,71341,1988,4.0
+11932,Fourth Qualifying Round,71341,1988,5.0
+11936,Second Round Proper,71341,1988,7.0
+11938,Sixth Round Proper,71341,1988,11.0
+11930,First Qualifying Round,71341,1988,2.0
+11931,First Round Proper,71341,1988,6.0
+11937,Semi-Final,71341,1988,12.0
+11933,Fourth Round Proper,71341,1988,9.0
+11928,Fifth Round Proper,71341,1988,10.0
+11940,Third Round Proper,71341,1988,8.0
+11949,Second Round Proper,71342,1989,7.0
+11950,Semi-Final,71342,1989,12.0
+11946,Fourth Round Proper,71342,1989,9.0
+11952,Third Qualifying Round,71342,1989,4.0
+11943,First Qualifying Round,71342,1989,2.0
+11941,Fifth Round Proper,71342,1989,10.0
+11944,First Round Proper,71342,1989,6.0
+11953,Third Round Proper,71342,1989,8.0
+11948,Second Qualifying Round,71342,1989,3.0
+11951,Sixth Round Proper,71342,1989,11.0
+11945,Fourth Qualifying Round,71342,1989,5.0
+11947,Preliminary Round,71342,1989,1.0
+11955,Final,71343,1990,13.0
+11959,Fourth Round Proper,71343,1990,9.0
+11954,Fifth Round Proper,71343,1990,10.0
+11963,Semi-Final,71343,1990,12.0
+11957,First Round Proper,71343,1990,6.0
+11962,Second Round Proper,71343,1990,7.0
+11960,Preliminary Round,71343,1990,1.0
+11965,Third Qualifying Round,71343,1990,4.0
+11956,First Qualifying Round,71343,1990,2.0
+11964,Sixth Round Proper,71343,1990,11.0
+11966,Third Round Proper,71343,1990,8.0
+11958,Fourth Qualifying Round,71343,1990,5.0
+11961,Second Qualifying Round,71343,1990,3.0
+11975,Second Round Proper,71344,1991,7.0
+11979,Third Round Proper,71344,1991,8.0
+11973,Preliminary Round,71344,1991,1.0
+11976,Semi-Final,71344,1991,12.0
+11971,Fourth Qualifying Round,71344,1991,5.0
+11970,First Round Proper,71344,1991,6.0
+11978,Third Qualifying Round,71344,1991,4.0
+11972,Fourth Round Proper,71344,1991,9.0
+11974,Second Qualifying Round,71344,1991,3.0
+11967,Fifth Round Proper,71344,1991,10.0
+11969,First Qualifying Round,71344,1991,2.0
+11977,Sixth Round Proper,71344,1991,11.0
+11981,Fourth Round Proper,71040,1992,9.0
+11982,Second Round Proper,71040,1992,7.0
+9182,Third Qualifying Round,71040,1992,4.0
+9183,Fourth Qualifying Round,71040,1992,5.0
+11980,Fifth Round Proper,71040,1992,10.0
+9193,Semi-Final,71040,1992,12.0
+11983,Sixth Round Proper,71040,1992,11.0
+9179,Preliminary Round,71040,1992,1.0
+9180,First Qualifying Round,71040,1992,2.0
+9184,First Round Proper,71040,1992,6.0
+9181,Second Qualifying Round,71040,1992,3.0
+11984,Third Round Proper,71040,1992,8.0
+9245,Second Qualifying Round,71041,1993,3.0
+9244,First Qualifying Round,71041,1993,2.0
+9255,Fifth Round Proper,71041,1993,10.0
+9257,Semi-Final,71041,1993,12.0
+9254,Fourth Round Proper,71041,1993,9.0
+9246,Third Qualifying Round,71041,1993,4.0
+9256,Sixth Round Proper,71041,1993,11.0
+9250,Second Round Proper,71041,1993,7.0
+9247,Fourth Qualifying Round,71041,1993,5.0
+9243,Preliminary Round,71041,1993,1.0
+9248,First Round Proper,71041,1993,6.0
+9258,Final,71041,1993,13.0
+9252,Third Round Proper,71041,1993,8.0
+9310,Fourth Qualifying Round,71042,1994,5.0
+9311,First Round Proper,71042,1994,6.0
+11989,Third Round Proper,71042,1994,8.0
+11986,Fourth Round Proper,71042,1994,9.0
+9306,Preliminary Round,71042,1994,1.0
+9309,Third Qualifying Round,71042,1994,4.0
+11985,Fifth Round Proper,71042,1994,10.0
+9317,Semi-Final,71042,1994,12.0
+9308,Second Qualifying Round,71042,1994,3.0
+11988,Sixth Round Proper,71042,1994,11.0
+9307,First Qualifying Round,71042,1994,2.0
+11987,Second Round Proper,71042,1994,7.0
+9375,First Qualifying Round,71043,1995,2.0
+9384,Sixth Round Proper,71043,1995,11.0
+9381,Third Round Proper,71043,1995,8.0
+9385,Semi-Final,71043,1995,12.0
+9383,Fifth Round Proper,71043,1995,10.0
+9378,Fourth Qualifying Round,71043,1995,5.0
+9377,Third Qualifying Round,71043,1995,4.0
+9380,Second Round Proper,71043,1995,7.0
+9382,Fourth Round Proper,71043,1995,9.0
+9376,Second Qualifying Round,71043,1995,3.0
+9379,First Round Proper,71043,1995,6.0
+9374,Preliminary Round,71043,1995,1.0
+9454,Semi-Final,71044,1996,12.0
+9453,Sixth Round Proper,71044,1996,11.0
+9447,Fourth Qualifying Round,71044,1996,5.0
+9450,Third Round Proper,71044,1996,8.0
+9444,First Qualifying Round,71044,1996,2.0
+9449,Second Round Proper,71044,1996,7.0
+9451,Fourth Round Proper,71044,1996,9.0
+9448,First Round Proper,71044,1996,6.0
+9445,Second Qualifying Round,71044,1996,3.0
+9446,Third Qualifying Round,71044,1996,4.0
+9443,Preliminary Round,71044,1996,1.0
+9452,Fifth Round Proper,71044,1996,10.0
+9518,Second Round Proper,71045,1997,7.0
+9515,Third Qualifying Round,71045,1997,4.0
+9516,Fourth Qualifying Round,71045,1997,5.0
+9512,Preliminary Round,71045,1997,1.0
+9519,Third Round Proper,71045,1997,8.0
+9517,First Round Proper,71045,1997,6.0
+9521,Fifth Round Proper,71045,1997,10.0
+9513,First Qualifying Round,71045,1997,2.0
+9522,Sixth Round Proper,71045,1997,11.0
+9514,Second Qualifying Round,71045,1997,3.0
+9520,Fourth Round Proper,71045,1997,9.0
+9523,Semi-Final,71045,1997,12.0
+9591,Sixth Round Proper,71046,1998,11.0
+9581,Preliminary Round,71046,1998,1.0
+9587,Second Round Proper,71046,1998,7.0
+9584,Third Qualifying Round,71046,1998,4.0
+9590,Fifth Round Proper,71046,1998,10.0
+9589,Fourth Round Proper,71046,1998,9.0
+9588,Third Round Proper,71046,1998,8.0
+9583,Second Qualifying Round,71046,1998,3.0
+9592,Semi-Final,71046,1998,12.0
+9582,First Qualifying Round,71046,1998,2.0
+9585,Fourth Qualifying Round,71046,1998,5.0
+9586,First Round Proper,71046,1998,6.0
+9658,Fifth Round Proper,71047,1999,10.0
+9649,Preliminary Round,71047,1999,1.0
+9660,Semi-Final,71047,1999,12.0
+9651,Second Qualifying Round,71047,1999,3.0
+9652,Third Qualifying Round,71047,1999,4.0
+9654,First Round Proper,71047,1999,6.0
+9657,Fourth Round Proper,71047,1999,9.0
+9655,Second Round Proper,71047,1999,7.0
+9656,Third Round Proper,71047,1999,8.0
+9650,First Qualifying Round,71047,1999,2.0
+9659,Sixth Round Proper,71047,1999,11.0
+9653,Fourth Qualifying Round,71047,1999,5.0
+9726,Fifth Round Proper,71048,2000,10.0
+9727,Sixth Round Proper,71048,2000,11.0
+9725,Fourth Round Proper,71048,2000,9.0
+9721,Fourth Qualifying Round,71048,2000,5.0
+9719,Second Qualifying Round,71048,2000,3.0
+9718,First Qualifying Round,71048,2000,2.0
+9724,Third Round Proper,71048,2000,8.0
+9720,Third Qualifying Round,71048,2000,4.0
+9728,Semi-Final,71048,2000,12.0
+9723,Second Round Proper,71048,2000,7.0
+9717,Preliminary Round,71048,2000,1.0
+9722,First Round Proper,71048,2000,6.0
+9796,Fifth Round Proper,71049,2001,11.0
+9793,Second Round Proper,71049,2001,8.0
+9795,Fourth Round Proper,71049,2001,10.0
+9797,Sixth Round Proper,71049,2001,12.0
+9791,Fourth Qualifying Round,71049,2001,6.0
+9788,First Qualifying Round,71049,2001,3.0
+9787,Preliminary Round,71049,2001,2.0
+9789,Second Qualifying Round,71049,2001,4.0
+9798,Semi-Final,71049,2001,13.0
+9786,Extra Preliminary Round,71049,2001,1.0
+9790,Third Qualifying Round,71049,2001,5.0
+9792,First Round Proper,71049,2001,7.0
+9794,Third Round Proper,71049,2001,9.0
+9862,First Round Proper,71050,2002,7.0
+9857,Preliminary Round,71050,2002,2.0
+9868,Semi-Final,71050,2002,13.0
+9864,Third Round Proper,71050,2002,9.0
+9866,Fifth Round Proper,71050,2002,11.0
+9859,Second Qualifying Round,71050,2002,4.0
+9863,Second Round Proper,71050,2002,8.0
+9861,Fourth Qualifying Round,71050,2002,6.0
+9865,Fourth Round Proper,71050,2002,10.0
+9860,Third Qualifying Round,71050,2002,5.0
+9867,Sixth Round Proper,71050,2002,12.0
+9858,First Qualifying Round,71050,2002,3.0
+9856,Extra Preliminary Round,71050,2002,1.0
+9931,Fourth Qualifying Round,71051,2003,6.0
+9932,First Round Proper,71051,2003,7.0
+9927,Preliminary Round,71051,2003,2.0
+9930,Third Qualifying Round,71051,2003,5.0
+9928,First Qualifying Round,71051,2003,3.0
+9935,Fourth Round Proper,71051,2003,10.0
+9937,Sixth Round Proper,71051,2003,12.0
+9936,Fifth Round Proper,71051,2003,11.0
+9933,Second Round Proper,71051,2003,8.0
+9926,Extra Preliminary Round,71051,2003,1.0
+9929,Second Qualifying Round,71051,2003,4.0
+9934,Third Round Proper,71051,2003,9.0
+9938,Semi-Final,71051,2003,13.0
+10007,Fifth Round Proper,71052,2004,11.0
+9997,Extra Preliminary Round,71052,2004,1.0
+10002,Fourth Qualifying Round,71052,2004,6.0
+10005,Third Round Proper,71052,2004,9.0
+10001,Third Qualifying Round,71052,2004,5.0
+10006,Fourth Round Proper,71052,2004,10.0
+10009,Semi-Final,71052,2004,13.0
+9998,Preliminary Round,71052,2004,2.0
+9999,First Qualifying Round,71052,2004,3.0
+10004,Second Round Proper,71052,2004,8.0
+10008,Sixth Round Proper,71052,2004,12.0
+10003,First Round Proper,71052,2004,7.0
+10000,Second Qualifying Round,71052,2004,4.0
+10069,Extra Preliminary Round,71053,2005,1.0
+10077,Third Round Proper,71053,2005,9.0
+10078,Fourth Round Proper,71053,2005,10.0
+10074,Fourth Qualifying Round,71053,2005,6.0
+10079,Fifth Round Proper,71053,2005,11.0
+10080,Sixth Round Proper,71053,2005,12.0
+10070,Preliminary Round,71053,2005,2.0
+10073,Third Qualifying Round,71053,2005,5.0
+10072,Second Qualifying Round,71053,2005,4.0
+10081,Semi-Final,71053,2005,13.0
+10075,First Round Proper,71053,2005,7.0
+10076,Second Round Proper,71053,2005,8.0
+10071,First Qualifying Round,71053,2005,3.0
+10146,Fourth Qualifying Round,71054,2006,6.0
+10149,Third Round Proper,71054,2006,9.0
+10152,Sixth Round Proper,71054,2006,12.0
+10151,Fifth Round Proper,71054,2006,11.0
+10144,Second Qualifying Round,71054,2006,4.0
+10141,Extra Preliminary Round,71054,2006,1.0
+10148,Second Round Proper,71054,2006,8.0
+10150,Fourth Round Proper,71054,2006,10.0
+10147,First Round Proper,71054,2006,7.0
+10145,Third Qualifying Round,71054,2006,5.0
+10153,Semi-Final,71054,2006,13.0
+10142,Preliminary Round,71054,2006,2.0
+10143,First Qualifying Round,71054,2006,3.0
+10607,Third Qualifying Round,71226,2007,5.0
+10604,Preliminary Round,71226,2007,2.0
+10603,Extra Preliminary Round,71226,2007,1.0
+10611,Third Round Proper,71226,2007,9.0
+10612,Fourth Round Proper,71226,2007,10.0
+10610,Second Round Proper,71226,2007,8.0
+10605,First Qualifying Round,71226,2007,3.0
+10615,Semi-Final,71226,2007,13.0
+10608,Fourth Qualifying Round,71226,2007,6.0
+10613,Fifth Round Proper,71226,2007,11.0
+10609,First Round Proper,71226,2007,7.0
+10606,Second Qualifying Round,71226,2007,4.0
+10614,Sixth Round Proper,71226,2007,12.0
+12075,Fourth Round Proper,75152,2008,10.0
+12066,Extra Preliminary Round,75152,2008,1.0
+12078,Semi Final,75152,2008,13.0
+12072,First Round Proper,75152,2008,7.0
+12076,Fifth Round Proper,75152,2008,11.0
+12069,Second Round Qualifying,75152,2008,4.0
+12067,Preliminary Round,75152,2008,2.0
+12070,Third Round Qualifying,75152,2008,5.0
+12071,Fourth Round Qualifying,75152,2008,6.0
+12068,First Round Qualifying,75152,2008,3.0
+12074,Third Round Proper,75152,2008,9.0
+12077,Sixth Round Proper,75152,2008,12.0
+12073,Second Round Proper,75152,2008,8.0
+12151,First Round Qualifying,75388,2009,3.0
+12155,First Round Proper,75388,2009,7.0
+12161,Semi Final,75388,2009,13.0
+12150,Preliminary Round,75388,2009,2.0
+12157,Third Round Proper,75388,2009,9.0
+12153,Third Round Qualifying,75388,2009,5.0
+12154,Fourth Round Qualifying,75388,2009,6.0
+12152,Second Round Qualifying,75388,2009,4.0
+12160,Sixth Round Proper,75388,2009,12.0
+12158,Fourth Round Proper,75388,2009,10.0
+12149,Extra Preliminary Round,75388,2009,1.0
+12159,Fifth Round Proper,75388,2009,11.0
+12156,Second Round Proper,75388,2009,8.0
+12235,First Round Proper,75425,2010,7.0
+12232,Second Round Qualifying,75425,2010,4.0
+12230,Preliminary Round,75425,2010,2.0
+12236,Second Round Proper,75425,2010,8.0
+12231,First Round Qualifying,75425,2010,3.0
+12234,Fourth Round Qualifying,75425,2010,6.0
+12237,Third Round Proper,75425,2010,9.0
+12238,Fourth Round Proper,75425,2010,10.0
+12233,Third Round Qualifying,75425,2010,5.0
+12239,Fifth Round Proper,75425,2010,11.0
+12240,Sixth Round Proper,75425,2010,12.0
+12229,Extra Preliminary Round,75425,2010,1.0
+12241,Semi Final,75425,2010,13.0
+12497,First Round Proper,75592,2011,7.0
+12492,Preliminary Round,75592,2011,2.0
+12494,Second Round Qualifying,75592,2011,4.0
+12491,Extra Preliminary Round,75592,2011,1.0
+12499,Third Round Proper,75592,2011,9.0
+12503,Semi Final,75592,2011,13.0
+12493,First Round Qualifying,75592,2011,3.0
+12500,Fourth Round Proper,75592,2011,10.0
+12496,Fourth Round Qualifying,75592,2011,6.0
+12501,Fifth Round Proper,75592,2011,11.0
+12495,Third Round Qualifying,75592,2011,5.0
+12502,Sixth Round Proper,75592,2011,12.0
+12498,Second Round Proper,75592,2011,8.0
+12580,Third Round Proper,75670,2012,9.0
+12576,Third Round Qualifying,75670,2012,5.0
+12578,First Round Proper,75670,2012,7.0
+12574,First Round Qualifying,75670,2012,3.0
+12583,Sixth Round Proper,75670,2012,12.0
+12577,Fourth Round Qualifying,75670,2012,6.0
+12582,Fifth Round Proper,75670,2012,11.0
+12575,Second Round Qualifying,75670,2012,4.0
+12573,Preliminary Round,75670,2012,2.0
+12579,Second Round Proper,75670,2012,8.0
+12572,Extra Preliminary Round,75670,2012,1.0
+12581,Fourth Round Proper,75670,2012,10.0
+12584,Semi Final,75670,2012,13.0
+12657,Second Round Qualifying,75721,2013,4.0
+12656,First Round Qualifying,75721,2013,3.0
+12665,Sixth Round Proper,75721,2013,12.0
+12654,Extra Preliminary Round,75721,2013,1.0
+12661,Second Round Proper,75721,2013,8.0
+12658,Third Round Qualifying,75721,2013,5.0
+12655,Preliminary Round,75721,2013,2.0
+12663,Fourth Round Proper,75721,2013,10.0
+12659,Fourth Round Qualifying,75721,2013,6.0
+12660,First Round Proper,75721,2013,7.0
+12664,Fifth Round Proper,75721,2013,11.0
+12666,Semi Final,75721,2013,13.0
+12662,Third Round Proper,75721,2013,9.0
+12739,Second Round Qualifying,75769,2014,4.0
+12747,Sixth Round Proper,75769,2014,12.0
+12738,First Round Qualifying,75769,2014,3.0
+12742,First Round Proper,75769,2014,7.0
+12745,Fourth Round Proper,75769,2014,10.0
+12737,Preliminary Round,75769,2014,2.0
+12740,Third Round Qualifying,75769,2014,5.0
+12748,Semi Final,75769,2014,13.0
+12746,Fifth Round Proper,75769,2014,11.0
+12743,Second Round Proper,75769,2014,8.0
+12744,Third Round Proper,75769,2014,9.0
+12736,Extra Preliminary Round,75769,2014,1.0
+12741,Fourth Round Qualifying,75769,2014,6.0
+12823,First Round Proper,75823,2015,7.0
+12824,Second Round Proper,75823,2015,8.0
+12818,Preliminary Round,75823,2015,2.0
+12825,Third Round Proper,75823,2015,9.0
+12829,Semi Final,75823,2015,13.0
+12820,Second Round Qualifying,75823,2015,4.0
+12821,Third Round Qualifying,75823,2015,5.0
+12817,Extra Preliminary Round,75823,2015,1.0
+12828,Sixth Round Proper,75823,2015,12.0
+12827,Fifth Round Proper,75823,2015,11.0
+12826,Fourth Round Proper,75823,2015,10.0
+12822,Fourth Round Qualifying,75823,2015,6.0
+12819,First Round Qualifying,75823,2015,3.0
