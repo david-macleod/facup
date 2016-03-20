@@ -90,5 +90,5 @@ class Nlt1(scrapy.Spider):
 			item['year'] = years[yr]
 			yield item
 			
-			#export to nonleague_1_v1.csv
+			#export to nonleague_2012_15.csv
 		

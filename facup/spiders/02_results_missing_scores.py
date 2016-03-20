@@ -7,7 +7,7 @@ from scrapy.loader import ItemLoader
 
 fa_url = 'http://www.thefa.com/api/sitecore/Competitions/PastResultsRoundMatches'
 
-years_csv = pd.read_csv('years_edit.csv')
+years_csv = pd.read_csv(r'C:\Users\David\Python\scrapy\facup\00_fa_cup\years_edit.csv')
 round_ids = years_csv['round_id'].tolist()
 
 class Resultsmiss(scrapy.Spider):

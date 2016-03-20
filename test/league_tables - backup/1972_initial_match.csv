@@ -1,0 +1,331 @@
+,Unnamed: 0,away_score,away_team,date,home_score,home_team,match_id,qualifier,replay,round,round_id,stage,year,year_id,team,home,stage_r,match,score
+37208,37208,1,Alvechurch,18.11.71,0,Oxford City,53860.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,OXFORD CITY,True,6.0,OXFORD CITY,100
+37211,37211,1,Oxford City,15.11.71,1,Alvechurch,53856.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,ALVECHURCH,True,6.0,HORNCHURCH,60
+37212,37212,1,Fareham Town,15.11.71,2,Basingstoke Town,53857.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,BASINGSTOKE TOWN,True,6.0,BASINGSTOKE TOWN ,100
+37213,37213,0,Hendon,10.11.71,2,Barnet,53850.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,BARNET,True,6.0,BARNET,100
+37214,37214,1,Whitley Bay,10.11.71,2,Blyth Spartans,53851.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,BLYTH SPARTANS,True,6.0,BLYTH SPARTANS,100
+37215,37215,2,Hastings United,10.11.71,3,Crawley Town,53852.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,CRAWLEY TOWN,True,6.0,CRAWLEY TOWN,100
+37216,37216,0,Walthamstow Avenue,10.11.71,1,Dover,53853.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,DOVER,True,6.0,DOVER,100
+37217,37217,1,Basingstoke Town,10.11.71,1,Fareham Town,53854.0,True,True,Fourth Qualifying Round,11724.0,5.0,1972,71325,FAREHAM TOWN,True,6.0,FAREHAM TOWN ,100
+37221,37221,1,South Shields (2),06.11.71,0,Bradford Park Avenue,53824.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,BRADFORD PARK AVENUE,True,6.0,BRADFORD (P.A.),86
+37222,37222,0,Yeovil Town,06.11.71,2,Bridgwater Town (1),53825.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,BRIDGWATER TOWN (1),True,6.0,BRIDGWATER TOWN,95
+37223,37223,1,Guildford City,06.11.71,0,Bromley,53826.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,BROMLEY,True,6.0,BROMLEY,100
+37224,37224,3,King's Lynn,06.11.71,1,Bury Town,53827.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,BURY TOWN,True,6.0,BURY TOWN,100
+37225,37225,2,Romford (2),06.11.71,0,Folkestone,53828.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,FOLKESTONE,True,6.0,FOLKESTONE,100
+37226,37226,0,Grantham Town,06.11.71,3,Frickley Colliery,53829.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,FRICKLEY COLLIERY,True,6.0,BEDDESLEY COLLIERY,69
+37227,37227,0,Crawley Town,06.11.71,0,Hastings United,53830.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,HASTINGS UNITED,True,6.0,HASTINGS UNITED,100
+37228,37228,2,Barnet,06.11.71,2,Hendon,53831.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,HENDON,True,6.0,HENDON,100
+37229,37229,0,Cheltenham Town,06.11.71,3,Hereford United,53832.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,HEREFORD UNITED,True,6.0,HEREFORD UNITED,100
+37230,37230,3,Bangor City,06.11.71,1,Hyde United,53833.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,HYDE UNITED,True,6.0,HYDE UNITED,100
+37231,37231,1,Chelmsford City,06.11.71,4,Kettering Town,53834.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,KETTERING TOWN,True,6.0,KETTERING TOWN,100
+37232,37232,2,Ellesmere Port Town,06.11.71,1,Macclesfield Town,53835.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,MACCLESFIELD TOWN,True,6.0,MACCLESFIELD TOWN,100
+37233,37233,1,Walton & Hersham,06.11.71,2,Maidenhead United,53836.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,MAIDENHEAD UNITED,True,6.0,MAIDENHEAD UNITED,100
+37234,37234,0,Wimbledon,06.11.71,1,Margate,53837.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,MARGATE,True,6.0,MARGATE,100
+37235,37235,1,Tamworth,06.11.71,3,Nuneaton Town,53838.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,NUNEATON TOWN,True,6.0,LYE TOWN,86
+37236,37236,3,Altrincham,06.11.71,0,Oswestry Town,53839.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,OSWESTRY TOWN,True,6.0,OSWESTRY TOWN,100
+37237,37237,0,Ton Pentre,06.11.71,3,Redditch United,53840.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,REDDITCH UNITED,True,6.0,REDDITCH UNITED,100
+37238,37238,3,Stafford Rangers,06.11.71,6,Rossendale United,53841.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,ROSSENDALE UNITED,True,6.0,ROSSENDALE UNITED,100
+37239,37239,0,North Shields,06.11.71,1,Scarborough,53842.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,SCARBOROUGH,True,6.0,SCARBOROUGH,100
+37240,37240,1,Witney United,06.11.71,0,Sutton United,53843.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,SUTTON UNITED,True,6.0,SUTTON UNITED,100
+37241,37241,1,Enfield,06.11.71,0,Tilbury,53844.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,TILBURY,True,6.0,TILBURY,100
+37242,37242,0,Dover,06.11.71,0,Walthamstow Avenue,53845.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,WALTHAMSTOW AVENUE,True,6.0,WALTHAMSTOW AVENUE,100
+37243,37243,1,Bideford AFC,06.11.71,3,Weymouth,53846.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,WEYMOUTH,True,6.0,WEYMOUTH,100
+37244,37244,1,Blyth Spartans,06.11.71,1,Whitley Bay,53847.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,WHITLEY BAY,True,6.0,WHITLEY BAY,100
+37245,37245,1,Rhyl,06.11.71,2,Wigan Athletic,53848.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,WIGAN ATHLETIC,True,6.0,WIGAN ATHLETIC,100
+37246,37246,3,Boston United,06.11.71,0,Winterton Rangers,53849.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,WINTERTON RANGERS,True,6.0,WINTERTON RANGERS,100
+37298,37298,2,Hyde United,08.09.71,1,Kirkby Town,53513.0,True,True,Preliminary Round,11726.0,1.0,1972,71325,KIRKBY TOWN,True,2.0,KIRKBY TOWN,100
+37299,37299,1,Hertford Town,08.09.71,2,Leytonstone,53515.0,True,True,Preliminary Round,11726.0,1.0,1972,71325,LEYTONSTONE,True,2.0,LEYTONSTONE,100
+37300,37300,2,Harwich & Parkeston,08.09.71,1,Lowestoft Town,53514.0,True,True,Preliminary Round,11726.0,1.0,1972,71325,LOWESTOFT TOWN,True,2.0,LOWESTOFT TOWN,100
+37301,37301,0,Gosport Borough,08.09.71,4,Newport (IOW),53517.0,True,True,Preliminary Round,11726.0,1.0,1972,71325,NEWPORT (IOW),True,2.0,NEWMARKET TOWN,62
+37302,37302,1,Ramsgate Athletic,08.09.71,0,Sittingbourne,53516.0,True,True,Preliminary Round,11726.0,1.0,1972,71325,SITTINGBOURNE,True,2.0,BURNLEY,69
+37303,37303,1,Bridlington Trinity,04.09.71,2,Bridlington Town,53496.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,BRIDLINGTON TOWN,True,2.0,BRIDLINGTON TOWN,100
+37304,37304,2,Bromsgrove Rovers,04.09.71,0,Brierley Hill Alliance,53494.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,BRIERLEY HILL ALLIANCE,True,2.0,BRIERLEY HILL ALLIANCE,100
+37305,37305,0,Frome Town,04.09.71,1,Chippenham Town,53511.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,CHIPPENHAM TOWN,True,2.0,CHIPPENHAM TOWN,100
+37306,37306,2,Irthlingborough Diamonds,04.09.71,1,Desborough Town,53502.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,DESBOROUGH TOWN,True,2.0,DESBOROUGH TOWN,100
+37307,37307,1,Formby,04.09.71,2,Ellesmere Port Town,53491.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,ELLESMERE PORT TOWN,True,2.0,ELLESMERE PORT TOWN,100
+37309,37309,0,Newport (IOW),04.09.71,0,Gosport Borough,53509.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,GOSPORT BOROUGH,True,2.0,GOSPORT BOROUGH ,100
+37310,37310,2,Lowestoft Town,04.09.71,2,Harwich & Parkeston,53501.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,HARWICH & PARKESTON,True,2.0,HARWICH & PARKESTON,100
+37311,37311,1,Leytonstone,04.09.71,1,Hertford Town,53507.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,HERTFORD TOWN,True,2.0,HERTFORD TOWN,100
+37312,37312,2,Rothwell Town,04.09.71,4,Histon,53499.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,HISTON,True,2.0,HISTON,100
+37313,37313,4,Metropolitan Police,04.09.71,1,Hornchurch,53504.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,HORNCHURCH,True,2.0,HORNCHURCH,100
+37315,37315,3,Staines Town,04.09.71,2,Ilford,53506.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,ILFORD,True,2.0,ILFORD,100
+37316,37316,1,Lye Town,04.09.71,3,Kidderminster Harriers,53495.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,KIDDERMINSTER HARRIERS,True,2.0,KIDDERMINSTER HARRIERS,100
+37317,37317,1,Leighton Town,04.09.71,4,Kingstonian,53503.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,KINGSTONIAN,True,2.0,KINGSTONIAN,100
+37318,37318,3,Merthyr Town,04.09.71,0,Llanelli,53512.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,LLANELLI,True,2.0,BRIERLEY HILL ALLIANCE,68
+37319,37319,1,Lincoln United,04.09.71,0,Louth United,53498.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,LOUTH UNITED,True,2.0,HEMEL HEMPSTEAD UNITED,86
+37320,37320,2,Skegness Town,04.09.71,1,March Town United,53500.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,MARCH TOWN UNITED,True,2.0,MARCH TOWN UNITED,100
+37321,37321,2,Poole Town,04.09.71,1,Minehead,53510.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,MINEHEAD,True,2.0,MINEHEAD,100
+37322,37322,1,Sandbach Ramblers,04.09.71,3,New Mills,53492.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,NEW MILLS,True,2.0,NEW MILLS,100
+37323,37323,1,Sittingbourne,04.09.71,1,Ramsgate Athletic,53508.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,RAMSGATE ATHLETIC,True,2.0,RAMSGATE ATHLETIC,100
+37324,37324,0,St Albans City,04.09.71,3,Romford (2),53505.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,ROMFORD (2),True,2.0,ROMFORD,95
+37328,37328,7,Chichester City,18.10.71,2,Arundel,53774.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,ARUNDEL,True,4.0,ARUNDEL ,100
+37329,37329,1,Southall,18.10.71,2,Aveley,53773.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,AVELEY,True,4.0,AVELEY,100
+37330,37330,0,Worcester City,13.10.71,1,Atherstone Town,53761.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,ATHERSTONE TOWN,True,4.0,ATHERSTONE TOWN,100
+37331,37331,1,Sutton Town AFC,13.10.71,0,Bedworth United,53764.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,BEDWORTH UNITED,True,4.0,BEDWORTH UNITED,100
+37332,37332,1,Arundel,13.10.71,1,Chichester City,53771.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,CHICHESTER CITY,True,4.0,CHICHESTER CITY ,100
+37333,37333,1,Bedlington CW,13.10.71,4,Consett AFC,53758.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,CONSETT AFC,True,4.0,CONSETT,90
+37335,37335,5,Trowbridge Town,13.10.71,0,Glastonbury,53772.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,GLASTONBURY,True,4.0,GLASTONBURY,100
+37336,37336,1,Hampton & Richmond Borough,13.10.71,2,Guildford City,53768.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,GUILDFORD CITY,True,4.0,GUILDFORD CITY,100
+37339,37339,1,Rossendale United,13.10.71,0,Morecambe,53759.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,MORECAMBE,True,4.0,MORECAMBE,100
+37341,37341,3,Aveley,13.10.71,3,Southall,53770.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,SOUTHALL,True,4.0,SOUTHALL,100
+37342,37342,4,Bromley,13.10.71,2,Stevenage Athletic,53766.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,STEVENAGE ATHLETIC,True,4.0,STEVENAGE ATHLETIC,100
+37343,37343,1,Carshalton Athletic,13.10.71,5,Walton & Hersham,53769.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,WALTON & HERSHAM,True,4.0,WALTON & HERSHAM,100
+37344,37344,2,Boreham Wood,13.10.71,0,Wealdstone,53767.0,True,True,Second Qualifying Round,11727.0,3.0,1972,71325,WEALDSTONE,True,4.0,WEALDSTONE,100
+37345,37345,2,Ton Pentre,09.10.71,0,Abergavenny Thursdays,53754.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ABERGAVENNY THURSDAYS,True,4.0,AVELEY,60
+37346,37346,1,Heanor Town,09.10.71,3,Alfreton Town,53712.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ALFRETON TOWN,True,4.0,ALFRETON TOWN,100
+37347,37347,1,Fareham Town,09.10.71,0,Alton Town,53748.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ALTON TOWN,True,4.0,ALTON TOWN,100
+37348,37348,1,Eastwood Hanley,09.10.71,4,Altrincham,53698.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ALTRINCHAM,True,4.0,ALTRINCHAM,100
+37349,37349,3,Basingstoke Town,09.10.71,1,Andover,53752.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ANDOVER,True,4.0,ANDOVER,100
+37350,37350,4,Eastwood Town,09.10.71,2,Arnold,53710.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ARNOLD,True,4.0,ARNOLD,100
+37352,37352,1,Tonbridge Angels,09.10.71,3,Ashford Town,53740.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ASHFORD TOWN,True,4.0,ASHFORD TOWN,100
+37353,37353,2,Great Harwood,09.10.71,3,Ashton United,53700.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ASHTON UNITED,True,4.0,ASHTON UNITED,100
+37355,37355,0,Biggleswade Town,09.10.71,3,Bedford Town (1),53722.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BEDFORD TOWN (1),True,4.0,BEDFORD TOWN,95
+37356,37356,0,Consett AFC,09.10.71,0,Bedlington CW,53688.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BEDLINGTON CW,True,4.0,BRIDLINGTON TOWN,76
+37357,37357,2,Leatherhead,09.10.71,3,Bexley United,53730.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BEXLEY UNITED,True,4.0,BEXLEY UNITED,100
+37358,37358,1,Falmouth Town,09.10.71,3,Bideford AFC,53756.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BIDEFORD AFC,True,4.0,BIDEFORD,90
+37359,37359,2,Harlow Town,09.10.71,4,Bishop's Stortford,53732.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BISHOP'S STORTFORD,True,4.0,BISHOP'S STORTFORD,100
+37361,37361,1,Wealdstone,09.10.71,1,Boreham Wood,53726.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BOREHAM WOOD,True,4.0,BOREHAM WOOD,100
+37362,37362,1,Stamford,09.10.71,3,Bourne Town,53718.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BOURNE TOWN,True,4.0,BOURNE TOWN,100
+37363,37363,0,Cray Wanderers,09.10.71,1,Braintree & Crittall Ath.,53728.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BRAINTREE & CRITTALL ATH.,True,4.0,BRAINTREE & CRITTALL,95
+37366,37366,1,Chorley,09.10.71,2,Burscough,53694.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BURSCOUGH,True,4.0,BURSCOUGH,100
+37367,37367,2,Stafford Rangers,09.10.71,1,Burton Albion,53714.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BURTON ALBION,True,4.0,BURTON ALBION,100
+37369,37369,3,Folkestone,09.10.71,1,Canterbury City,53742.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,CANTERBURY CITY,True,4.0,CANTERBURY CITY,100
+37370,37370,0,Walton & Hersham,09.10.71,0,Carshalton Athletic,53734.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,CARSHALTON ATHLETIC,True,4.0,CARSHALTON ATHLETIC,100
+37372,37372,4,Alvechurch,09.10.71,0,Darlaston,53702.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,DARLASTON,True,4.0,DARLASTON,100
+37373,37373,2,Worksop Town,09.10.71,1,Denaby United,53708.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,DENABY UNITED,True,4.0,DENABY UNITED,100
+37374,37374,1,Redhill,09.10.71,0,Dulwich Hamlet,53736.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,DULWICH HAMLET,True,4.0,DULWICH HAMLET,100
+37375,37375,0,Spennymoor United,09.10.71,2,Durham City,53690.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,DURHAM CITY,True,4.0,DURHAM CITY,100
+37376,37376,2,Lancaster City,09.10.71,0,Fleetwood,53692.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,FLEETWOOD,True,4.0,FLEETWOOD,100
+37377,37377,2,Bishop Auckland,09.10.71,3,Gateshead,53686.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,GATESHEAD,True,4.0,GATESHEAD,100
+37378,37378,2,Barton Town,09.10.71,3,Goole Town,53706.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,GOOLE TOWN,True,4.0,GOOLE TOWN,100
+37379,37379,1,Guildford City,09.10.71,1,Hampton & Richmond Borough,53733.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,HAMPTON & RICHMOND BOROUGH,True,4.0,HAMPTON,90
+37382,37382,2,Highgate United,09.10.71,0,Lockheed Leamington,53704.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,LOCKHEED LEAMINGTON,True,4.0,LOCKHEED LEAMINGTON,100
+37383,37383,0,Redditch United,09.10.71,0,Lower Gornal Athletic,53705.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,LOWER GORNAL ATHLETIC,True,4.0,LOWER GORNAL ATHLETIC,100
+37385,37385,0,Herne Bay,09.10.71,3,Maidstone United (1),53743.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,MAIDSTONE UNITED (1),True,4.0,MAIDSTONE UNITED,95
+37386,37386,0,Hyde United,09.10.71,0,Mossley,53701.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,MOSSLEY,True,4.0,MOSSLEY,100
+37387,37387,1,Ferryhill Athletic,09.10.71,3,North Shields,53687.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,NORTH SHIELDS,True,4.0,NORTH SHIELDS,100
+37389,37389,1,Ellesmere Port Town,09.10.71,0,Ormskirk,53695.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,ORMSKIRK,True,4.0,ORMSKIRK,100
+37392,37392,1,Bath City,09.10.71,2,Salisbury,53753.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,SALISBURY,True,4.0,SALISBURY,100
+37393,37393,1,Romford (2),09.10.71,0,Slough Town,53729.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,SLOUGH TOWN,True,4.0,SLOUGH TOWN,100
+37394,37394,0,Runcorn,09.10.71,1,South Liverpool,53697.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,SOUTH LIVERPOOL,True,4.0,SOUTH LIVERPOOL,100
+37395,37395,2,Merthyr Town,09.10.71,0,Stonehouse,53755.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,STONEHOUSE,True,4.0,IBSTOCK PENISTONE ROVERS,63
+37396,37396,2,Bedworth United,09.10.71,2,Sutton Town AFC,53715.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,SUTTON TOWN AFC,True,4.0,SUTTON TOWN,95
+37397,37397,0,Harwich & Parkeston,09.10.71,0,Thetford Town,53721.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,THETFORD TOWN,True,4.0,THETFORD TOWN,100
+37398,37398,1,Newport (IOW),09.10.71,4,Thornycroft Athletic,53749.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,THORNYCROFT ATHLETIC,True,4.0,THORNYCROFT ATHLETIC ,100
+37400,37400,0,Glastonbury,09.10.71,0,Trowbridge Town,53751.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,TROWBRIDGE TOWN,True,4.0,TROWBRIDGE TOWN,100
+37401,37401,3,Sutton United,09.10.71,1,Uxbridge,53737.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,UXBRIDGE,True,4.0,UXBRIDGE,100
+37402,37402,1,St Blazey,09.10.71,6,Wadebridge Town,53757.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WADEBRIDGE TOWN,True,4.0,BARRY TOWN,86
+37404,37404,2,Ely City,09.10.71,4,Wellingborough Town,53717.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WELLINGBOROUGH TOWN,True,4.0,WELLINGBOROUGH TOWN,100
+37405,37405,6,Hayes & Yeading United,09.10.71,1,Wembley,53725.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WEMBLEY,True,4.0,WEMBLEY,100
+37406,37406,2,Scarborough,09.10.71,0,Whitby Town,53707.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WHITBY TOWN,True,4.0,WHITBY TOWN,100
+37408,37408,5,Dover,09.10.71,0,Whitstable Town,53741.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WHITSTABLE TOWN,True,4.0,BARRY TOWN,86
+37409,37409,1,Staines Town,09.10.71,2,Windsor & Eton,53735.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WINDSOR & ETON,True,4.0,WINDSOR & ETON,100
+37411,37411,4,King's Lynn,09.10.71,0,Wisbech Town,53719.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WISBECH TOWN,True,4.0,WISBECH TOWN,100
+37412,37412,0,Irthlingborough Diamonds,09.10.71,3,Witney United,53723.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WITNEY UNITED,True,4.0,HEMEL HEMPSTEAD UNITED,86
+37413,37413,1,Nantwich,09.10.71,0,Witton Albion,53699.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WITTON ALBION,True,4.0,WITTON ALBION,100
+37414,37414,0,Atherstone Town,09.10.71,0,Worcester City,53703.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WORCESTER CITY,True,4.0,WORCESTER CITY,100
+37415,37415,3,Horsham,09.10.71,1,Worthing,53747.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,WORTHING,True,4.0,WORTHING,100
+37416,37416,0,Frickley Colliery,09.10.71,0,Yorkshire Amateur,53709.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,YORKSHIRE AMATEUR,True,4.0,COVENTRY AMATEUR,61
+37544,37544,4,Addlestone,27.09.71,1,Hemel Hempstead Town,53684.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,HEMEL HEMPSTEAD TOWN,True,3.0,HEMEL HEMPSTEAD,95
+37545,37545,1,Hemel Hempstead Town,22.09.71,1,Addlestone,53674.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,ADDLESTONE,True,3.0,ADDLESTONE,100
+37548,37548,3,Shildon,22.09.71,4,Evenwood Town,53663.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,EVENWOOD TOWN,True,3.0,EVENWOOD TOWN,100
+37550,37550,3,Lower Gornal Athletic,22.09.71,1,Halesowen Town,53668.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,HALESOWEN TOWN,True,3.0,HALESOWEN TOWN,100
+37552,37552,0,Erith & Belvedere,22.09.71,3,Leatherhead,53675.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,LEATHERHEAD,True,3.0,LEATHERHEAD,100
+37554,37554,2,Mossley,22.09.71,1,Prestwich Heys,53667.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,PRESTWICH HEYS,True,3.0,PRESTWICH HEYS,100
+37555,37555,3,Eastwood Town,22.09.71,0,Retford Town,53670.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,RETFORD TOWN,True,3.0,RETFORD TOWN,100
+37557,37557,1,Hastings United,22.09.71,1,Southwick,53681.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,SOUTHWICK,True,3.0,SOUTHWICK ,100
+37559,37559,1,Cinderford Town,22.09.71,3,Ton Pentre,53683.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,TON PENTRE,True,3.0,NORTHAMPTON SPENCER,72
+37560,37560,0,Deal Town,22.09.71,2,Tonbridge Angels,53680.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,TONBRIDGE ANGELS,True,3.0,TONBRIDGE,90
+37563,37563,0,Washington,22.09.71,1,Willington,53662.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,WILLINGTON,True,3.0,WILLINGTON,100
+37565,37565,2,Slough Town,22.09.71,0,Woking,53673.0,True,True,First Qualifying Round,11722.0,2.0,1972,71325,WOKING,True,3.0,WOKING,100
+37572,37572,5,Durham City,18.09.71,0,Annfield Plain,53526.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ANNFIELD PLAIN,True,3.0,ANNFIELD PLAIN,100
+37579,37579,0,Fleetwood,18.09.71,0,Bacup Borough,53530.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BACUP BOROUGH,True,3.0,BACUP BOROUGH,100
+37580,37580,2,Bedford Town (1),18.09.71,2,Banbury United,53590.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BANBURY UNITED,True,3.0,BANBURY UNITED,100
+37581,37581,1,Bishop's Stortford,18.09.71,0,Barking,53610.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BARKING,True,3.0,BARKING,100
+37582,37582,3,Bideford AFC,18.09.71,1,Barnstaple Town,53658.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BARNSTAPLE TOWN,True,3.0,BARNSTAPLE TOWN,100
+37583,37583,0,Bridlington Town,18.09.71,1,Barton Town,53558.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BARTON TOWN,True,3.0,ELLESMERE PORT TOWN,86
+37585,37585,1,Chippenham Town,18.09.71,2,Bath City,53651.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BATH CITY,True,3.0,BATH CITY,100
+37586,37586,3,Redhill,18.09.71,1,Bedfont & Feltham,53619.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BEDFONT & FELTHAM,True,3.0,FELTHARN,72
+37588,37588,0,Burton Albion,18.09.71,0,Belper Town,53574.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BELPER TOWN,True,3.0,BELPER TOWN,100
+37590,37590,1,Rushden Town,18.09.71,2,Biggleswade Town,53591.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BIGGLESWADE TOWN,True,3.0,BIGGLESWADE TOWN,100
+37591,37591,2,Ferryhill Athletic,18.09.71,0,Billingham Synthonia,53518.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BILLINGHAM SYNTHONIA,True,3.0,BILLINGHAM SYNTHONIA,100
+37592,37592,1,Stanley United,18.09.71,4,Bishop Auckland,53519.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BISHOP AUCKLAND,True,3.0,BISHOP AUCKLAND,100
+37595,37595,5,Bourne Town,18.09.71,1,Boston,53582.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BOSTON,True,3.0,BOSTON,100
+37602,37602,0,Soham Town Rangers,18.09.71,3,Chatteris Town,53578.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CHATTERIS TOWN,True,3.0,CHATTERIS TOWN,100
+37604,37604,0,Marine,18.09.71,3,Chorley,53534.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CHORLEY,True,3.0,CHORLEY,100
+37605,37605,1,Ton Pentre,18.09.71,1,Cinderford Town,53655.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CINDERFORD TOWN,True,3.0,BARRY TOWN,86
+37606,37606,1,Irthlingborough Diamonds,18.09.71,0,Corby Town,53592.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CORBY TOWN,True,3.0,CORBY TOWN,100
+37607,37607,2,Harlow Town,18.09.71,0,Corinthian Casuals,53611.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CORINTHIAN CASUALS,True,3.0,CORINTHIAN CASUALS,100
+37609,37609,0,Ware,18.09.71,3,Cray Wanderers,53603.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CRAY WANDERERS,True,3.0,CRAY WANDERERS,100
+37610,37610,4,Consett AFC,18.09.71,1,Crook Town AFC,53524.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CROOK TOWN AFC,True,3.0,CROOK TOWN,95
+37612,37612,1,Walton & Hersham,18.09.71,1,Dartford,53615.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,DARTFORD,True,3.0,DARTFORD,100
+37613,37613,1,Tonbridge Angels,18.09.71,1,Deal Town,53627.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,DEAL TOWN,True,3.0,ATHERSTONE TOWN,86
+37615,37615,2,Taunton Town,18.09.71,3,Dorchester Town,53647.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,DORCHESTER TOWN,True,3.0,DORCHESTER TOWN,100
+37617,37617,3,Ellesmere Port Town,18.09.71,0,Droylsden,53535.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,DROYLSDEN,True,3.0,DROYLSDEN,100
+37618,37618,1,Worcester City,18.09.71,0,Dudley Town,53553.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,DUDLEY TOWN,True,3.0,DUDLEY TOWN,100
+37620,37620,0,Ringmer,18.09.71,2,East Grinstead,53639.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EAST GRINSTEAD,True,3.0,EAST GRINSTEAD ,100
+37621,37621,2,Burgess Hill Town,18.09.71,0,Eastbourne United,53636.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EASTBOURNE UNITED,True,3.0,EASTBOURNE UNITED,100
+37622,37622,0,Winsford United,18.09.71,1,Eastwood Hanley,53543.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EASTWOOD HANLEY,True,3.0,EASTWOOD (HANLEY),97
+37623,37623,2,Retford Town,18.09.71,2,Eastwood Town,53567.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EASTWOOD TOWN,True,3.0,EASTWOOD TOWN,100
+37624,37624,2,Southall,18.09.71,2,Ebbsfleet United,53623.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EBBSFLEET UNITED,True,3.0,RYE UNITED ,86
+37625,37625,0,Histon,18.09.71,4,Ely City,53579.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ELY CITY,True,3.0,ELY CITY,100
+37626,37626,2,Leatherhead,18.09.71,2,Erith & Belvedere,53607.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ERITH & BELVEDERE,True,3.0,ERITH & BELVEDERE,100
+37627,37627,2,Truro City,18.09.71,3,Falmouth Town,53659.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FALMOUTH TOWN,True,3.0,LYE TOWN,86
+37629,37629,1,Frickley Colliery,18.09.71,0,Farsley Celtic,53563.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FARSLEY CELTIC,True,3.0,FARSLEY CELTIC,100
+37630,37630,1,Stevenage Athletic,18.09.71,0,Finchley,53595.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FINCHLEY,True,3.0,FINCHLEY,100
+37631,37631,1,Newport (IOW),18.09.71,1,Fleet Town,53644.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FLEET TOWN,True,3.0,FLEET TOWN ,100
+37633,37633,4,Staines Town,18.09.71,1,Ford United,53616.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FORD UNITED,True,3.0,FORD UNITED,100
+37634,37634,3,Lincoln United,18.09.71,2,Gainsborough Trinity,53568.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GAINSBOROUGH TRINITY,True,3.0,GAINSBOROUGH TRINITY,100
+37637,37637,1,Worksop Town,18.09.71,0,Glossop,53564.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GLOSSOP,True,3.0,GLOSSOP,100
+37638,37638,3,Merthyr Town,18.09.71,2,Gloucester City,53656.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GLOUCESTER CITY,True,3.0,GLOUCESTER CITY,100
+37640,37640,3,Sudbury Town,18.09.71,0,Gorleston,53587.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GORLESTON,True,3.0,GORLESTON,100
+37641,37641,4,Sutton United,18.09.71,2,Grays Athletic,53620.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GRAYS ATHLETIC,True,3.0,GRAYS ATHLETIC,100
+37642,37642,1,Prescot Town,18.09.71,7,Great Harwood,53547.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GREAT HARWOOD,True,3.0,GREAT HARWOOD,100
+37643,37643,3,Harwich & Parkeston,18.09.71,1,Great Yarmouth Town,53588.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GREAT YARMOUTH TOWN,True,3.0,GT. YARMOUTH TOWN,89
+37644,37644,4,Stafford Rangers,18.09.71,0,Gresley,53575.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,GRESLEY,True,3.0,EMLEY,67
+37647,37647,1,Wealdstone,18.09.71,0,Harrow Borough,53599.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HARROW BOROUGH,True,3.0,HARROW BOROUGH,100
+37649,37649,4,Leytonstone,18.09.71,0,Hatfield Town,53624.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HATFIELD TOWN,True,3.0,HATFIELD TOWN,100
+37650,37650,0,Kingstonian,18.09.71,2,Hayes & Yeading United,53596.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HAYES & YEADING UNITED,True,3.0,HAYES,90
+37651,37651,0,Newhall United,18.09.71,1,Heanor Town,53571.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HEANOR TOWN,True,3.0,HEANOR TOWN,100
+37652,37652,2,Redditch United,18.09.71,0,Hednesford Town,53554.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HEDNESFORD TOWN,True,3.0,HEDNESFORD,90
+37654,37654,1,Faversham Town,18.09.71,3,Herne Bay,53632.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HERNE BAY,True,3.0,HERNE BAY,100
+37655,37655,1,Kidderminster Harriers,18.09.71,3,Highgate United,53555.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HIGHGATE UNITED,True,3.0,RYE UNITED ,86
+37656,37656,2,Tilbury,18.09.71,2,Hitchin Town,53609.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HITCHIN TOWN,True,3.0,HITCHIN TOWN,100
+37657,37657,1,Metropolitan Police,18.09.71,2,Hoddesdon Town,53600.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HODDESDON TOWN,True,3.0,HODDESDON TOWN,100
+37658,37658,4,Stamford,18.09.71,1,Holbeach United,53583.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HOLBEACH UNITED,True,3.0,HOLBEACH UNITED,100
+37659,37659,0,Lewes,18.09.71,2,Horsham,53640.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HORSHAM,True,3.0,HORSHAM,100
+37660,37660,1,Hyde United,18.09.71,1,Horwich RMI,53548.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HORWICH RMI,True,3.0,HORWICH R.M.I.,92
+37661,37661,2,Uxbridge,18.09.71,0,Hounslow,53621.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HOUNSLOW,True,3.0,HOUNSLOW,100
+37662,37662,3,Whitby Town,18.09.71,1,Hull Brunswick,53560.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HULL BRUNSWICK,True,3.0,RUNCORN,51
+37663,37663,2,Bedworth United,18.09.71,1,Ilkeston Town,53576.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ILKESTON TOWN,True,3.0,ILKESTON TOWN,100
+37665,37665,1,Skegness Town,18.09.71,4,King's Lynn,53584.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,KING'S LYNN,True,3.0,KING'S LYNN,100
+37666,37666,1,Penrith AFC,18.09.71,6,Lancaster City,53531.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LANCASTER CITY,True,3.0,LANCASTER CITY,100
+37667,37667,2,Romford (2),18.09.71,1,Letchworth Town,53604.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LETCHWORTH TOWN,True,3.0,LETCHWORTH TOWN,100
+37668,37668,4,Ormskirk,18.09.71,1,Leyland Motors,53536.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LEYLAND MOTORS,True,3.0,LEYLAND MOTORS,100
+37669,37669,1,Worthing,18.09.71,0,Littlehampton Town,53641.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LITTLEHAMPTON TOWN,True,3.0,LITTLEHAMPTON TOWN ,100
+37671,37671,1,Sutton Coldfield Town,18.09.71,3,Long Eaton United,53572.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LONG EATON UNITED,True,3.0,LONG EATON UNITED,100
+37672,37672,5,Nuneaton Town,18.09.71,0,Loughborough United,53573.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LOUGHBOROUGH UNITED,True,3.0,LOUGHBOROUGH UNITED,100
+37676,37676,3,Wembley,18.09.71,0,Marlow,53597.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,MARLOW,True,3.0,MARLOW,100
+37677,37677,3,Sutton Town AFC,18.09.71,1,Matlock Town,53577.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,MATLOCK TOWN,True,3.0,MATLOCK TOWN,100
+37678,37678,3,Andover,18.09.71,1,Melksham Town,53652.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,MELKSHAM TOWN,True,3.0,LYE TOWN,86
+37681,37681,1,New Mills,18.09.71,3,Nantwich,53544.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NANTWICH,True,3.0,NANTWICH TOWN,90
+37682,37682,4,Rossendale United,18.09.71,2,Netherfield (Kendal),53533.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NETHERFIELD (KENDAL),True,3.0,NETHERFIELD,90
+37683,37683,4,Thetford Town,18.09.71,1,Newmarket Town,53589.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NEWMARKET TOWN,True,3.0,NEWMARKET TOWN,100
+37684,37684,3,Winterton Rangers,18.09.71,0,Norton Woodseats,53569.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NORTON WOODSEATS,True,3.0,BOSTON,60
+37686,37686,1,Witney United,18.09.71,0,Potton United,53593.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,POTTON UNITED,True,3.0,POTTON UNITED,100
+37687,37687,3,Connah's Quay Nomads,18.09.71,0,Pwllheli & District,53539.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,PWLLHELI & DISTRICT,True,3.0,WOLVES (A),50
+37688,37688,3,Burscough,18.09.71,2,Radcliffe Borough,53537.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,RADCLIFFE BOROUGH,True,3.0,RADCLIFFE BOROUGH,100
+37689,37689,1,Yorkshire Amateur,18.09.71,1,Rawmarsh Welfare,53565.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,RAWMARSH WELFARE,True,3.0,RAWMARSH WELFARE,100
+37690,37690,0,New Brighton,18.09.71,2,Runcorn,53540.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,RUNCORN,True,3.0,RUNCORN,100
+37691,37691,4,Thornycroft Athletic,18.09.71,1,Ryde Sports,53645.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,RYDE SPORTS,True,3.0,MONEYFIELD SPORTS,86
+37693,37693,3,Wadebridge Town,18.09.71,2,Saltash United,53660.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SALTASH UNITED,True,3.0,HEMEL HEMPSTEAD UNITED,86
+37695,37695,1,Evenwood Town,18.09.71,1,Shildon,53527.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SHILDON,True,3.0,SHILDON,100
+37697,37697,4,Whitstable Town,18.09.71,1,Snowdown CW,53629.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SNOWDOWN CW,True,3.0,TOW LAW TOWN,58
+37699,37699,1,Wisbech Town,18.09.71,0,Spalding United,53585.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SPALDING UNITED,True,3.0,SPALDING UNITED,100
+37700,37700,2,Horden CW,18.09.71,4,Spennymoor United,53528.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SPENNYMOOR UNITED,True,3.0,SPENNYMOOR UNITED,100
+37701,37701,0,Newquay,18.09.71,4,St Blazey,53661.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ST BLAZEY,True,3.0,CHALFONT ST. PETER,86
+37702,37702,3,Wellingborough Town,18.09.71,1,St Neots Town,53581.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ST NEOTS TOWN,True,3.0,ST. NEOTS TOWN,96
+37703,37703,1,Witton Albion,18.09.71,0,Stalybridge Celtic,53545.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,STALYBRIDGE CELTIC,True,3.0,STALYBRIDGE CELTIC,100
+37704,37704,2,Whitley Bay,18.09.71,2,Stockton,53529.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,STOCKTON,True,3.0,STOCKTON,100
+37706,37706,1,Windsor & Eton,18.09.71,1,Tooting & Mitcham United,53617.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,TOOTING & MITCHAM UNITED,True,3.0,TOOTING & MITCHAM UTD.,93
+37709,37709,1,Willington,18.09.71,1,Washington,53525.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WASHINGTON,True,3.0,WASHINGTON,100
+37710,37710,1,North Shields,18.09.71,0,Wingate (Durham),53521.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WINGATE (DURHAM),True,3.0,WINGATE,90
+37845,37845,2,Sutton United,23.10.71,0,Redhill,53800.0,True,False,Third Qualifying Round,11731.0,4.0,1972,71325,REDHILL,True,5.0,REDHILL,100
+37848,37848,0,Sutton Town AFC,23.10.71,2,Stafford Rangers,53789.0,True,False,Third Qualifying Round,11731.0,4.0,1972,71325,STAFFORD RANGERS,True,5.0,STAFFORD RANGERS,100
+37852,37852,1,Frickley Colliery,23.10.71,1,Worksop Town,53786.0,True,False,Third Qualifying Round,11731.0,4.0,1972,71325,WORKSOP TOWN,True,5.0,WORKSOP TOWN,100
+105836,37221,1,South Shields (2),06.11.71,0,Bradford Park Avenue,53824.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,SOUTH SHIELDS (2),False,6.0,SOUTH SHIELDS,95
+105837,37222,0,Yeovil Town,06.11.71,2,Bridgwater Town (1),53825.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,YEOVIL TOWN,False,6.0,YEOVIL TOWN,100
+105841,37226,0,Grantham Town,06.11.71,3,Frickley Colliery,53829.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,GRANTHAM TOWN,False,6.0,GRANTHAM,90
+105844,37229,0,Cheltenham Town,06.11.71,3,Hereford United,53832.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,CHELTENHAM TOWN,False,6.0,CHELTENHAM TOWN,100
+105845,37230,3,Bangor City,06.11.71,1,Hyde United,53833.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,BANGOR CITY,False,6.0,BANGOR CITY,100
+105846,37231,1,Chelmsford City,06.11.71,4,Kettering Town,53834.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,CHELMSFORD CITY,False,6.0,CHELMSFORD CITY,100
+105849,37234,0,Wimbledon,06.11.71,1,Margate,53837.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,WIMBLEDON,False,6.0,WIMBLEDON,100
+105850,37235,1,Tamworth,06.11.71,3,Nuneaton Town,53838.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,TAMWORTH,False,6.0,TAMWORTH,100
+105856,37241,1,Enfield,06.11.71,0,Tilbury,53844.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,ENFIELD,False,6.0,ENFIELD,100
+105860,37245,1,Rhyl,06.11.71,2,Wigan Athletic,53848.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,RHYL,False,6.0,RHYL,100
+105861,37246,3,Boston United,06.11.71,0,Winterton Rangers,53849.0,True,False,Fourth Qualifying Round,11724.0,5.0,1972,71325,BOSTON UNITED,False,6.0,BOSTON UNITED,100
+105918,37303,1,Bridlington Trinity,04.09.71,2,Bridlington Town,53496.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,BRIDLINGTON TRINITY,False,2.0,BRIDLINGTON TRINITY,100
+105919,37304,2,Bromsgrove Rovers,04.09.71,0,Brierley Hill Alliance,53494.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,BROMSGROVE ROVERS,False,2.0,BROMSGROVE ROVERS,100
+105920,37305,0,Frome Town,04.09.71,1,Chippenham Town,53511.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,FROME TOWN,False,2.0,FROME TOWN,100
+105921,37306,2,Irthlingborough Diamonds,04.09.71,1,Desborough Town,53502.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,IRTHLINGBOROUGH DIAMONDS,False,2.0,IRTHLINGBOROUGH DIAMONDS,100
+105922,37307,1,Formby,04.09.71,2,Ellesmere Port Town,53491.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,FORMBY,False,2.0,FORMBY,100
+105923,37308,2,Mexborough Town,04.09.71,3,Frickley Colliery,53497.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,MEXBOROUGH TOWN,False,2.0,MEXBOROUGH TOWN,100
+105927,37312,2,Rothwell Town,04.09.71,4,Histon,53499.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,ROTHWELL TOWN,False,2.0,ROTHWELL TOWN,100
+105928,37313,4,Metropolitan Police,04.09.71,1,Hornchurch,53504.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,METROPOLITAN POLICE,False,2.0,METROPOLITAN POLICE,100
+105930,37315,3,Staines Town,04.09.71,2,Ilford,53506.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,STAINES TOWN,False,2.0,STAINES TOWN,100
+105931,37316,1,Lye Town,04.09.71,3,Kidderminster Harriers,53495.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,LYE TOWN,False,2.0,LYE TOWN,100
+105932,37317,1,Leighton Town,04.09.71,4,Kingstonian,53503.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,LEIGHTON TOWN,False,2.0,LEIGHTON TOWN,100
+105933,37318,3,Merthyr Town,04.09.71,0,Llanelli,53512.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,MERTHYR TOWN,False,2.0,ELLESMERE PORT TOWN,86
+105934,37319,1,Lincoln United,04.09.71,0,Louth United,53498.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,LINCOLN UNITED,False,2.0,LINCOLN UNITED,100
+105935,37320,2,Skegness Town,04.09.71,1,March Town United,53500.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,SKEGNESS TOWN,False,2.0,SKEGNESS TOWN,100
+105936,37321,2,Poole Town,04.09.71,1,Minehead,53510.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,POOLE TOWN,False,2.0,POOLE TOWN,100
+105937,37322,1,Sandbach Ramblers,04.09.71,3,New Mills,53492.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,SANDBACH RAMBLERS,False,2.0,SANDBACH RAMBLERS,100
+105939,37324,0,St Albans City,04.09.71,3,Romford (2),53505.0,True,False,Preliminary Round,11726.0,1.0,1972,71325,ST ALBANS CITY,False,2.0,ST. ALBANS CITY,97
+105974,37359,2,Harlow Town,09.10.71,4,Bishop's Stortford,53732.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,HARLOW TOWN,False,4.0,HARLOW TOWN,100
+105977,37362,1,Stamford,09.10.71,3,Bourne Town,53718.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,STAMFORD,False,4.0,STAMFORD,100
+105983,37368,0,Sudbury Town,09.10.71,2,Bury Town,53720.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,SUDBURY TOWN,False,4.0,SUDBURY TOWN,100
+105995,37380,1,Burgess Hill Town,09.10.71,4,Hastings United,53745.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,BURGESS HILL TOWN,False,4.0,BURGESS HILL TOWN ,100
+106002,37387,1,Ferryhill Athletic,09.10.71,3,North Shields,53687.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,FERRYHILL ATHLETIC,False,4.0,FERRYHILL ATHLETIC,100
+106005,37390,1,Connah's Quay Nomads,09.10.71,3,Oswestry Town,53696.0,True,False,Second Qualifying Round,11727.0,3.0,1972,71325,CONNAH'S QUAY NOMADS,False,4.0,KING'S LYNN,86
+106182,37567,0,Barry Town,18.09.71,1,Abergavenny Thursdays,53654.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BARRY TOWN,False,3.0,BARRY TOWN,100
+106183,37568,0,Bilston,18.09.71,4,Alfreton Town,53570.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BILSTON,False,3.0,BILSTON,100
+106184,37569,2,Cowes,18.09.71,3,Alton Town,53642.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,COWES,False,3.0,LOWESTOFT TOWN,72
+106185,37570,0,Buxton,18.09.71,1,Altrincham,53542.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BUXTON,False,3.0,BUXTON,100
+106186,37571,0,Solihull Moors,18.09.71,4,Alvechurch,53550.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SOLIHULL MOORS,False,3.0,VAUXHALL MOTORS,62
+106188,37573,0,Brigg Town,18.09.71,2,Arnold,53566.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BRIGG TOWN,False,3.0,ATHERSTONE TOWN,86
+106189,37574,0,Bognor Regis Town,18.09.71,1,Arundel,53634.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BOGNOR REGIS TOWN,False,3.0,BOGNOR REGIS TOWN ,100
+106190,37575,0,Bexhill Town,18.09.71,2,Ashford Town,53626.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BEXHILL TOWN,False,3.0,BEXHILL TOWN ,100
+106191,37576,1,Clitheroe,18.09.71,2,Ashton United,53546.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CLITHEROE,False,3.0,CLITHEROE,100
+106193,37578,0,Banstead Athletic,18.09.71,1,Aveley,53622.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BANSTEAD ATHLETIC,False,3.0,BANSTEAD ATHLETIC,100
+106199,37584,1,Welton Rovers,18.09.71,2,Basingstoke Town,53650.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WELTON ROVERS,False,3.0,WELTON ROVERS,100
+106202,37587,1,Colliery Welfare,18.09.71,5,Bedlington CW,53522.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,COLLIERY WELFARE,False,3.0,HORDEN COLLIERY WELFARE,95
+106204,37589,1,Clapton,18.09.71,2,Bexley United,53606.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CLAPTON,False,3.0,CLAPTON,100
+106205,37590,1,Rushden Town,18.09.71,2,Biggleswade Town,53591.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,RUSHDEN TOWN,False,3.0,RUSHDEN TOWN,100
+106207,37592,1,Stanley United,18.09.71,4,Bishop Auckland,53519.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,STANLEY UNITED,False,3.0,STANLEY UNITED,100
+106208,37593,2,Boldon CW,18.09.71,3,Blyth Spartans,53523.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BOLDON CW,False,3.0,BOLDON COLLIERY WELFARE,86
+106209,37594,1,Cheshunt,18.09.71,2,Boreham Wood,53598.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CHESHUNT,False,3.0,CHESHUNT,100
+106211,37596,1,Chertsey Town,18.09.71,2,Braintree & Crittall Ath.,53602.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CHERTSEY TOWN,False,3.0,CHERTSEY TOWN.,100
+106212,37597,0,Bridport,18.09.71,1,Bridgwater Town (1),53646.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BRIDPORT,False,3.0,BRIDPORT,100
+106213,37598,0,Civil Service,18.09.71,10,Bromley,53594.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CIVIL SERVICE,False,3.0,TIVIDALE,57
+106214,37599,0,FC Clacton,18.09.71,2,Bury Town,53586.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FC CLACTON,False,3.0,CLACTON TOWN,78
+106215,37600,1,Chatham Town,18.09.71,5,Canterbury City,53630.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CHATHAM TOWN,False,3.0,ELLESMERE PORT TOWN,86
+106216,37601,1,Chesham United,18.09.71,2,Carshalton Athletic,53614.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CHESHAM UNITED,False,3.0,CHESHAM UNITED,100
+106217,37602,0,Soham Town Rangers,18.09.71,3,Chatteris Town,53578.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SOHAM TOWN RANGERS,False,3.0,SOHAM TOWN RANGERS,100
+106218,37603,1,Haywards Heath,18.09.71,3,Chichester City,53635.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HAYWARDS HEATH,False,3.0,HAYWARDS HEATH ,100
+106219,37604,0,Marine,18.09.71,3,Chorley,53534.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,MARINE,False,3.0,MARINE,100
+106223,37608,0,Eastbourne Town,18.09.71,4,Crawley Town,53638.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EASTBOURNE TOWN,False,3.0,EASTBOURNE TOWN,100
+106224,37609,0,Ware,18.09.71,3,Cray Wanderers,53603.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WARE,False,3.0,WARE,100
+106226,37611,1,Warley,18.09.71,2,Darlaston,53552.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WARLEY,False,3.0,WARLEY,100
+106229,37614,0,Emley,18.09.71,3,Denaby United,53562.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,EMLEY,False,3.0,EMLEY,100
+106230,37615,2,Taunton Town,18.09.71,3,Dorchester Town,53647.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,TAUNTON TOWN,False,3.0,TAUNTON TOWN,100
+106234,37619,0,Dunstable Town,18.09.71,1,Dulwich Hamlet,53618.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,DUNSTABLE TOWN,False,3.0,DUNSTABLE TOWN,100
+106235,37620,0,Ringmer,18.09.71,2,East Grinstead,53639.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,RINGMER,False,3.0,RINGMER ,100
+106237,37622,0,Winsford United,18.09.71,1,Eastwood Hanley,53543.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WINSFORD UNITED,False,3.0,WINSFORD UNITED,100
+106242,37627,2,Truro City,18.09.71,3,Falmouth Town,53659.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,TRURO CITY,False,3.0,CANTERBURY CITY,86
+106243,37628,2,Selsey,18.09.71,8,Fareham Town,53643.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SELSEY,False,3.0,SELBY,73
+106247,37632,2,Sheppey United,18.09.71,6,Folkestone,53631.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SHEPPEY UNITED,False,3.0,SHEPPEY UNITED,100
+106250,37635,0,Tow Law Town,18.09.71,3,Gateshead,53520.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,TOW LAW TOWN,False,3.0,TOW LAW TOWN,100
+106254,37639,0,Selby Town,18.09.71,3,Goole Town,53559.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SELBY TOWN,False,3.0,SELBY TOWN,100
+106257,37642,1,Prescot Town,18.09.71,7,Great Harwood,53547.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,PRESCOT TOWN,False,3.0,PRESCOT TOWN,100
+106260,37645,0,Aylesbury United,18.09.71,2,Guildford City,53612.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,AYLESBURY UNITED,False,3.0,AYLESBURY UNITED,100
+106261,37646,1,Bletchley Town,18.09.71,2,Hampton & Richmond Borough,53613.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,BLETCHLEY TOWN,False,3.0,BLETCHLEY,90
+106266,37651,0,Newhall United,18.09.71,1,Heanor Town,53571.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NEWHALL UNITED,False,3.0,HEMEL HEMPSTEAD UNITED,86
+106269,37654,1,Faversham Town,18.09.71,3,Herne Bay,53632.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,FAVERSHAM TOWN,False,3.0,FAVERSHAM TOWN,100
+106274,37659,0,Lewes,18.09.71,2,Horsham,53640.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,LEWES,False,3.0,LEWES,100
+106279,37664,1,Cambridge City,18.09.71,6,Kettering Town,53580.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,CAMBRIDGE CITY,False,3.0,CAMBRIDGE CITY,100
+106281,37666,1,Penrith AFC,18.09.71,6,Lancaster City,53531.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,PENRITH AFC,False,3.0,PENRITH,90
+106285,37670,1,Stourbridge,18.09.71,2,Lockheed Leamington,53556.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,STOURBRIDGE,False,3.0,STOURBRIDGE,100
+106286,37671,1,Sutton Coldfield Town,18.09.71,3,Long Eaton United,53572.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,SUTTON COLDFIELD TOWN,False,3.0,ABINGDON TOWN,86
+106289,37674,0,Wycombe Wanderers,18.09.71,2,Maidenhead United,53625.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WYCOMBE WANDERERS,False,3.0,WYCOMBE WANDERERS,100
+106290,37675,1,Tunbridge Wells,18.09.71,6,Maidstone United (1),53633.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,TUNBRIDGE WELLS,False,3.0,TONBRIDGE,80
+106294,37679,0,Accrington Stanley (2),18.09.71,2,Morecambe,53532.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ACCRINGTON STANLEY (2),False,3.0,ACCRINGTON STANLEY,95
+106300,37685,1,Porthmadog,18.09.71,2,Oswestry Town,53538.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,PORTHMADOG,False,3.0,NORTHERN NOMADS,56
+106305,37690,0,New Brighton,18.09.71,2,Runcorn,53540.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NEW BRIGHTON,False,3.0,NEW BRIGHTON,100
+106307,37692,0,Westbury United,18.09.71,4,Salisbury,53653.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WESTBURY UNITED,False,3.0,RYE UNITED ,86
+106309,37694,0,Ashby Institute,18.09.71,6,Scarborough,53561.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,ASHBY INSTITUTE,False,3.0,ASHBY,90
+106313,37698,0,Northwich Victoria,18.09.71,1,South Liverpool,53541.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NORTHWICH VICTORIA,False,3.0,NORTHWICH VICTORIA,100
+106315,37700,2,Horden CW,18.09.71,4,Spennymoor United,53528.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,HORDEN CW,False,3.0,HORDEN COLLIERY WELFARE,86
+106316,37701,0,Newquay,18.09.71,4,St Blazey,53661.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,NEWQUAY,False,3.0,NEWBURY TOWN,64
+106320,37705,2,Weston-Super-Mare,18.09.71,4,Stonehouse,53657.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WESTON-SUPER-MARE,False,3.0,WESTON-SUPER-MARE,100
+106322,37707,2,Street,18.09.71,4,Trowbridge Town,53649.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,STREET,False,3.0,STOWMARKET,63
+106323,37708,0,Woodford Town,18.09.71,1,Walthamstow Avenue,53601.0,True,False,First Qualifying Round,11722.0,2.0,1972,71325,WOODFORD TOWN,False,3.0,WOODFORD TOWN,100

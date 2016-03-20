@@ -1,0 +1,1187 @@
+home_team,away_team,match_id,round_id,year_id,replay,home_score,year,date,away_score,round,stage,qualifier
+Wanderers,Royal Engineers,0,0,71234,False,1,1872,16 March 1872,0,Final,0,False
+Wanderers,Oxford University,0,0,71235,False,2,1873,29 March 1873,0,Final,0,False
+tables,year
+[<Selector xpath='//head/title/text()' data=u'England 1890/91'>],"[<Selector xpath='//pre/text()' data=u'\nCross-Table:\n                Acc Ast Bl'>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1888/89'>],"[<Selector xpath='//pre/text()' data=u'\nCross-Table:\n                Acc Ast Bl'>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1893/94'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\n\nSat 28 Apr  Birmingham City.... 3  Dar'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1892/93'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\n\nTest Matches - 1892/93\n\nFri 22 Apr  Bi'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1891/92'>],"[<Selector xpath='//pre/text()' data=u'\nCross-Table:\n                Acc Ast Bl'>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1889/90'>],"[<Selector xpath='//pre/text()' data=u'\nCross-Table:\n                Acc Ast Bl'>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1895/96'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n\t\t              P   W'>, <Selector xpath='//pre/text()' data=u'\n'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1894/95'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\n\nTest Matches - 1894/95\n\nSat 27 Apr  Bu'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1896/97'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\n'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1903/04'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1899/00'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1900/01'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1897/98'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\n'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1898/99'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1901/02'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1904/05'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1902/03'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1906/07'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1907/08'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1910/11'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1912/13'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1908/09'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1911/12'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1905/06'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1909/10'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1913/14'>],"[<Selector xpath='//pre/text()' data=u'\nLeague Division 1\n\nCross-Table:\n       '>, <Selector xpath='//pre/text()' data=u'\nFinal Table:\n\nSupplied by Stuart Jackso'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1914/15'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1919/20'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1920/21'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1921/22'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1923/24'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1924/25'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1922/23'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1925/26'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1926/27'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1927/28'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1928/29'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1929/30'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1931/32'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1932/33'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1930/31'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1937/38'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1935/36'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1933/34'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1936/37'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1938/39'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1953/54'>],"[<Selector xpath='//pre/text()' data=u'\r\nInformation supplied by Stuart Jackson'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (North)\n             '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3 (South)\n             '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1957/58'>],"[<Selector xpath='//pre/text()' data=u'\r\nInformation supplied by Stuart Jackson'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1962/63'>],"[<Selector xpath='//pre/text()' data=u'\r\nInformation supplied by Stuart Jackson'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 4\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1967/68'>],"[<Selector xpath='//pre/text()' data=u'\r\nInformation supplied by Stuart Jackson'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 4\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1970/1971'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\n'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 4\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1934/35'>],"[<Selector xpath='//pre/text()' data=u'\r\nLeague Division 1\r\n\r\nCross-Table:\r\n   '>, <Selector xpath='//pre/text()' data=u'\r\nFinal Table:\r\n\r\nSupplied by Stuart Jac'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (North)\r\n           '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3 (South)\r\n           '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1975/76'>],"[<Selector xpath='//pre/text()' data=u'\r\nInformation supplied by Stuart Jackson'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 2\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 3\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nLeague Division 4\r\n                   '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 1\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 2\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 3\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 4\n               '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nToday League Division 1\n               '>, <Selector xpath='//pre/text()' data=u'\nToday League Division 2\n               '>, <Selector xpath='//pre/text()' data=u'\nToday League Division 3\n               '>, <Selector xpath='//pre/text()' data=u'\nToday League Division 4\n               '>, <Selector xpath='//pre/text()' data=u'\n\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 3 Play-offs - 1986/87\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 4 Play-offs - 1986/87\n\nSemi-F'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 1\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 2\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 3\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 4\n            '>, <Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 3 Play-offs - 1987/88\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 4 Play-offs - 1987/88\n\nSemi-F'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 1\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 2\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 3\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 4\n               '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 1\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 2\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 3\n               '>, <Selector xpath='//pre/text()' data=u'\nCanon League Division 4\n               '>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 1\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 2\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 3\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 4\n            '>, <Selector xpath='//pre/text()' data=u'\n\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 3 Play-offs - 1988/89\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 4 Play-offs - 1988/89\n\nSemi-F'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 1\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 2\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 3\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 4\n            '>, <Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 3 Play-offs - 1989/90\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 4 Play-offs - 1989/90\n\nSemi-F'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 1\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 2\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 3\n            '>, <Selector xpath='//pre/text()' data=u'\nBarclays League Division 4\n            '>, <Selector xpath='//pre/text()' data=u'\n\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 3 Play-offs - 1990/91\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 4 Play-offs - 1990/91\n\nSemi-F'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1991/1992'>],"[<Selector xpath='//pre/text()' data=u'\r\nBarclays League Division 1\r\n          '>, <Selector xpath='//pre/text()' data=u'\r\n\r\nBarclays League Division 2\r\n        '>, <Selector xpath='//pre/text()' data=u'\r\n\r\nBarclays League Division 3\r\n        '>, <Selector xpath='//pre/text()' data=u'\r\n\r\nBarclays League Division 4\r\n        '>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 2 Play-offs - 1991/92\r\n\r\nSe'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 3 Play-offs - 1991/92\r\n\r\nSe'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 4 Play-offs - 1991/92\r\n\r\nSe'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\r\n'>, <Selector xpath='//pre/text()' data=u'\r\nFA Premier League\r\n                   '>, <Selector xpath='//pre/text()' data=u'\r\nBarclays League Division 1\r\n          '>, <Selector xpath='//pre/text()' data=u'\r\nBarclays League Division 2\r\n          '>, <Selector xpath='//pre/text()' data=u'\r\nBarclays League Division 3\r\n          '>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 1 Play-offs - 1992/93\r\n\r\nSe'>, <Selector xpath='//pre/text()' data=u'\r\n\r\n\r\nDivision 2 Play-offs - 1992/93\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 3 Play-offs - 1992/93\r\n\r\nSe'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nFA Carling Premiership\n                '>, <Selector xpath='//pre/text()' data=u'\nEndsleigh League Division 1\n           '>, <Selector xpath='//pre/text()' data=u'\nEndsleigh League Division 2\n           '>, <Selector xpath='//pre/text()' data=u'\nEndsleigh League Division 3\n           '>, <Selector xpath='//pre/text()' data=u'\n\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 2 Play-offs - 1993/94\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\n\nDivision 3 Play-offs - 1993/94\n\nSemi-'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1994/95'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership\r\n\r\n            '>, <Selector xpath='//pre/text()' data=u'\r\nEndsleigh League Division 1\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\nEndsleigh League Division 2\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\nEndsleigh League Division 3\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 2 Play-offs - 1994/95\r\n\r\nSe'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 3 Play-offs - 1994/95\r\n\r\nSe'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1995/96'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership\r\n\r\n            '>, <Selector xpath='//pre/text()' data=u'\r\nEndsleigh League Division 1\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\nEndsleigh League Division 2\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\nEndsleigh League Division 3\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 2 Play-offs - 1995/96\r\n\r\nSe'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 3 Play-offs - 1995/96\r\n\r\nSe'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nFA Carling Premiership\n                '>, <Selector xpath='//pre/text()' data=u'\nNationwide League Division 1\n          '>, <Selector xpath='//pre/text()' data=u'\nNationwide League Division 2\n          '>, <Selector xpath='//pre/text()' data=u'\nNationwide League Division 3\n          '>, <Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 2 Play-offs - 1996/97\n\nSemi-F'>, <Selector xpath='//pre/text()' data=u'\n\nDivision 3 Play-offs - 1996/97\n\nSemi-F'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1997/98'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 1997/98\r\n    '>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 1997/98'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 2 - 1997/98'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 3 - 1997/98'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 2 Play-offs - 1997/98\r\n    '>, <Selector xpath='//pre/text()' data=u'\r\n\r\nDivision 3 Play-offs - 1997/98\r\n\r\nSe'>]"
+[<Selector xpath='//head/title/text()' data=u'England 1998/99'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 1998/99\r\n    '>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 1998/99'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 2 - 1998/99'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 3 - 1998/99'>, <Selector xpath='//pre/text()' data=u' \r\nDivision 1 Play-offs - 1998/99\r\n \r\nSe'>]"
+[<Selector xpath='//head/title/text()' data=u'Football Statistics Archive'>],"[<Selector xpath='//pre/text()' data=u'\n'>, <Selector xpath='//pre/text()' data=u'\nLeague Division 1\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 2\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 3\n                     '>, <Selector xpath='//pre/text()' data=u'\nLeague Division 4\n                     '>]"
+[<Selector xpath='//head/title/text()' data=u'England 1999/00'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 1999/2000\r\n  '>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 1999/20'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 1999/20'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 3 - 1999/20'>, <Selector xpath='//pre/text()' data=u' \r\n \r\n \r\nDivision 1 Play-offs - 1999/200'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2000/2001'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 2000/2001\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 2000/20'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 2 - 2000/20'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 3 - 2000/20'>, <Selector xpath='//pre/text()' data=u'\r\nDivision One Promotion Playoffs\r\n    S'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2001/2002'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Barclaycard Premiership - 2001/2002'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 2001/20'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 2 - 2001/20'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 3 - 2001/20'>, <Selector xpath='//pre/text()' data=u'\r\nDivision One Promotion Playoffs\r\n    S'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2002/2003'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 2002/2003\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 1 - 2002/20'>, <Selector xpath='//pre/text()' data=u'Nationwide League Division 2 - 2002/2003'>, <Selector xpath='//pre/text()' data=u'\r\nNationwide League Division 3 - 2002/20'>, <Selector xpath='//pre/text()' data=u'\r\nDivision One Promotion Playoffs\r\n    S'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2003/2004'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 2003/2004\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'Nationwide League Division 1 - 2003/2004'>, <Selector xpath='//pre/text()' data=u'Nationwide League Division 2 - 2003/2004'>, <Selector xpath='//pre/text()' data=u'Nationwide League Division 3 - 2003/2004'>, <Selector xpath='//pre/text()' data=u'Nationwide Conference 2003/2004\r\n\r\n     '>, <Selector xpath='//pre/text()' data=u'Division One Promotion Playoffs\r\nSemi-Fi'>, <Selector xpath='//pre/text()' data=u'                              \t\t'>, <Selector xpath='//pre/text()' data=u'\r\nCrystal Palace 3-2 Sunderland         '>, <Selector xpath='//pre/text()' data=u'                             \t\t'>, <Selector xpath='//pre/text()' data=u'\r\nSunderland 2-1 Crystal Palace         '>, <Selector xpath='//pre/text()' data=u'\r\nMillennium Stadium, Cardiff\r\nCrystal P'>, <Selector xpath='//pre/text()' data=u'Division Two Promotion Playoffs\r\nSemi-Fi'>, <Selector xpath='//pre/text()' data=u'                              \t\t'>, <Selector xpath='//pre/text()' data=u'\r\nHartlepool United 1-1 Bristol City    '>, <Selector xpath='//pre/text()' data=u'                              \t\t'>, <Selector xpath='//pre/text()' data=u'\r\nBristol City 2-1 Hartlepool United    '>, <Selector xpath='//pre/text()' data=u'\r\nMillennium Stadium, Cardiff\r\nBristol C'>, <Selector xpath='//pre/text()' data=u'Division Three Promotion Playoffs\r\nSemi-'>, <Selector xpath='//pre/text()' data=u'                                      \t'>, <Selector xpath='//pre/text()' data=u'\r\nLincoln City 1-2 Huddersfield Town    '>, <Selector xpath='//pre/text()' data=u'                                      \t'>, <Selector xpath='//pre/text()' data=u'\r\nHuddersfield Town 2-2 Lincoln City    '>, <Selector xpath='//pre/text()' data=u'\r\nMillennium Stadium, Cardiff\r\nMansfield'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2004/2005'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 2004/2005\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'Nationwide - The Championship - 2004/200'>, <Selector xpath='//pre/text()' data=u'Nationwide - The Championship League One'>, <Selector xpath='//pre/text()' data=u'Nationwide - The Championship League Two'>, <Selector xpath='//pre/text()' data=u'Nationwide Football Conference 2004/2005'>, <Selector xpath='//pre/text()' data=u'\r\nThe Championship Play-offs\r\n14 May 200'>, <Selector xpath='//pre/text()' data=u'\r\nLeague One Play-offs\r\n12 May 2005\r\nShe'>, <Selector xpath='//pre/text()' data=u'\r\nLeague Two Play-offs\r\n14 May 2005\r\nLin'>, <Selector xpath='//pre/text()' data=u'\r\nConferance Play-offs\r\n02 May 2005\r\nAld'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2005/2006'>],"[<Selector xpath='//pre/text()' data=u'\r\nFA Carling Premiership - 2005/2006\r\n\r\n'>, <Selector xpath='//pre/text()' data=u'Nationwide - The Championship - 2005/200'>, <Selector xpath='//pre/text()' data=u'Nationwide - The Championship League One'>, <Selector xpath='//pre/text()' data=u'Nationwide - The Championship League Two'>, <Selector xpath='//pre/text()' data=u'Nationwide Football Conference 2005/2006'>, <Selector xpath='//pre/text()' data=u'\r\n\r\nPLAY OFFS\r\nLeeds United          1  '>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nBarnsley              0  Hu'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nLincoln City          0  Gr'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nHalifax Town          3  Gr'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2007/2008'>],"[<Selector xpath='//pre/text()' data=u'\r\nPremier League - 2007/2008\r\n          '>, <Selector xpath='//pre/text()' data=u'The Championship - 2007/2008\r\n          '>, <Selector xpath='//pre/text()' data=u'The Championship League One - 2007/2008\r'>, <Selector xpath='//pre/text()' data=u'The Championship League Two - 2007/2008\r'>, <Selector xpath='//pre/text()' data=u'Football Conference 2007/2008\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nCrystal Palace        1  Br'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nSouthend United       0  Do'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nDarlington            2  Ro'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nExeter City           1  To'>]"
+[<Selector xpath='//head/title/text()' data=u'England 2006/2007'>],"[<Selector xpath='//pre/text()' data=u'\r\nPremier League - 2006/2007\r\n          '>, <Selector xpath='//pre/text()' data=u'The Championship - 2006/2007\r\n          '>, <Selector xpath='//pre/text()' data=u'The Championship League One - 2006/2007\r'>, <Selector xpath='//pre/text()' data=u'The Championship League Two - 2006/2007\r'>, <Selector xpath='//pre/text()' data=u'Football Conference 2006/2007\r\n         '>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nSouthampton           1  De'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nYeovil Town           0  No'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nBirstol Rovers        2  Li'>, <Selector xpath='//pre/text()' data=u'\r\nPLAY OFFS\r\nExeter City           0  Ox'>]"
+tables,year
+England 1888/89,"
+Cross-Table:
+                Acc Ast Bla Bol Bur Der Eve Not Pre Sto WBA Wol
+Accrington      xxx 1-1 0-2 2-3 5-1 6-2 3-1 1-2 0-0 2-0 2-1 4-4
+Aston Villa     4-3 xxx 6-1 6-2 4-2 4-2 2-1 9-1 0-2 5-1 2-0 2-1
+Blackburn       5-5 5-1 xxx 4-4 4-2 3-0 3-0 5-2 2-2 5-2 6-2 2-2
+Bolton          4-1 2-3 3-2 xxx 3-4 3-6 6-2 7-3 2-5 2-1 1-2 2-1
+Burnley         2-2 4-0 1-7 4-1 xxx 1-0 2-2 1-0 2-2 2-1 2-0 0-4
+Derby County    1-1 5-2 0-2 2-3 1-0 xxx 2-4 3-2 2-3 2-1 1-2 3-0
+Everton         2-1 2-0 3-1 2-1 3-2 6-2 xxx 2-1 0-2 2-1 1-4 1-2
+Notts County    3-3 2-4 3-3 0-4 6-1 3-5 3-1 xxx 0-7 0-3 2-1 3-0
+Preston         2-0 1-1 1-0 3-1 5-2 5-0 3-0 4-1 xxx 7-0 3-0 5-2
+Stoke City      2-4 1-1 2-1 2-2 4-3 1-1 0-0 3-0 0-3 xxx 0-2 0-1
+W.B.A.          2-2 3-3 2-1 1-5 4-3 5-0 1-0 4-2 0-5 2-0 xxx 1-3
+Wolverhampton   4-0 1-1 2-2 3-2 4-1 4-1 4-0 2-1 0-4 4-1 2-1 xxx
+ 
+,
+Final Table:
+
+Supplied by Stuart Jackson. 
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. PRESTON NORTH END        22  10  1  0  39   7   8  3  0  35   8   40
+ 2. Aston Villa              22  10  0  1  44  16   2  5  4  17  27   29
+ 3. Wolverhampton Wanderers  22   8  2  1  30  14   4  2  5  20  23   28
+ 4. Blackburn Rovers         22   7  4  0  44  22   3  2  6  22  23   26
+ 5. Bolton Wanderers         22   6  0  5  35  30   4  2  5  28  29   22
+ 6. West Bromwich Albion     22   6  2  3  25  24   4  0  7  15  22   22
+ 7. Accrington               22   5  3  3  26  17   1  5  5  22  31   20
+ 8. Everton                  22   8  0  3  24  17   1  2  8  11  29   20
+ 9. Burnley                  22   6  3  2  21  19   1  0 10  21  43   17
+10. Derby County             22   5  1  5  22  20   2  1  8  19  41   16
+11. Notts County             22   4  2  5  25  32   1  0 10  15  41   12
+12. Stoke City               22   3  4  4  15  18   1  0 10  11  33   12
+
+"
+England 1891/92,"
+Cross-Table:
+                Acc Ast Bla Bol Bur  Dar Der Eve Not Pre Sto Sun WBA Wol
+Accrington      xxx 3-2 1-0 0-3 1-0  1-1 1-1 1-1 2-0 1-3 3-0 3-5 4-2 3-2
+Aston Villa    12-2 xxx 5-1 1-2 6-1  7-0 6-0 3-4 5-1 3-1 2-1 5-3 5-1 3-6
+Blackburn       2-2 4-3 xxx 4-0 3-3  4-0 0-2 2-2 5-4 2-4 5-3 3-1 3-2 2-0
+Bolton          3-4 1-2 4-2 xxx 2-0  1-0 3-1 1-0 2-0 3-0 1-1 4-3 1-1 3-0
+Burnley         2-1 4-1 3-0 1-2 xxx  9-0 2-4 1-0 1-0 2-0 4-1 1-2 3-2 1-1
+Darwen          5-2 1-5 3-5 1-2 2-6  xxx 2-0 3-1 2-3 0-4 9-3 1-7 1-1 1-4
+Derby County    3-1 4-2 1-1 3-2 0-1  7-0 xxx 0-3 3-0 1-2 3-3 0-1 1-1 2-1
+Everton         3-0 5-1 3-1 2-5 1-1  5-3 1-2 xxx 4-0 1-1 1-0 0-4 4-3 2-1
+Notts County    9-0 5-2 2-2 2-0 5-1  5-0 2-1 1-3 xxx 2-0 1-1 1-0 4-0 2-2
+Preston         4-1 0-1 3-2 4-0 5-1  4-0 3-0 4-0 6-0 xxx 3-2 3-1 1-0 2-0
+Stoke City      3-1 2-3 0-1 0-1 3-0  5-1 2-1 0-1 1-3 0-1 xxx 1-3 1-0 1-3
+Sunderland      4-1 2-1 6-1 4-1 2-1  7-0 7-1 2-1 4-0 4-1 4-1 xxx 4-0 5-2
+W.B.A.          3-1 0-3 2-2 0-2 1-0 12-0 4-2 4-0 2-2 1-2 2-2 2-5 xxx 4-3
+Wolverhampton   5-0 2-0 6-1 1-2 0-0  2-2 1-3 5-1 2-1 3-0 4-1 1-3 2-1 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. SUNDERLAND               26  13  0  0  55  11   8  0  5  38  25   42
+ 2. Preston North End        26  12  0  1  42   8   6  1  6  19  23   37
+ 3. Bolton Wanderers         26   9  2  2  29  14   8  0  5  22  23   36
+ 4. Aston Villa              26  10  0  3  63  23   5  0  8  26  33   30
+ 5. Everton                  26   8  2  3  32  22   4  2  7  17  27   28
+ 6. Wolverhampton Wanderers  26   8  2  3  34  15   3  2  8  25  31   26
+ 7. Burnley                  26   9  1  3  34  14   2  3  8  15  31   26
+ 8. Notts County             26   9  3  1  41  12   2  1 10  14  39   26
+ 9. Blackburn Rovers         26   8  3  2  39  26   2  3  8  19  39   26
+10. Derby County             26   6  3  4  28  18   4  1  8  18  34   24
+11. Accrington               26   7  3  3  24  20   1  1 11  16  58   20
+12. West Bromwich Albion     26   6  3  4  37  24   0  3 10  14  34   18
+13. Stoke City               26   5  0  8  19  19   0  4  9  19  42   14
+14. Darwen                   26   4  1  8  31  43   0  2 11   7  69   11
+
+"
+England 1889/90,"
+Cross-Table:
+                Acc Ast Bla Bol Bur Der Eve Not Pre  Sto WBA Wol
+Accrington      xxx 4-2 2-2 3-1 2-2 6-1 5-3 1-8 2-2  2-1 0-0 6-3
+Aston Villa     1-2 xxx 3-0 1-2 2-2 7-1 1-2 1-1 5-3  6-1 1-0 2-1
+Blackburn       3-2 7-0 xxx 7-1 7-1 4-2 2-4 9-1 3-4  8-0 5-0 4-3
+Bolton          2-4 2-0 3-2 xxx 2-2 7-1 3-4 0-4 2-6  5-0 7-0 4-1
+Burnley         2-2 2-6 1-2 7-0 xxx 2-0 0-1 3-0 0-3  1-3 1-2 1-2
+Derby County    2-3 5-0 4-0 3-2 4-1 xxx 2-2 2-0 2-1  2-0 3-1 3-3
+Everton         2-2 7-0 3-2 3-0 2-1 3-0 xxx 5-3 1-5  8-0 5-1 1-1
+Notts County    3-1 1-1 1-1 3-5 1-1 3-1 4-3 xxx 0-1  3-1 1-2 0-2
+Preston         3-1 3-2 1-1 3-1 6-0 5-0 1-2 4-3 xxx 10-0 5-0 0-2
+Stoke City      7-1 1-1 0-3 0-1 3-4 1-1 1-2 1-1 1-2  xxx 1-3 2-1
+W.B.A.          4-1 3-0 3-2 6-3 6-1 2-3 4-1 4-2 2-2  2-1 xxx 1-4
+Wolverhampton   2-1 1-1 2-4 5-1 9-1 2-1 2-1 2-0 0-1  2-2 1-1 xxx
+ 
+,
+Final Table:
+
+Supplied by Stuart Jackson. 
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. PRESTON NORTH END        22   8  1  2  41  12   7  2  2  30  18   33
+ 2. Everton                  22   8  2  1  40  15   6  1  4  25  25   31
+ 3. Blackburn Rovers         22   9  0  2  59  18   3  3  5  19  23   27
+ 4. Wolverhampton Wanderers  22   6  3  2  28  14   4  2  5  23  24   25
+ 5. West Bromwich Albion     22   8  1  2  37  20   3  2  6  10  30   25
+ 6. Accrington               22   6  4  1  33  25   3  2  6  20  31   24
+ 7. Derby County             22   8  2  1  32  13   1  1  9  11  42   21
+ 8. Aston Villa              22   6  2  3  30  15   1  3  7  13  36   19
+ 9. Bolton Wanderers         22   6  1  4  37  24   3  0  8  17  41   19
+10. Notts County             22   4  3  4  20  19   2  2  7  23  32   17
+11. Burnley                  22   3  1  7  20  21   1  4  6  16  44   13
+12. Stoke City               22   2  3  6  18  20   1  1  9   9  49   10
+
+"
+England 1894/95,"
+League Division 1
+
+Cross-Table:
+                Ast Bir Bla Bol Bur Der Eve Liv NmF Pre ShU ShW Sto Sun WBA Wol
+Aston Villa     xxx 2-1 3-0 2-1 5-0 4-0 2-2 5-0 4-1 4-1 5-0 3-1 6-0 1-2 3-1 2-2
+Birmingham      2-2 xxx 1-1 2-0 1-0 3-5 4-4 3-0 1-2 4-4 4-2 0-0 4-2 1-1 1-2 4-3
+Blackburn       1-3 9-1 xxx 2-1 1-0 0-0 4-3 1-1 0-0 1-1 3-2 3-1 6-0 1-1 3-0 5-1
+Bolton          4-3 1-2 1-3 xxx 1-1 6-0 1-3 1-0 4-1 1-2 6-2 2-2 2-2 4-1 5-0 6-1
+Burnley         3-3 3-1 2-1 1-0 xxx 2-0 2-4 3-3 0-1 2-1 2-4 3-0 1-2 0-3 2-0 2-1
+Derby County    0-2 4-1 0-0 2-2 0-2 xxx 2-2 0-1 4-2 2-1 4-1 1-2 1-1 1-2 1-1 1-3
+Everton         4-2 5-0 2-1 3-1 3-2 2-3 xxx 3-0 6-1 4-2 1-1 3-1 3-0 2-2 4-1 2-1
+Liverpool       1-2 3-1 2-2 1-2 0-3 5-1 2-2 xxx 5-0 2-5 2-2 4-2 2-0 2-3 4-0 3-3
+Nottm Forest    2-1 2-0 2-3 3-3 2-1 2-1 2-3 3-0 xxx 0-2 3-0 2-1 3-1 2-1 5-3 0-2
+Preston         0-1 0-1 1-1 2-2 4-0 3-2 1-2 2-2 3-1 xxx 2-1 3-1 3-0 1-0 5-0 2-0
+Sheffield Utd   2-1 0-2 3-0 5-0 2-2 1-4 4-2 2-2 3-2 0-1 xxx 1-0 3-0 4-0 2-1 1-0
+Sheffield Wedn  1-0 2-0 4-1 2-1 4-3 1-1 3-0 5-0 0-0 3-1 2-3 xxx 2-4 1-2 3-2 3-1
+Stoke City      4-1 2-2 5-1 5-0 5-1 4-1 1-3 3-1 0-3 2-1 1-3 0-2 xxx 2-5 1-1 0-0
+Sunderland      4-4 7-1 3-2 4-0 3-0 8-0 2-1 3-2 2-2 2-0 2-0 3-1 3-1 xxx 3-0 2-0
+W.B.A.          3-2 4-1 2-0 1-1 0-1 2-2 1-4 5-0 1-0 4-5 1-0 6-0 3-2 0-2 xxx 5-1
+Wolverhampton   0-4 2-1 3-3 4-2 1-0 2-2 1-0 3-1 1-1 1-3 0-3 2-0 0-0 1-4 3-1 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. SUNDERLAND               30  13  2  0  51  14   8  3  4  29  23   47
+ 2. Everton                  30  12  2  1  47  18   6  4  5  35  32   42
+ 3. Aston Villa              30  12  2  1  51  12   5  3  7  31  31   39
+ 4. Preston North End        30   9  3  3  32  14   6  2  7  30  32   35
+ 5. Blackburn Rovers         30   9  5  1  40  15   2  5  8  19  34   32
+ 6. Sheffield United         30  10  2  3  33  17   4  2  9  24  38   32
+ 7. Nottingham Forest        30  10  1  4  33  22   3  4  8  17  34   31
+ 8. Sheffield Wednesday      30  10  2  3  36  19   2  2 11  14  36   28
+ 9. Burnley                  30   8  2  5  28  24   3  2 10  16  32   26
+10. Bolton Wanderers         30   8  3  4  45  23   1  4 10  16  39   25
+11. Wolverhampton Wanderers  30   7  4  4  24  25   2  3 10  19  38   25
+12. Birmingham City          30   6  6  3  35  28   3  1 11  15  46   25
+13. West Bromwich Albion     30   9  2  4  38  21   1  2 12  13  45   24
+14. Stoke City               30   7  3  5  35  25   2  3 10  15  42   24
+15. Derby County             30   4  5  6  23  23   3  4  8  22  45   23
+16. LIVERPOOL                30   6  4  5  38  28   1  4 10  13  42   22
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. BURY                     30  15  0  0  48  11   8  2  5  30  22   48
+ 2. Notts County             30  12  2  1  50  15   5  3  7  25  30   39
+ 3. Newton Heath             30   9  6  0  52  18   6  2  7  26  26   38
+ 4. Leicester City           30  11  2  2  45  20   4  6  5  27  33   38
+ 5. Grimsby Town             30  14  0  1  51  16   4  1 10  28  36   37
+ 6. Darwen                   30  13  1  1  53  10   3  3  9  21  33   36
+ 7. Burton Wanderers         30  10  3  2  49   9   4  4  7  18  30   35
+ 8. Arsenal                  30  11  3  1  54  20   3  3  9  21  38   34
+ 9. Manchester City          30   9  3  3  56  28   5  0 10  26  44   31
+10. Newcastle United         30  11  1  3  51  28   1  2 12  21  56   27
+11. Burton United            30   9  2  4  34  20   2  1 12  18  54   25
+12. Rotherham Town           30  10  0  5  37  22   1  2 12  18  40   24
+13. Lincoln City             30   8  0  7  32  27   2  0 13  20  65   20
+14. Walsall                  30   8  0  7  35  25   2  0 13  12  67   20
+15. Port Vale                30   6  3  6  30  23   1  1 13   9  54   18
+16. Crewe Alexandra          30   3  4  8  20  34   0  0 15   6  69   10
+,
+
+Test Matches - 1894/95
+
+Sat 27 Apr  Bury.......... 1  Liverpool.......... 0
+
+Sat 27 Apr  Derby County.. 2  Notts County....... 1
+
+Sat 27 Apr  Stoke City.... 3  Newton Heath....... 0
+
+"
+England 1893/94,"
+League Division 1
+
+Cross-Table:
+                Ast Bla Bol Bur Dar Der Eve New NmF Pre ShU ShW Sto Sun WBA Wol
+Aston Villa     xxx 2-1 2-3 4-0 9-0 1-1 3-1 5-1 3-1 2-0 4-0 3-0 5-1 2-1 3-2 1-1
+Blackburn       2-0 xxx 0-1 3-2 4-1 0-2 4-3 4-0 6-1 1-0 4-1 5-1 5-0 4-3 3-0 3-0
+Bolton          0-1 2-1 xxx 2-0 1-0 1-1 0-1 2-0 1-1 0-3 0-1 1-1 4-1 2-0 0-3 2-0
+Burnley         3-6 1-0 2-1 xxx 5-1 3-1 2-1 4-1 3-1 4-1 4-1 0-1 4-0 1-0 3-0 4-2
+Darwen          1-1 2-3 1-3 0-0 xxx 2-3 3-3 1-0 0-4 2-1 3-3 2-1 3-1 0-3 2-1 3-1
+Derby County    0-3 5-2 6-1 3-3 2-1 xxx 7-3 2-0 3-4 2-1 2-1 3-3 5-2 1-4 2-3 4-1
+Everton         4-2 2-2 3-2 4-3 8-1 1-2 xxx 2-0 4-0 2-3 2-3 8-1 6-2 7-1 7-1 3-0
+Newton Heath    1-3 5-1 2-2 3-2 0-1 2-6 0-3 xxx 1-1 1-3 0-2 1-2 6-2 2-4 4-1 1-0
+Nottm Forest    1-2 0-0 1-0 5-0 4-1 4-2 3-2 2-0 xxx 4-2 1-1 1-0 2-0 1-2 2-3 7-1
+Preston         2-5 0-1 1-0 1-2 4-1 1-0 2-4 2-0 0-2 xxx 3-0 1-0 3-3 1-2 3-1 1-3
+Sheffield Utd   3-0 3-2 4-2 1-0 2-1 1-2 0-3 3-1 0-2 1-1 xxx 1-1 3-3 1-0 0-2 3-2
+Sheffield Wedn  2-2 4-2 2-1 0-1 5-0 4-0 1-1 0-1 1-0 3-0 1-2 xxx 4-1 2-2 2-4 1-4
+Stoke City      3-3 3-1 5-0 4-2 3-1 3-1 3-1 3-1 2-1 2-1 5-0 4-1 xxx 2-0 3-1 0-3
+Sunderland      1-1 2-3 2-1 2-2 4-0 5-0 1-0 4-1 2-0 6-3 4-1 1-1 4-0 xxx 2-1 6-0
+W.B.A.          3-6 2-1 5-2 1-1 2-2 0-1 3-1 3-1 3-0 2-0 3-1 2-2 4-2 2-3 xxx 0-0
+Wolverhampton   3-0 5-1 2-1 1-0 2-1 2-4 2-0 2-0 3-1 0-0 3-4 3-1 4-2 2-1 0-8 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ASTON VILLA              30  12  2  1  49  13   7  4  4  35  29   44
+ 2. Sunderland               30  11  3  1  46  14   6  1  8  26  30   38
+ 3. Derby County             30   9  2  4  47  32   7  2  6  26  30   36
+ 4. Blackburn Rovers         30  13  0  2  48  15   3  2 10  21  38   34
+ 5. Burnley                  30  13  0  2  43  17   2  4  9  18  34   34
+ 6. Everton                  30  11  1  3  63  23   4  2  9  27  34   33
+ 7. Nottingham Forest        30  10  2  3  38  16   4  2  9  19  32   32
+ 8. West Bromwich Albion     30   8  4  3  35  23   6  0  9  31  36   32
+ 9. Wolverhampton Wanderers  30  11  1  3  34  24   3  2 10  18  39   31
+10. Sheffield United         30   8  3  4  26  22   5  2  8  21  39   31
+11. Stoke City               30  13  1  1  45  17   0  2 13  20  62   29
+12. Sheffield Wednesday      30   7  3  5  32  21   2  5  8  16  36   26
+13. Bolton Wanderers         30   7  3  5  18  14   3  1 11  20  38   24
+14. Preston North End        30   7  1  7  25  24   3  2 10  19  32   23
+15. DARWEN                   30   6  4  5  25  28   1  1 13  12  55   19
+16. NEWTON HEATH             30   5  2  8  29  33   1  0 14   7  39   14
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. LIVERPOOL                28  14  0  0  46   6   8  6  0  31  12   50
+ 2. BIRMINGHAM CITY          28  12  0  2  68  19   9  0  5  35  25   42
+ 3. Notts County             28  12  1  1  55  14   6  2  6  15  17   39
+ 4. Newcastle United         28  12  1  1  44  10   3  5  6  22  29   36
+ 5. Grimsby Town             28  11  1  2  47  16   4  1  9  24  42   32
+ 6. Burton United            28   9  1  4  52  26   5  2  7  27  35   31
+ 7. Port Vale                28  10  2  2  43  20   3  2  9  23  44   30
+ 8. Lincoln City             28   5  4  5  31  22   6  2  6  28  36   28
+ 9. Arsenal                  28   9  1  4  33  19   3  3  8  19  36   28
+10. Walsall                  28   8  1  5  36  23   2  2 10  15  38   23
+11. Middlesbrough Ironopolis 28   7  4  3  27  20   1  0 13  10  52   20
+12. Crewe Alexandra          28   3  7  4  22  22   3  0 11  20  51   19
+13. Manchester City          28   6  1  7  32  20   2  1 11  15  51   18
+14. Rotherham Town           28   5  1  8  28  42   1  2 11  16  49   15
+15. Northwich Victoria       28   3  3  8  17  34   0  0 14  13  64    9
+,
+
+Sat 28 Apr  Birmingham City.... 3  Darwen............. 1
+
+Sat 28 Apr  Liverpool.......... 2  Newton Heath....... 0
+
+Sat 28 Apr  Preston North End.. 4  Notts County....... 0
+
+"
+England 1892/93,"
+League Division 1
+
+Cross-Table:
+                Acc Ast Bla Bol Bur Der Eve New NmF NsC Pre ShW Sto Sun WBA  Wol
+Accrington      xxx 1-1 1-1 1-1 0-4 0-3 0-3 2-2 1-1 4-2 1-2 4-2 5-2 0-6 5-4  4-0
+Aston Villa     6-4 xxx 4-1 1-1 1-3 6-1 4-1 2-0 1-0 3-1 3-1 5-1 3-2 1-6 5-2  5-0
+Blackburn       3-3 2-2 xxx 3-0 2-0 2-2 2-2 4-3 0-1 1-0 0-0 0-2 3-3 2-2 2-1  3-3
+Bolton          5-2 5-0 2-1 xxx 1-0 0-3 4-1 4-1 3-1 4-1 2-4 1-0 4-4 2-1 3-1  3-1
+Burnley         1-3 0-2 0-0 3-0 xxx 2-1 3-0 4-1 1-1 3-0 4-2 4-0 3-2 2-3 5-0  2-0
+Derby County    3-3 2-1 3-0 1-1 1-0 xxx 1-6 5-1 2-3 4-5 1-2 2-2 1-0 1-1 1-1  2-2
+Everton         1-1 1-0 4-0 3-0 0-1 5-0 xxx 6-0 2-2 6-0 6-0 3-5 2-2 1-4 1-0  3-2
+Newton Heath    3-3 2-0 4-4 1-0 1-1 7-1 3-4 xxx 1-3 1-3 2-1 1-5 1-0 0-5 2-4 10-1
+Nottm Forest    3-0 4-5 0-1 2-0 2-2 1-0 2-1 1-1 xxx 3-1 1-2 2-0 3-4 0-5 3-4  3-1
+Notts County    2-0 1-4 0-0 2-2 3-1 1-1 1-2 4-0 3-0 xxx 3-1 0-1 0-1 3-1 8-1  3-0
+Preston         0-0 4-1 2-1 2-1 2-0 0-1 5-0 2-1 1-0 4-0 xxx 4-1 2-1 1-2 1-1  4-0
+Sheffield Wedn  5-2 5-3 0-3 4-2 2-0 3-3 0-2 1-0 2-2 3-2 0-5 xxx 0-1 3-2 6-0  0-1
+Stoke City      2-2 0-1 2-2 6-0 4-1 1-3 0-1 7-1 3-0 1-0 2-1 2-0 xxx 0-1 1-2  2-1
+Sunderland      4-2 6-0 5-0 3-3 2-0 3-1 4-3 6-0 1-0 2-2 2-0 4-2 3-1 xxx 8-1  5-2
+W.B.A.          4-0 3-2 1-2 1-0 7-1 3-1 3-0 0-0 2-2 4-2 0-1 3-0 1-2 1-3 xxx  2-1
+Wolverhampton   5-3 2-1 4-2 1-2 1-0 2-1 2-4 2-0 2-2 3-0 2-1 2-0 1-0 2-0 1-1  xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. SUNDERLAND               30  13  2  0  58  17   9  2  4  42  19   48
+ 2. Preston North End        30  11  2  2  34  10   6  1  8  23  29   37
+ 3. Everton                  30   9  3  3  44  17   7  1  7  30  34   36
+ 4. Aston Villa              30  12  1  2  50  24   4  2  9  23  38   35
+ 5. Bolton Wanderers         30  12  1  2  43  21   1  5  9  13  34   32
+ 6. Burnley                  30  10  2  3  37  15   3  2 10  14  29   30
+ 7. Stoke City               30   8  2  5  33  16   4  3  8  25  32   29
+ 8. West Bromwich Albion     30   9  2  4  35  17   3  3  9  23  52   29
+ 9. Blackburn Rovers         30   5  8  2  29  24   3  5  7  18  32   29
+10. Nottingham Forest        30   7  2  6  30  27   3  6  6  18  25   28
+11. Wolverhampton Wanderers  30  11  2  2  32  17   1  2 12  15  51   28
+12. Sheffield Wednesday      30   8  2  5  34  28   4  1 10  21  37   27
+13. Derby County             30   5  6  4  30  28   4  3  8  22  36   27
+14. NOTTS COUNTY             30   8  3  4  34  15   2  1 12  19  46   24
+15. Accrington               30   5  5  5  29  34   1  6  8  28  47   23
+16. Newton Heath             30   6  3  6  39  35   0  3 12  11  50   18
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. Birmingham City          22  10  1  0  57  16   7  1  3  33  19   36
+ 2. SHEFFIELD UNITED         22  10  1  0  35   8   6  2  3  27  11   35
+ 3. DARWEN                   22  10  0  1  43  15   4  2  5  17  21   30
+ 4. Grimsby Town             22   8  1  2  25   7   3  0  8  17  34   23
+ 5. Manchester City          22   6  3  2  27  14   3  0  8  18  26   21
+ 6. Burton United            22   7  1  3  30  18   2  1  8  17  29   20
+ 7. Northwich Victoria       22   7  0  4  25  26   2  2  7  17  32   20
+ 8. Bootle                   22   8  1  2  35  20   0  2  9  14  43   19
+ 9. Lincoln City             22   6  2  3  30  18   1  1  9  15  33   17
+10. Crewe Alexandra          22   6  1  4  30  24   0  2  9  12  45   15
+11. Port Vale                22   4  1  6  16  23   2  2  7  14  34   15
+12. Walsall                  22   4  3  4  25  24   1  0 10  12  51   13
+,
+
+Test Matches - 1892/93
+
+Fri 22 Apr  Birmingham City.... 1  Newton Heath....... 1
+Wed 27 Apr  Newton Heath....... 5  Birmingham City.... 2
+
+Fri 22 Apr  Darwen............. 3  Notts County....... 2
+
+Fri 22 Apr  Sheffield United... 1  Accrington......... 0
+
+"
+England 1895/96,"
+League Division 1
+
+Cross-Table:
+                Ast Bir Bla Bol Brn Bry Der Eve NmF Pre ShU ShW Sto Sun WBA Wol
+Aston Villa     xxx 7-3 3-1 2-0 5-1 2-0 4-1 4-3 3-1 1-0 2-2 2-1 5-2 2-1 1-0 4-1
+Birmingham      1-4 xxx 2-1 1-2 1-0 1-0 1-3 0-3 1-0 5-2 2-1 1-1 1-2 0-1 2-2 3-2
+Blackburn       1-1 2-1 xxx 3-2 1-0 0-2 0-2 2-3 2-0 3-0 1-0 2-1 3-1 2-4 1-0 3-1
+Bolton          2-2 4-1 1-1 xxx 1-0 2-4 2-1 3-1 2-1 1-0 4-1 2-0 3-1 1-0 2-1 4-0
+Burnley         3-4 1-1 6-0 1-2 xxx 3-0 2-2 1-1 0-0 1-0 5-0 2-0 2-0 0-0 3-0 3-1
+Bury            5-3 4-5 2-0 0-3 3-4 xxx 1-2 1-1 1-0 1-2 1-0 6-1 0-1 1-2 3-0 3-0
+Derby County    2-2 8-0 0-0 2-1 5-1 2-1 xxx 2-1 4-0 1-0 0-2 3-1 2-1 2-0 4-1 5-2
+Everton         2-0 3-0 0-2 1-1 2-1 3-2 2-2 xxx 6-2 3-2 5-0 2-2 7-2 1-0 1-1 2-0
+Nottm Forest    0-2 3-0 4-2 0-0 2-1 5-0 2-5 2-1 xxx 0-1 3-1 1-0 4-0 3-1 2-0 3-2
+Preston         4-3 3-2 1-1 1-0 1-1 1-1 1-0 1-1 6-0 xxx 4-3 0-1 0-1 4-1 0-0 4-3
+Sheffield Utd   2-1 2-0 1-1 1-0 1-1 8-0 1-1 1-2 2-1 2-1 xxx 1-1 1-0 1-2 2-0 2-1
+Sheffield Wedn  1-3 3-0 3-0 1-1 1-0 1-3 0-4 3-1 3-0 1-1 1-0 xxx 2-1 3-0 5-3 3-1
+Stoke City      1-2 6-1 3-0 2-0 2-1 0-2 2-1 1-2 1-0 4-0 4-0 5-0 xxx 5-0 3-1 4-1
+Sunderland      2-1 2-1 2-1 1-0 3-1 0-0 2-2 3-0 1-1 4-1 1-1 2-1 4-1 xxx 7-1 2-2
+W.B.A.          1-1 0-0 3-2 2-3 0-2 1-3 0-0 0-3 3-1 1-2 1-0 2-3 1-0 1-1 xxx 2-1
+Wolverhampton   1-2 7-2 1-2 5-0 5-1 1-0 2-0 2-3 6-1 2-1 4-1 4-0 1-0 1-3 1-2 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+	             	      P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ASTON VILLA              30  14  1  0  47  17   6  4  5  31  28   45
+ 2. Derby County             30  12  2  1  42  13   5  5  5  26  22   41
+ 3. Everton                  30  10  4  1  40  17   6  3  6  26  26   39
+ 4. Bolton Wanderers         30  12  2  1  34  14   4  3  8  15  23   37
+ 5. Sunderland               30  10  5  0  36  14   5  2  8  16  27   37
+ 6. Stoke City               30  12  0  3  43  11   3  0 12  13  36   30
+ 7. Sheffield Wednesday      30  10  2  3  31  18   2  3 10  13  35   29
+ 8. Blackburn Rovers         30  10  1  4  26  18   2  4  9  14  32   29
+ 9. Preston North End        30   8  5  2  31  18   3  1 11  13  30   28
+10. Burnley                  30   8  5  2  33  11   2  2 11  15  33   27
+11. Bury                     30   7  1  7  32  24   5  2  8  18  30   27
+12. Sheffield United         30   9  4  2  28  12   1  2 12  12  38   26
+13. Nottingham Forest        30  11  1  3  34  16   0  2 13   8  41   25
+14. Wolverhampton Wanderers  30  10  0  5  43  18   0  1 14  18  47   21
+15. BIRMINGHAM CITY          30   7  2  6  22  24   1  2 12  17  55   20
+16. West Bromwich Albion     30   5  4  6  18  22   1  3 11  12  37   19
+,
+League Division 2
+		              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. LIVERPOOL                30  14  1  0  65  11   8  1  6  41  21   46
+ 2. Manchester City          30  12  3  0  37   9   9  1  5  26  29   46
+ 3. Grimsby Town             30  14  1  0  51   9   6  1  8  31  29   42
+ 4. Burton Wanderers         30  12  1  2  43  15   7  3  5  26  25   42
+ 5. Newcastle United         30  14  0  1  57  14   2  2 11  16  36   34
+ 6. Manchester United        30  12  2  1  48  15   3  1 11  18  42   33
+ 7. Arsenal                  30  11  1  3  43  11   3  3  9  16  31   32
+ 8. Leicester City           30  10  0  5  40  16   4  4  7  17  28   32
+ 9. Darwen                   30   9  4  2  55  22   3  2 10  17  45   30
+10. Notts County             30   8  1  6  41  22   4  1 10  16  32   26
+11. Burton United            30   7  2  6  24  26   3  2 10  15  43   24
+12. Loughborough             30   7  3  5  32  25   2  2 11   8  42   23
+13. Lincoln City             30   7  1  7  36  24   2  3 10  17  51   22
+14. Port Vale                30   6  4  5  25  24   1  0 14  18  54   18
+15. Rotherham Town           30   7  2  6  27  26   0  1 14   7  71   17
+16. Crewe Alexandra          30   5  2  8  22  28   0  1 14   8  67   13
+,
+"
+England 1890/91,"
+Cross-Table:
+                Acc Ast Bla Bol Bur Der Eve Not Pre Sun WBA Wol
+Accrington      xxx 1-3 0-4 2-1 1-1 4-0 1-2 3-2 1-3 4-1 1-0 1-2
+Aston Villa     3-1 xxx 2-2 5-0 4-4 4-0 2-2 3-2 0-1 0-0 0-4 6-2
+Blackburn       0-0 5-1 xxx 0-2 5-2 8-0 2-1 1-7 1-0 3-2 2-1 2-3
+Bolton          6-0 4-0 2-0 xxx 1-0 3-1 0-5 4-2 1-0 2-5 7-1 6-0
+Burnley         2-0 2-1 1-6 1-2 xxx 6-1 3-2 0-1 6-2 3-3 5-4 4-2
+Derby County    1-2 5-4 8-5 1-1 2-4 xxx 2-6 3-1 1-3 3-1 3-1 9-0
+Everton         3-2 5-0 3-1 2-0 7-3 7-0 xxx 4-2 0-1 1-0 2-3 5-0
+Notts County    5-0 7-1 1-2 3-1 4-0 2-1 3-1 xxx 2-1 2-1 3-2 1-1
+Preston         1-1 4-1 1-2 1-0 7-0 6-0 2-0 0-0 xxx 0-0 3-0 5-1
+Sunderland      2-2 5-1 3-1 2-0 2-3 5-1 1-0 4-0 3-0 xxx 1-1 3-4
+W.B.A.          5-1 0-3 1-0 2-4 3-1 3-4 1-4 1-1 1-3 0-4 xxx 0-1
+Wolverhampton   3-0 2-1 2-0 1-0 3-1 5-1 0-1 1-1 2-0 0-3 4-0 xxx
+ 
+,
+Final Table:
+
+Supplied by Stuart Jackson. 
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. EVERTON                  22   9  0  2  39  12   5  1  5  24  17   29
+ 2. Preston North End        22   7  3  1  30   5   5  0  6  14  18   27
+ 3. Notts County             22   9  1  1  33  11   2  3  6  19  24   26
+ 4. Wolverhampton Wanderers  22   8  1  2  23   8   4  1  6  16  42   26
+ 5. Bolton Wanderers         22   9  0  2  36  14   3  1  7  11  20   25
+ 6. Blackburn Rovers         22   7  1  3  29  19   4  1  6  23  24   24
+ 7. * Sunderland             22   7  2  2  31  13   3  3  5  20  18   23
+ 8. Burnley                  22   7  1  3  33  24   2  2  7  19  39   21
+ 9. Aston Villa              22   5  4  2  29  18   2  0  9  16  40   18
+10. Accrington               22   5  1  5  19  19   1  3  7   9  31   16
+11. Derby County             22   6  1  4  38  28   1  0 10   9  53   15
+12. West Bromwich Albion     22   3  1  7  17  26   2  1  8  17  31   12
+
+* Two points deducted for fielding Ned Doig against WBA 12/9/1890,
+  before the League approved his registration from Arbroath.
+
+"
+England 1896/97,"
+League Division 1
+
+Cross-Table:
+                Ast Bla Bol Brn Bry Der Eve Liv NmF Pre ShU ShW Sto Sun WBA Wol
+Aston Villa     xxx 3-0 6-2 0-3 1-1 2-1 1-2 0-0 3-2 3-1 2-2 4-0 2-1 2-1 2-0 5-0
+Blackburn       1-5 xxx 1-0 3-2 1-2 5-2 4-2 1-0 0-0 0-4 1-3 4-0 2-1 1-2 1-2 2-0
+Bolton          1-2 0-0 xxx 2-1 2-0 1-3 2-0 1-4 0-0 3-1 0-2 2-1 4-0 1-0 2-2 1-2
+Burnley         3-4 0-1 0-2 xxx 1-0 2-3 2-1 4-1 2-2 2-2 1-1 1-1 1-3 1-1 5-0 0-3
+Bury            0-2 3-0 2-2 1-1 xxx 1-0 3-1 1-2 2-0 0-0 0-1 1-1 4-2 1-1 3-0 3-2
+Derby County    1-3 6-0 1-0 3-2 7-2 xxx 0-1 3-2 1-1 2-2 1-3 2-1 5-1 1-0 8-1 4-3
+Everton         2-3 0-3 2-3 6-0 1-2 5-2 xxx 2-1 3-1 3-4 1-2 2-1 4-2 5-2 6-3 0-0
+Liverpool       3-3 4-0 0-2 1-2 3-1 2-0 0-0 xxx 3-0 0-0 0-0 2-2 1-0 3-0 0-0 3-0
+Nottm Forest    2-4 2-1 2-0 4-1 3-0 1-2 3-0 2-0 xxx 0-0 2-2 2-2 4-0 2-1 0-1 1-2
+Preston         0-1 3-1 2-3 5-3 2-2 0-2 4-1 1-1 3-2 xxx 1-0 2-2 3-0 5-3 0-0 4-0
+Sheffield Utd   0-0 7-0 1-0 1-0 2-2 2-2 1-2 1-1 0-3 0-2 xxx 2-0 1-0 3-0 0-1 1-3
+Sheffield Wedn  1-3 6-0 0-0 1-0 2-0 2-0 4-1 1-2 3-0 1-0 1-1 xxx 4-3 0-0 3-1 0-0
+Stoke City      0-2 1-0 2-3 3-2 3-0 2-2 2-3 6-1 3-0 2-1 2-0 0-0 xxx 0-1 2-2 2-1
+Sunderland      4-2 0-1 1-1 1-1 0-1 1-2 1-1 4-3 2-2 1-1 0-1 0-0 4-1 xxx 2-1 0-3
+W.B.A.          3-1 1-0 1-0 3-0 0-0 1-4 1-4 0-1 4-0 1-1 0-1 0-2 1-2 1-0 xxx 1-0
+Wolverhampton   1-2 1-1 4-0 2-0 1-1 1-0 0-1 1-2 4-1 1-1 1-1 2-0 1-2 0-1 6-1 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ASTON VILLA              30  10  3  2  36  16  11  2  2  37  22   47
+ 2. Sheffield United         30   6  4  5  22  16   7  6  2  20  13   36
+ 3. Derby County             30  10  2  3  45  22   6  2  7  25  28   36
+ 4. Preston North End        30   8  4  3  35  21   3  8  4  20  19   34
+ 5. Liverpool                30   7  6  2  25  10   5  3  7  21  28   33
+ 6. Sheffield Wednesday      30   9  4  2  29  11   1  7  7  13  26   31
+ 7. Everton                  30   8  1  6  42  29   6  2  7  20  28   31
+ 8. Bolton Wanderers         30   7  3  5  22  18   5  3  7  18  25   30
+ 9. Bury                     30   7  5  3  25  15   3  5  7  14  29   30
+10. Wolverhampton Wanderers  30   6  4  5  26  14   5  2  8  19  27   28
+11. Nottingham Forest        30   8  3  4  30  16   1  5  9  14  33   26
+12. West Bromwich Albion     30   7  2  6  18  16   3  4  8  15  40   26
+13. Stoke City               30   8  3  4  30  18   3  0 12  18  41   25
+14. Blackburn Rovers         30   8  1  6  27  25   3  2 10   8  37   25
+15. Sunderland               30   4  6  5  21  21   3  3  9  13  26   23
+16. BURNLEY                  30   4  5  6  25  25   2  2 11  18  36   19
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. NOTTS COUNTY             30  12  1  2  60  18   7  3  5  32  25   42
+ 2. Manchester United        30  11  4  0  37  10   6  1  8  19  24   39
+ 3. Grimsby Town             30  12  2  1  44  15   5  2  8  22  30   38
+ 4. Birmingham City          30   8  3  4  36  23   8  2  5  33  24   37
+ 5. Newcastle United         30  13  1  1  42  13   4  0 11  14  39   35
+ 6. Manchester City          30  10  3  2  39  15   2  5  8  19  35   32
+ 7. Gainsborough Trinity     30  10  2  3  35  16   2  5  8  15  31   31
+ 8. Blackpool                30  11  3  1  39  16   2  2 11  20  40   31
+ 9. Leicester City           30  11  2  2  44  19   2  2 11  15  37   30
+10. Arsenal                  30  10  1  4  42  20   3  3  9  26  50   30
+11. Darwen                   30  13  0  2  54  16   1  0 14  13  45   28
+12. Walsall                  30   8  2  5  37  25   3  2 10  16  44   26
+13. Loughborough             30  10  0  5  37  14   2  1 12  13  50   25
+14. Burton United            30   7  4  4  33  20   2  2 11  13  41   24
+15. Burton Wanderers         30   8  1  6  22  22   1  1 13   9  45   20
+16. Lincoln City             30   4  2  9  17  27   1  0 14  10  58   12
+,
+"
+England 1899/00,"
+League Division 1
+
+Cross-Table:
+                Ast Bla Bnl Bry Der Eve Glo Liv MaC New NmF NtC Pre ShU Sto Sun WBA Wol
+Aston Villa     xxx 3-1 2-0 2-1 3-2 1-1 9-0 1-0 2-1 2-1 2-2 6-2 3-1 1-1 4-1 4-2 0-2 0-0
+Blackburn       0-4 xxx 2-0 3-2 2-0 3-1 2-2 2-0 4-3 2-3 2-1 2-0 3-0 3-3 3-0 1-2 2-0 2-1
+Burnley         1-2 1-0 xxx 1-0 1-2 3-1 3-1 2-1 2-0 1-3 2-2 3-0 0-1 1-0 2-2 3-1 2-0 0-1
+Bury            2-0 2-0 1-1 xxx 1-1 4-1 2-1 2-1 1-4 2-1 2-1 0-1 2-0 2-1 0-1 2-0 1-0 3-0
+Derby County    2-0 0-2 4-1 3-0 xxx 2-1 4-1 3-2 0-0 2-1 2-2 0-1 2-0 0-1 2-0 2-0 4-1 0-2
+Everton         1-2 0-0 2-0 2-0 3-0 xxx 4-1 3-1 4-0 3-2 2-1 0-2 1-0 1-2 2-0 1-0 1-3 0-1
+Glossop         1-0 4-2 2-0 0-0 1-3 1-1 xxx 1-2 0-2 0-0 3-0 0-0 0-2 2-2 1-2 0-2 1-1 2-3
+Liverpool       3-3 3-1 0-1 2-0 0-2 1-2 5-2 xxx 5-2 2-0 1-0 3-1 1-0 2-2 0-0 0-2 2-0 1-1
+Manchester City 0-2 1-1 1-0 2-2 4-0 1-2 4-1 0-1 xxx 1-0 2-0 5-1 3-1 1-2 1-0 2-1 4-0 1-1
+Newcastle       3-2 4-1 2-0 2-1 2-0 2-0 1-0 1-1 0-0 xxx 3-1 6-0 0-0 0-0 2-2 2-4 4-2 0-1
+Nottm Forest    1-1 3-2 4-0 2-2 4-1 4-2 5-0 1-0 2-0 1-0 xxx 0-3 3-1 4-0 1-0 1-3 6-1 0-0
+Notts County    1-4 5-1 6-1 2-2 0-0 2-2 0-0 2-1 1-1 0-0 1-2 xxx 3-0 1-2 1-3 3-1 1-2 0-0
+Preston         0-5 2-0 1-1 1-0 0-0 1-1 1-0 1-3 0-2 4-1 3-0 4-3 xxx 0-1 3-0 0-1 5-2 2-0
+Sheffield Utd   2-1 3-0 0-0 4-0 1-1 5-0 4-0 1-2 3-0 3-1 3-0 1-1 1-0 xxx 1-0 2-2 1-1 5-2
+Stoke City      0-2 2-0 3-0 2-0 1-1 1-1 1-0 3-2 1-0 2-2 0-0 1-0 3-1 1-1 xxx 1-2 1-0 1-3
+Sunderland      0-1 1-0 2-1 1-0 2-0 1-0 0-0 1-0 3-1 1-2 1-0 5-0 1-0 1-1 3-0 xxx 3-1 1-2
+W.B.A.          0-2 1-0 2-0 0-1 0-0 0-0 3-3 2-0 0-0 1-1 8-0 0-0 1-0 1-2 4-0 1-0 xxx 3-2
+Wolverhampton   0-1 4-0 3-0 1-0 3-0 2-1 4-0 0-1 1-1 1-1 2-2 2-2 1-3 1-2 0-2 1-0 2-0 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ASTON VILLA              34  12  4  1  45  18  10  2  5  32  17   50
+ 2. Sheffield United         34  11  5  1  40  11   7  7  3  23  22   48
+ 3. Sunderland               34  12  2  3  27   9   7  1  9  23  26   41
+ 4. Wolverhampton Wanderers  34   8  4  5  28  16   7  5  5  20  21   39
+ 5. Newcastle United         34  10  5  2  34  15   3  5  9  19  28   36
+ 6. Derby County             34  11  2  4  32  15   3  6  8  13  28   36
+ 7. Manchester City          34  10  3  4  33  15   3  5  9  17  29   34
+ 8. Nottingham Forest        34  12  3  2  42  16   1  5 11  14  39   34
+ 9. Stoke City               34   9  5  3  24  15   4  3 10  13  30   34
+10. Liverpool                34   9  4  4  31  19   5  1 11  18  26   33
+11. Everton                  34  11  1  5  30  15   2  6  9  17  34   33
+12. Bury                     34  12  2  3  29  14   1  4 12  11  30   32
+13. West Bromwich Albion     34   8  6  3  27  11   3  2 12  16  40   30
+14. Blackburn Rovers         34  12  2  3  38  22   1  2 14  11  39   30
+15. Notts County             34   5  7  5  29  22   4  4  9  17  38   29
+16. Preston North End        34   9  3  5  28  20   3  1 13  10  28   28
+17. BURNLEY                  34  10  2  5  28  17   1  3 13   6  37   27
+18. GLOSSOP NORTH END        34   4  6  7  19  22   0  4 13  12  52   18
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. SHEFFIELD WEDNESDAY      34  17  0  0  61   7   8  4  5  23  15   54
+ 2. BOLTON WANDERERS         34  14  2  1  47   7   8  6  3  32  18   52
+ 3. Birmingham City          34  15  1  1  58  12   5  5  7  20  26   46
+ 4. Manchester United        34  15  1  1  44  11   5  3  9  19  16   44
+ 5. Leicester City           34  11  5  1  34   8   6  4  7  19  28   43
+ 6. Grimsby Town             34  10  3  4  46  24   7  3  7  21  22   40
+ 7. Chesterfield             34  10  4  3  35  24   6  2  9  30  36   38
+ 8. Arsenal                  34  13  1  3  47  12   3  3 11  14  31   36
+ 9. Lincoln City             34  11  5  1  31   9   3  3 11  15  34   36
+10. New Brighton Tower       34   9  4  4  44  22   4  5  8  22  36   35
+11. Port Vale                34  11  2  4  26  16   3  4 10  13  33   34
+12. Walsall                  34  10  5  2  35  18   2  3 12  15  37   32
+13. Gainsborough Trinity     34   8  4  5  37  24   1  3 13  10  51   25
+14. Middlesbrough            34   8  4  5  28  15   0  4 13  11  54   24
+15. Burton United            34   8  5  4  31  24   1  1 15  12  60   24
+16. Barnsley                 34   8  5  4  36  23   0  2 15  10  56   23
+17. Luton Town               34   5  3  9  25  25   0  5 12  15  50   18
+18. Loughborough             34   1  6 10  12  26   0  0 17   6  74    8
+"
+England 1898/99,"
+League Division 1
+
+Cross-Table:
+                Ast Bla Bol Bnl Bry Der Eve Liv New NmF NtC Pre ShU ShW Sto Sun WBA Wol
+Aston Villa     xxx 3-1 2-1 4-0 3-2 7-1 3-0 5-0 1-0 3-0 6-1 4-2 1-1 3-1 3-1 2-0 7-1 1-1
+Blackburn       0-0 xxx 4-1 0-2 0-0 3-0 1-3 1-3 4-2 3-3 6-0 2-2 2-1 2-0 4-1 3-2 4-1 2-2
+Bolton          0-0 0-2 xxx 2-0 0-1 2-1 2-4 2-1 0-0 0-2 0-1 2-2 3-0 0-0 0-2 6-1 3-3 2-1
+Burnley         2-4 2-0 2-0 xxx 2-1 2-1 0-0 2-1 2-1 1-1 1-1 3-1 1-0 5-0 1-1 1-0 1-1 4-2
+Bury            2-1 3-2 3-1 1-1 xxx 0-0 3-1 3-0 1-1 2-0 2-0 3-1 1-3 0-0 5-2 1-2 1-1 0-2
+Derby County    1-1 0-0 1-1 2-1 1-2 xxx 5-5 1-0 3-1 2-0 4-2 1-0 1-0 9-0 1-1 4-2 4-1 6-2
+Everton         1-1 2-1 1-0 4-0 0-1 1-2 xxx 1-2 3-0 1-3 1-2 2-0 1-0 2-0 2-0 0-0 1-0 2-1
+Liverpool       0-3 2-0 2-0 2-0 1-0 4-0 2-0 xxx 3-2 0-1 0-0 3-1 2-1 4-0 1-0 0-0 2-2 1-0
+Newcastle       1-1 1-0 4-1 4-1 2-0 2-0 2-2 3-0 xxx 0-1 1-2 2-1 1-2 2-2 3-0 0-1 3-0 2-4
+Nottm Forest    1-0 0-1 1-2 0-1 1-2 3-3 0-0 0-3 2-0 xxx 0-0 2-2 2-1 1-1 2-1 1-1 3-0 3-0
+Notts County    1-0 5-3 2-1 2-2 4-1 2-2 0-1 1-1 3-1 2-2 xxx 1-0 2-2 1-0 2-0 5-2 0-0 0-2
+Preston         2-0 1-1 0-1 1-1 3-1 3-1 0-0 1-2 1-0 1-0 2-0 xxx 1-0 1-1 4-2 2-3 4-0 2-1
+Sheffield Utd   1-3 1-1 3-1 1-1 4-1 2-1 1-1 0-2 2-2 2-2 2-2 1-1 xxx 2-1 1-1 2-0 5-0 1-0
+Sheffield Wedn  4-1 1-2 1-0 1-0 3-2 3-1 1-2 0-3 1-3 2-1 1-1 2-1 1-1 xxx 1-3 0-1 1-2 3-0
+Stoke City      3-0 0-1 2-3 4-1 1-1 0-0 2-1 2-1 0-0 2-1 1-1 2-1 4-1 1-0 xxx 1-0 2-1 2-4
+Sunderland      4-2 0-1 0-0 0-1 3-0 1-0 2-1 1-0 2-3 1-1 1-1 1-0 1-0 2-0 2-0 xxx 2-0 3-0
+W.B.A.          0-1 6-2 1-0 0-1 2-0 1-1 3-0 0-1 2-0 2-0 2-0 2-0 3-0 2-0 0-1 1-0 xxx 1-2
+Wolverhampton   4-0 2-1 1-0 4-0 1-2 2-2 1-2 0-0 0-0 0-2 1-0 0-0 4-1 0-0 3-2 2-0 5-1 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ASTON VILLA              34  15  2  0  58  13   4  5  8  18  27   45
+ 2. Liverpool                34  12  3  2  29  10   7  2  8  20  23   43
+ 3. Burnley                  34  11  5  1  32  15   4  4  9  13  32   39
+ 4. Everton                  34  10  2  5  25  13   5  6  6  23  28   38
+ 5. Notts County             34   9  6  2  33  20   3  7  7  14  31   37
+ 6. Blackburn Rovers         34   9  5  3  41  23   5  3  9  19  29   36
+ 7. Sunderland               34  11  3  3  26  10   4  3 10  15  31   36
+ 8. Wolverhampton Wanderers  34   9  5  3  30  13   5  2 10  24  35   35
+ 9. Derby County             34  11  5  1  46  19   1  6 10  16  38   35
+10. Bury                     34   9  5  3  31  18   5  2 10  17  31   35
+11. Nottingham Forest        34   6  6  5  22  18   5  5  7  20  24   33
+12. Stoke City               34  10  4  3  29  17   3  3 11  18  35   33
+13. Newcastle United         34   9  3  5  33  18   2  5 10  16  30   30
+14. West Bromwich Albion     34  11  1  5  28   9   1  5 11  14  48   30
+15. Preston North End        34  10  4  3  29  14   0  5 12  15  33   29
+16. Sheffield United         34   7  8  2  31  20   2  3 12  14  31   29
+17. BOLTON WANDERERS         34   6  5  6  24  21   3  2 12  13  30   25
+18. SHEFFIELD WEDNESDAY      34   8  2  7  26  24   0  6 11   6  37   24
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. MANCHESTER CITY          34  15  1  1  64  10   8  5  4  28  25   52
+ 2. GLOSSOP NORTH END        34  12  1  4  48  13   8  5  4  28  25   46
+ 3. Leicester City           34  12  5  0  35  12   6  4  7  29  30   45
+ 4. Manchester United        34  12  4  1  51  14   7  1  9  16  29   43
+ 5. New Brighton Tower       34  13  2  2  48  13   5  5  7  23  39   43
+ 6. Walsall                  34  12  5  0  64  11   3  7  7  15  25   42
+ 7. Arsenal                  34  14  2  1  55  10   4  3 10  17  31   41
+ 8. Birmingham City          34  14  1  2  66  17   3  6  8  19  33   41
+ 9. Port Vale                34  12  2  3  35  12   5  3  9  21  22   39
+10. Grimsby Town             34  10  3  4  39  17   5  2 10  32  43   35
+11. Barnsley                 34  11  4  2  44  18   1  3 13   8  38   31
+12. Lincoln City             34  10  5  2  31  16   2  2 13  20  40   31
+13. Burton United            34   7  5  5  35  25   3  3 11  16  45   28
+14. Gainsborough Trinity     34   8  4  5  40  22   2  1 14  16  50   25
+15. Luton Town               34   8  1  8  37  31   2  2 13  14  64   23
+16. Blackpool                34   6  3  8  35  30   2  1 14  14  60   20
+17. Loughborough             34   5  4  8  31  26   1  2 14   7  66   18
+18. Darwen                   34   2  4 11  16  32   0  1 16   6 109    9
+"
+England 1897/98,"
+League Division 1
+
+Cross-Table:
+                Ast Bla Bol Bur Der Eve Liv NmF NtC Pre ShU ShW Sto Sun WBA Wol
+Aston Villa     xxx 5-1 3-2 3-1 4-1 3-0 3-1 2-0 4-2 4-0 1-2 5-2 1-1 4-3 4-3 1-2
+Blackburn       4-3 xxx 1-3 1-1 1-1 1-1 2-1 1-1 0-1 1-0 1-1 1-1 1-1 2-1 1-3 2-3
+Bolton          2-0 1-2 xxx 0-0 3-3 1-0 0-2 2-0 1-0 1-0 0-1 0-3 2-1 1-0 2-0 2-1
+Bury            1-2 1-0 2-1 xxx 4-0 0-1 0-2 2-2 0-0 1-0 2-5 3-0 3-3 1-0 3-2 2-1
+Derby County    3-1 3-1 1-0 2-2 xxx 5-1 3-1 5-0 1-2 3-1 1-1 1-2 4-1 2-2 3-2 3-2
+Everton         2-1 1-1 2-1 4-2 3-0 xxx 3-0 2-0 1-0 1-1 1-4 1-0 1-1 2-0 6-1 3-0
+Liverpool       4-0 0-1 1-1 2-2 4-2 3-1 xxx 1-2 2-0 0-0 0-4 4-0 4-0 0-2 1-1 1-0
+Nottm Forest    3-1 3-1 2-0 3-1 3-4 2-2 2-3 xxx 1-1 4-1 1-1 1-0 3-1 1-1 0-1 1-1
+Notts County    2-3 0-0 1-2 2-1 1-1 3-2 3-2 1-3 xxx 1-1 1-3 0-0 4-0 0-1 2-2 2-2
+Preston         3-1 1-4 0-0 2-1 5-0 1-1 1-1 3-0 3-1 xxx 1-3 2-0 0-0 2-0 1-1 1-2
+Sheffield Utd   1-0 5-2 4-0 1-1 2-1 0-0 1-2 1-1 0-1 2-1 xxx 1-1 4-3 1-0 2-0 2-1
+Sheffield Wedn  3-0 4-1 3-0 3-0 3-1 2-1 4-2 3-6 3-1 2-1 0-1 xxx 4-0 0-1 3-0 2-0
+Stoke City      0-0 2-1 2-0 3-1 2-1 2-0 2-2 1-2 2-0 1-2 2-1 2-1 xxx 0-1 0-0 0-2
+Sunderland      0-0 2-1 2-0 2-1 2-1 0-0 1-0 4-0 2-0 1-0 3-1 1-0 4-0 xxx 0-2 3-2
+W.B.A.          1-1 1-1 2-0 1-0 3-1 2-2 2-1 2-0 0-3 3-1 2-0 0-2 2-0 2-2 xxx 2-2
+Wolverhampton   1-1 3-2 2-0 3-0 2-0 2-3 2-1 0-0 3-1 3-0 1-1 5-0 4-2 4-2 1-1 xxx
+
+,
+Final Table:
+
+Supplied by Stuart Jackson.
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. SHEFFIELD UNITED         30   9  4  2  27  14   8  4  3  29  17   42
+ 2. Sunderland               30  12  2  1  27   8   4  3  8  16  22   37
+ 3. Wolverhampton Wanderers  30  10  4  1  36  14   4  3  8  21  27   35
+ 4. Everton                  30  11  3  1  33  12   2  6  7  15  27   35
+ 5. Sheffield Wednesday      30  12  0  3  39  15   3  3  9  12  27   33
+ 6. Aston Villa              30  12  1  2  47  21   2  4  9  14  30   33
+ 7. West Bromwich Albion     30   8  5  2  25  16   3  5  7  19  29   32
+ 8. Nottingham Forest        30   7  5  3  30  19   4  4  7  17  30   31
+ 9. Liverpool                30   7  4  4  27  16   4  2  9  21  29   28
+10. Derby County             30  10  3  2  40  19   1  3 11  17  42   28
+11. Bolton Wanderers         30   9  2  4  18  13   2  2 11  10  28   26
+12. Preston North End        30   7  5  3  26  15   1  3 11   9  28   24
+13. Notts County             30   4  6  5  23  23   4  2  9  13  23   24
+14. Bury                     30   8  3  4  25  19   0  5 10  14  32   24
+15. Blackburn Rovers         30   4  7  4  20  22   3  3  9  19  32   24
+16. Stoke City               30   8  3  4  21  14   0  5 10  14  41   24
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. BURNLEY                  30  14  1  0  64  13   6  7  2  16  11   48
+ 2. NEWCASTLE UNITED         30  14  0  1  43  10   7  3  5  21  22   45
+ 3. Manchester City          30  10  4  1  45  15   5  5  5  21  21   39
+ 4. Manchester United        30  11  2  2  42  10   5  4  6  22  25   38
+ 5. Arsenal                  30  10  4  1  41  14   6  1  8  28  35   37
+ 6. Birmingham City          30  11  1  3  37  18   5  3  7  21  32   36
+ 7. Leicester City           30   8  5  2  26  11   5  2  8  20  24   33
+ 8. Luton Town               30  10  2  3  50  13   3  2 10  18  37   30
+ 9. Gainsborough Trinity     30  10  4  1  30  12   2  2 11  20  42   30
+10. Walsall                  30   9  3  3  42  15   3  2 10  16  43   29
+11. Blackpool                30   8  4  3  32  15   2  1 12  17  46   25
+12. Grimsby Town             30   9  1  5  44  24   1  3 11   8  38   24
+13. Burton United            30   7  3  5  25  21   1  2 12  13  48   21
+14. Lincoln City             30   6  3  6  27  27   0  2 13  16  55   17
+15. Darwen                   30   4  1 10  21  32   2  1 12  10  44   14
+16. Loughborough             30   5  2  8  15  26   1  0 14   9  61   14
+,
+"
+tables,year
+"
+,
+League Division 1
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ARSENAL                  42  15  3  3  56  15   8 10  3  25  17   59
+ 2. Manchester United        42  11  7  3  50  27   8  7  6  31  21   52
+ 3. Burnley                  42  12  5  4  31  12   8  7  6  25  31   52
+ 4. Derby County             42  11  6  4  38  24   8  6  7  39  33   50
+ 5. Wolverhampton Wanderers  42  12  4  5  45  29   7  5  9  38  41   47
+ 6. Aston Villa              42  13  5  3  42  22   6  4 11  23  35   47
+ 7. Preston North End        42  13  4  4  43  35   7  3 11  24  33   47
+ 8. Portsmouth               42  13  5  3  44  17   6  2 13  24  33   45
+ 9. Blackpool                42  13  4  4  37  14   4  6 11  20  27   44
+10. Manchester City          42  13  3  5  37  22   2  9 10  15  25   42
+11. Liverpool                42   9  8  4  39  23   7  2 12  26  38   42
+12. Sheffield United         42  13  4  4  44  24   3  6 12  21  46   42
+13. Charlton Athletic        42   8  4  9  33  29   9  2 10  24  37   40
+14. Everton                  42  10  2  9  30  26   7  4 10  22  40   40
+15. Stoke City               42   9  5  7  29  23   5  5 11  12  32   38
+16. Middlesbrough            42   8  7  6  37  27   6  2 13  34  46   37
+17. Bolton Wanderers         42  11  2  8  29  25   5  3 13  17  33   37
+18. Chelsea                  42  11  6  4  38  27   3  3 15  15  44   37
+19. Huddersfield Town        42   7  6  8  25  24   5  6 10  26  36   36
+20. Sunderland               42  11  4  6  33  18   2  6 13  23  49   36
+21. BLACKBURN ROVERS         42   8  5  8  35  30   3  5 13  19  42   32
+22. GRIMSBY TOWN             42   5  5 11  20  35   3  1 17  25  76   22
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. BIRMINGHAM CITY          42  12  7  2  34  13  10  8  3  21  11   59
+ 2. NEWCASTLE UNITED         42  18  1  2  46  13   6  7  8  26  28   56
+ 3. Southampton              42  15  3  3  53  23   6  7  8  18  30   52
+ 4. Sheffield Wednesday      42  13  6  2  39  21   7  5  9  27  32   51
+ 5. Cardiff City             42  12  6  3  36  18   6  5 10  25  40   47
+ 6. West Ham United          42  10  7  4  29  19   6  7  8  26  34   46
+ 7. West Bromwich Albion     42  11  4  6  37  29   7  5  9  26  29   45
+ 8. Tottenham Hotspur        42  10  6  5  36  24   5  8  8  20  19   44
+ 9. Leicester City           42  10  5  6  36  29   6  6  9  24  28   43
+10. Coventry City            42  10  5  6  33  16   4  8  9  26  36   41
+11. Fulham                   42   6  9  6  24  19   9  1 11  23  27   40
+12. Barnsley                 42  10  5  6  31  22   5  5 11  31  42   40
+13. Luton Town               42   8  8  5  31  25   6  4 11  25  34   40
+14. Bradford Park Avenue     42  11  3  7  45  30   5  5 11  23  42   40
+15. Brentford                42  10  6  5  31  26   3  8 10  13  35   40
+16. Chesterfield             42   8  4  9  32  26   8  3 10  22  29   39
+17. Plymouth Argyle          42   8  9  4  27  22   1 11  9  13  36   38
+18. Leeds United             42  12  5  4  44  20   2  3 16  18  52   36
+19. Nottingham Forest        42  10  5  6  32  23   2  6 13  22  37   35
+20. Bury                     42   6  8  7  27  28   3  8 10  31  40   34
+21. DONCASTER ROVERS         42   7  8  6  23  20   2  3 16  17  46   29
+22. MILLWALL                 42   7  7  7  27  28   2  4 15  17  46   29
+,
+League Division 3 (North)
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. LINCOLN CITY             42  14  3  4  47  18  12  5  4  34  22   60
+ 2. Rotherham United         42  15  4  2  56  18  10  5  6  39  31   59
+ 3. Wrexham                  42  14  3  4  49  23   7  5  9  25  31   50
+ 4. Gateshead                42  11  5  5  48  28   8  6  7  27  29   49
+ 5. Hull City                42  12  5  4  38  21   6  6  9  21  27   47
+ 6. Accrington Stanley       42  13  1  7  36  24   7  5  9  26  35   46
+ 7. Barrow                   42   9  4  8  24  19   7  9  5  25  21   45
+ 8. Mansfield Town           42  11  4  6  37  24   6  7  8  20  27   45
+ 9. Carlisle United          42  10  4  7  50  35   8  3 10  38  42   43
+10. Crewe Alexandra          42  12  4  5  41  24   6  3 12  20  39   43
+11. Oldham Athletic          42   6 10  5  25  25   8  3 10  38  39   41
+12. Rochdale                 42  12  4  5  32  23   3  7 11  16  49   41
+13. York City                42   8  7  6  38  25   5  7  9  27  35   40
+14. Bradford City            42  10  4  7  38  27   5  6 10  27  39   40
+15. Southport                42  10  4  7  34  27   4  7 10  26  36   39
+16. Darlington               42   7  8  6  30  31   6  5 10  24  39   39
+17. Stockport County         42   9  6  6  42  28   4  6 11  21  39   38
+18. Tranmere Rovers          42  10  1 10  30  28   6  3 12  24  44   36
+19. Hartlepool United        42  10  6  5  34  23   4  2 15  17  50   36
+20. Chester City             42  11  6  4  44  25   2  3 16  20  42   35
+21. Halifax Town             42   4 10  7  25  27   3  3 15  18  49   27
+22. New Brighton             42   5  6 10  20  28   3  3 15  18  53   25
+,
+League Division 3 (South)
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. QUEENS PARK RANGERS      42  16  3  2  44  17  10  6  5  30  20   61
+ 2. Bournemouth              42  13  5  3  42  13  11  4  6  34  22   57
+ 3. Walsall                  42  13  5  3  37  12   8  4  9  33  28   51
+ 4. Ipswich Town             42  16  1  4  42  18   7  2 12  25  43   49
+ 5. Swansea City             42  14  6  1  48  14   4  6 11  22  38   48
+ 6. Notts County             42  12  4  5  44  27   7  4 10  24  32   46
+ 7. Bristol City             42  11  4  6  47  26   7  3 11  30  39   43
+ 8. Port Vale                42  14  4  3  48  18   2  7 12  15  36   43
+ 9. Southend United          42  11  8  2  32  16   4  5 12  19  42   43
+10. Reading                  42  10  5  6  37  28   5  6 10  19  30   41
+11. Exeter City              42  11  6  4  34  22   4  5 12  21  41   41
+12. Newport County           42   9  8  4  38  28   5  5 11  23  45   41
+13. Crystal Palace           42  12  5  4  32  14   1  8 12  17  35   39
+14. Northampton              42  10  5  6  35  28   4  6 11  23  44   39
+15. Watford                  42   6  6  9  31  37   8  4  9  26  42   38
+16. Swindon Town             42   6 10  5  21  20   4  6 11  20  26   36
+17. Leyton Orient            42   8  5  8  31  32   5  5 11  20  41   36
+18. Torquay United           42   7  6  8  40  29   4  7 10  23  33   35
+19. Aldershot                42   5 10  6  22  26   5  5 11  23  41   35
+20. Bristol Rovers           42   7  3 11  39  34   6  5 10  32  41   34
+21. Norwich City             42   8  3 10  33  34   5  5 11  28  42   34
+22. Brighton & Hove Albion   42   8  4  9  26  31   3  8 10  17  42   34
+",Football Statistics Archive
+table_list,year
+"
+,
+League Division 1
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ARSENAL                  42  15  3  3  56  15   8 10  3  25  17   59
+ 2. Manchester United        42  11  7  3  50  27   8  7  6  31  21   52
+ 3. Burnley                  42  12  5  4  31  12   8  7  6  25  31   52
+ 4. Derby County             42  11  6  4  38  24   8  6  7  39  33   50
+ 5. Wolverhampton Wanderers  42  12  4  5  45  29   7  5  9  38  41   47
+ 6. Aston Villa              42  13  5  3  42  22   6  4 11  23  35   47
+ 7. Preston North End        42  13  4  4  43  35   7  3 11  24  33   47
+ 8. Portsmouth               42  13  5  3  44  17   6  2 13  24  33   45
+ 9. Blackpool                42  13  4  4  37  14   4  6 11  20  27   44
+10. Manchester City          42  13  3  5  37  22   2  9 10  15  25   42
+11. Liverpool                42   9  8  4  39  23   7  2 12  26  38   42
+12. Sheffield United         42  13  4  4  44  24   3  6 12  21  46   42
+13. Charlton Athletic        42   8  4  9  33  29   9  2 10  24  37   40
+14. Everton                  42  10  2  9  30  26   7  4 10  22  40   40
+15. Stoke City               42   9  5  7  29  23   5  5 11  12  32   38
+16. Middlesbrough            42   8  7  6  37  27   6  2 13  34  46   37
+17. Bolton Wanderers         42  11  2  8  29  25   5  3 13  17  33   37
+18. Chelsea                  42  11  6  4  38  27   3  3 15  15  44   37
+19. Huddersfield Town        42   7  6  8  25  24   5  6 10  26  36   36
+20. Sunderland               42  11  4  6  33  18   2  6 13  23  49   36
+21. BLACKBURN ROVERS         42   8  5  8  35  30   3  5 13  19  42   32
+22. GRIMSBY TOWN             42   5  5 11  20  35   3  1 17  25  76   22
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. BIRMINGHAM CITY          42  12  7  2  34  13  10  8  3  21  11   59
+ 2. NEWCASTLE UNITED         42  18  1  2  46  13   6  7  8  26  28   56
+ 3. Southampton              42  15  3  3  53  23   6  7  8  18  30   52
+ 4. Sheffield Wednesday      42  13  6  2  39  21   7  5  9  27  32   51
+ 5. Cardiff City             42  12  6  3  36  18   6  5 10  25  40   47
+ 6. West Ham United          42  10  7  4  29  19   6  7  8  26  34   46
+ 7. West Bromwich Albion     42  11  4  6  37  29   7  5  9  26  29   45
+ 8. Tottenham Hotspur        42  10  6  5  36  24   5  8  8  20  19   44
+ 9. Leicester City           42  10  5  6  36  29   6  6  9  24  28   43
+10. Coventry City            42  10  5  6  33  16   4  8  9  26  36   41
+11. Fulham                   42   6  9  6  24  19   9  1 11  23  27   40
+12. Barnsley                 42  10  5  6  31  22   5  5 11  31  42   40
+13. Luton Town               42   8  8  5  31  25   6  4 11  25  34   40
+14. Bradford Park Avenue     42  11  3  7  45  30   5  5 11  23  42   40
+15. Brentford                42  10  6  5  31  26   3  8 10  13  35   40
+16. Chesterfield             42   8  4  9  32  26   8  3 10  22  29   39
+17. Plymouth Argyle          42   8  9  4  27  22   1 11  9  13  36   38
+18. Leeds United             42  12  5  4  44  20   2  3 16  18  52   36
+19. Nottingham Forest        42  10  5  6  32  23   2  6 13  22  37   35
+20. Bury                     42   6  8  7  27  28   3  8 10  31  40   34
+21. DONCASTER ROVERS         42   7  8  6  23  20   2  3 16  17  46   29
+22. MILLWALL                 42   7  7  7  27  28   2  4 15  17  46   29
+,
+League Division 3 (North)
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. LINCOLN CITY             42  14  3  4  47  18  12  5  4  34  22   60
+ 2. Rotherham United         42  15  4  2  56  18  10  5  6  39  31   59
+ 3. Wrexham                  42  14  3  4  49  23   7  5  9  25  31   50
+ 4. Gateshead                42  11  5  5  48  28   8  6  7  27  29   49
+ 5. Hull City                42  12  5  4  38  21   6  6  9  21  27   47
+ 6. Accrington Stanley       42  13  1  7  36  24   7  5  9  26  35   46
+ 7. Barrow                   42   9  4  8  24  19   7  9  5  25  21   45
+ 8. Mansfield Town           42  11  4  6  37  24   6  7  8  20  27   45
+ 9. Carlisle United          42  10  4  7  50  35   8  3 10  38  42   43
+10. Crewe Alexandra          42  12  4  5  41  24   6  3 12  20  39   43
+11. Oldham Athletic          42   6 10  5  25  25   8  3 10  38  39   41
+12. Rochdale                 42  12  4  5  32  23   3  7 11  16  49   41
+13. York City                42   8  7  6  38  25   5  7  9  27  35   40
+14. Bradford City            42  10  4  7  38  27   5  6 10  27  39   40
+15. Southport                42  10  4  7  34  27   4  7 10  26  36   39
+16. Darlington               42   7  8  6  30  31   6  5 10  24  39   39
+17. Stockport County         42   9  6  6  42  28   4  6 11  21  39   38
+18. Tranmere Rovers          42  10  1 10  30  28   6  3 12  24  44   36
+19. Hartlepool United        42  10  6  5  34  23   4  2 15  17  50   36
+20. Chester City             42  11  6  4  44  25   2  3 16  20  42   35
+21. Halifax Town             42   4 10  7  25  27   3  3 15  18  49   27
+22. New Brighton             42   5  6 10  20  28   3  3 15  18  53   25
+,
+League Division 3 (South)
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. QUEENS PARK RANGERS      42  16  3  2  44  17  10  6  5  30  20   61
+ 2. Bournemouth              42  13  5  3  42  13  11  4  6  34  22   57
+ 3. Walsall                  42  13  5  3  37  12   8  4  9  33  28   51
+ 4. Ipswich Town             42  16  1  4  42  18   7  2 12  25  43   49
+ 5. Swansea City             42  14  6  1  48  14   4  6 11  22  38   48
+ 6. Notts County             42  12  4  5  44  27   7  4 10  24  32   46
+ 7. Bristol City             42  11  4  6  47  26   7  3 11  30  39   43
+ 8. Port Vale                42  14  4  3  48  18   2  7 12  15  36   43
+ 9. Southend United          42  11  8  2  32  16   4  5 12  19  42   43
+10. Reading                  42  10  5  6  37  28   5  6 10  19  30   41
+11. Exeter City              42  11  6  4  34  22   4  5 12  21  41   41
+12. Newport County           42   9  8  4  38  28   5  5 11  23  45   41
+13. Crystal Palace           42  12  5  4  32  14   1  8 12  17  35   39
+14. Northampton              42  10  5  6  35  28   4  6 11  23  44   39
+15. Watford                  42   6  6  9  31  37   8  4  9  26  42   38
+16. Swindon Town             42   6 10  5  21  20   4  6 11  20  26   36
+17. Leyton Orient            42   8  5  8  31  32   5  5 11  20  41   36
+18. Torquay United           42   7  6  8  40  29   4  7 10  23  33   35
+19. Aldershot                42   5 10  6  22  26   5  5 11  23  41   35
+20. Bristol Rovers           42   7  3 11  39  34   6  5 10  32  41   34
+21. Norwich City             42   8  3 10  33  34   5  5 11  28  42   34
+22. Brighton & Hove Albion   42   8  4  9  26  31   3  8 10  17  42   34
+",Football Statistics Archive
+table_list,year
+"
+,
+League Division 1
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. ARSENAL                  42  15  3  3  56  15   8 10  3  25  17   59
+ 2. Manchester United        42  11  7  3  50  27   8  7  6  31  21   52
+ 3. Burnley                  42  12  5  4  31  12   8  7  6  25  31   52
+ 4. Derby County             42  11  6  4  38  24   8  6  7  39  33   50
+ 5. Wolverhampton Wanderers  42  12  4  5  45  29   7  5  9  38  41   47
+ 6. Aston Villa              42  13  5  3  42  22   6  4 11  23  35   47
+ 7. Preston North End        42  13  4  4  43  35   7  3 11  24  33   47
+ 8. Portsmouth               42  13  5  3  44  17   6  2 13  24  33   45
+ 9. Blackpool                42  13  4  4  37  14   4  6 11  20  27   44
+10. Manchester City          42  13  3  5  37  22   2  9 10  15  25   42
+11. Liverpool                42   9  8  4  39  23   7  2 12  26  38   42
+12. Sheffield United         42  13  4  4  44  24   3  6 12  21  46   42
+13. Charlton Athletic        42   8  4  9  33  29   9  2 10  24  37   40
+14. Everton                  42  10  2  9  30  26   7  4 10  22  40   40
+15. Stoke City               42   9  5  7  29  23   5  5 11  12  32   38
+16. Middlesbrough            42   8  7  6  37  27   6  2 13  34  46   37
+17. Bolton Wanderers         42  11  2  8  29  25   5  3 13  17  33   37
+18. Chelsea                  42  11  6  4  38  27   3  3 15  15  44   37
+19. Huddersfield Town        42   7  6  8  25  24   5  6 10  26  36   36
+20. Sunderland               42  11  4  6  33  18   2  6 13  23  49   36
+21. BLACKBURN ROVERS         42   8  5  8  35  30   3  5 13  19  42   32
+22. GRIMSBY TOWN             42   5  5 11  20  35   3  1 17  25  76   22
+,
+League Division 2
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. BIRMINGHAM CITY          42  12  7  2  34  13  10  8  3  21  11   59
+ 2. NEWCASTLE UNITED         42  18  1  2  46  13   6  7  8  26  28   56
+ 3. Southampton              42  15  3  3  53  23   6  7  8  18  30   52
+ 4. Sheffield Wednesday      42  13  6  2  39  21   7  5  9  27  32   51
+ 5. Cardiff City             42  12  6  3  36  18   6  5 10  25  40   47
+ 6. West Ham United          42  10  7  4  29  19   6  7  8  26  34   46
+ 7. West Bromwich Albion     42  11  4  6  37  29   7  5  9  26  29   45
+ 8. Tottenham Hotspur        42  10  6  5  36  24   5  8  8  20  19   44
+ 9. Leicester City           42  10  5  6  36  29   6  6  9  24  28   43
+10. Coventry City            42  10  5  6  33  16   4  8  9  26  36   41
+11. Fulham                   42   6  9  6  24  19   9  1 11  23  27   40
+12. Barnsley                 42  10  5  6  31  22   5  5 11  31  42   40
+13. Luton Town               42   8  8  5  31  25   6  4 11  25  34   40
+14. Bradford Park Avenue     42  11  3  7  45  30   5  5 11  23  42   40
+15. Brentford                42  10  6  5  31  26   3  8 10  13  35   40
+16. Chesterfield             42   8  4  9  32  26   8  3 10  22  29   39
+17. Plymouth Argyle          42   8  9  4  27  22   1 11  9  13  36   38
+18. Leeds United             42  12  5  4  44  20   2  3 16  18  52   36
+19. Nottingham Forest        42  10  5  6  32  23   2  6 13  22  37   35
+20. Bury                     42   6  8  7  27  28   3  8 10  31  40   34
+21. DONCASTER ROVERS         42   7  8  6  23  20   2  3 16  17  46   29
+22. MILLWALL                 42   7  7  7  27  28   2  4 15  17  46   29
+,
+League Division 3 (North)
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. LINCOLN CITY             42  14  3  4  47  18  12  5  4  34  22   60
+ 2. Rotherham United         42  15  4  2  56  18  10  5  6  39  31   59
+ 3. Wrexham                  42  14  3  4  49  23   7  5  9  25  31   50
+ 4. Gateshead                42  11  5  5  48  28   8  6  7  27  29   49
+ 5. Hull City                42  12  5  4  38  21   6  6  9  21  27   47
+ 6. Accrington Stanley       42  13  1  7  36  24   7  5  9  26  35   46
+ 7. Barrow                   42   9  4  8  24  19   7  9  5  25  21   45
+ 8. Mansfield Town           42  11  4  6  37  24   6  7  8  20  27   45
+ 9. Carlisle United          42  10  4  7  50  35   8  3 10  38  42   43
+10. Crewe Alexandra          42  12  4  5  41  24   6  3 12  20  39   43
+11. Oldham Athletic          42   6 10  5  25  25   8  3 10  38  39   41
+12. Rochdale                 42  12  4  5  32  23   3  7 11  16  49   41
+13. York City                42   8  7  6  38  25   5  7  9  27  35   40
+14. Bradford City            42  10  4  7  38  27   5  6 10  27  39   40
+15. Southport                42  10  4  7  34  27   4  7 10  26  36   39
+16. Darlington               42   7  8  6  30  31   6  5 10  24  39   39
+17. Stockport County         42   9  6  6  42  28   4  6 11  21  39   38
+18. Tranmere Rovers          42  10  1 10  30  28   6  3 12  24  44   36
+19. Hartlepool United        42  10  6  5  34  23   4  2 15  17  50   36
+20. Chester City             42  11  6  4  44  25   2  3 16  20  42   35
+21. Halifax Town             42   4 10  7  25  27   3  3 15  18  49   27
+22. New Brighton             42   5  6 10  20  28   3  3 15  18  53   25
+,
+League Division 3 (South)
+                              P   W  D  L   F   A   W  D  L   F   A  Pts
+ 1. QUEENS PARK RANGERS      42  16  3  2  44  17  10  6  5  30  20   61
+ 2. Bournemouth              42  13  5  3  42  13  11  4  6  34  22   57
+ 3. Walsall                  42  13  5  3  37  12   8  4  9  33  28   51
+ 4. Ipswich Town             42  16  1  4  42  18   7  2 12  25  43   49
+ 5. Swansea City             42  14  6  1  48  14   4  6 11  22  38   48
+ 6. Notts County             42  12  4  5  44  27   7  4 10  24  32   46
+ 7. Bristol City             42  11  4  6  47  26   7  3 11  30  39   43
+ 8. Port Vale                42  14  4  3  48  18   2  7 12  15  36   43
+ 9. Southend United          42  11  8  2  32  16   4  5 12  19  42   43
+10. Reading                  42  10  5  6  37  28   5  6 10  19  30   41
+11. Exeter City              42  11  6  4  34  22   4  5 12  21  41   41
+12. Newport County           42   9  8  4  38  28   5  5 11  23  45   41
+13. Crystal Palace           42  12  5  4  32  14   1  8 12  17  35   39
+14. Northampton              42  10  5  6  35  28   4  6 11  23  44   39
+15. Watford                  42   6  6  9  31  37   8  4  9  26  42   38
+16. Swindon Town             42   6 10  5  21  20   4  6 11  20  26   36
+17. Leyton Orient            42   8  5  8  31  32   5  5 11  20  41   36
+18. Torquay United           42   7  6  8  40  29   4  7 10  23  33   35
+19. Aldershot                42   5 10  6  22  26   5  5 11  23  41   35
+20. Bristol Rovers           42   7  3 11  39  34   6  5 10  32  41   34
+21. Norwich City             42   8  3 10  33  34   5  5 11  28  42   34
+22. Brighton & Hove Albion   42   8  4  9  26  31   3  8 10  17  42   34
+",Football Statistics Archive
+a,league,d,f,l,rank,p,w,team,tier,pts
+14,Southern Div One South & West,4,49,2,1,24,18,Cinderford Town,804,58
+20,Southern Div One South & West,6,50,3,2,25,16,Taunton Town,804,54
+33,Southern Div One South & West,4,60,5,3,24,15,Winchester City,804,49
+24,Southern Div One South & West,4,45,5,4,24,15,Swindon Supermarine,804,49
+26,Southern Div One South & West,9,61,3,5,25,13,Banbury United,804,48
+23,Southern Div One South & West,3,54,7,6,25,15,North Leigh,804,48
+29,Southern Div One South & West,9,45,4,7,26,13,Tiverton Town,804,48
+25,Southern Div One South & West,7,46,6,8,25,12,Evesham United,804,43
+40,Southern Div One South & West,1,46,9,9,23,13,Shortwood United,804,40
+43,Southern Div One South & West,4,50,10,10,25,11,Didcot Town,804,37
+34,Southern Div One South & West,7,33,5,11,21,9,Bishops Cleeve,804,34
+55,Southern Div One South & West,3,52,14,12,27,10,AFC Totton,804,33
+33,Southern Div One South & West,8,33,10,13,26,8,Yate Town,804,32
+44,Southern Div One South & West,7,42,11,14,26,8,Larkhall Athletic,804,31
+44,Southern Div One South & West,4,40,12,15,24,8,Marlow,804,28
+48,Southern Div One South & West,6,37,12,16,25,7,Mangotsfield United,804,27
+33,Southern Div One South & West,7,25,11,17,24,6,Slimbridge,804,25
+51,Southern Div One South & West,4,28,15,18,26,7,Bridgwater Town,804,25
+60,Southern Div One South & West,3,48,16,19,26,7,Wimborne Town,804,24
+64,Southern Div One South & West,2,32,19,20,26,5,Wantage Town,804,17
+59,Southern Div One South & West,4,28,18,21,26,4,Burnham,804,16
+111,Southern Div One South & West,0,9,23,22,23,0,Bashley,804,0
+home_team,away_team,match_id,round_id,replay,home_score,date,away_score
+Bromley,Grays Athletic,433566,12821,True,5,14.10.14,0
+Gloucester City,Staines Town,433572,12821,True,3,14.10.14,2
+Gosport Borough,Maidenhead United,433568,12821,True,3,14.10.14,0
+Shortwood United,Bath City,433569,12821,True,1,14.10.14,3
+Stourbridge,Shildon,433570,12821,True,0,14.10.14,2
+Warrington Town,Colwyn Bay,433571,12821,True,1,14.10.14,0
+Worcester City,Leamington,433565,12821,True,2,14.10.14,0
+Chelmsford City,Whitehawk,433573,12821,True,4,13.10.14,1
+Boreham Wood,Frome Town,433567,12821,True,1,13.10.14,0
+Greenwich Borough,Redhill,433204,12821,False,1,12.10.14,0
+Kingstonian,Eastbourne Borough,433201,12821,False,2,12.10.14,3
+,Weston Super Mare,433203,12821,False,1,11.10.14,4
+AFC Fylde,Buxton,433176,12821,False,1,11.10.14,0
+Bamber Bridge,Chorley,433182,12821,False,1,11.10.14,4
+Barton Rovers,Canvey Island,433188,12821,False,0,11.10.14,1
+Barwell,Curzon Ashton,433179,12821,False,2,11.10.14,1
+Bath City,Shortwood United,433205,12821,False,2,11.10.14,2
+Biggleswade Town,Maidstone United,433190,12821,False,0,11.10.14,2
+Billericay Town,Weymouth,433197,12821,False,0,11.10.14,1
+Chippenham Town,Hemel Hempstead Town,433193,12821,False,0,11.10.14,5
+Colwyn Bay,Warrington Town,433180,12821,False,1,11.10.14,1
+Concord Rangers,Winchester City,433194,12821,False,3,11.10.14,2
+Dorchester Town,Hendon,433187,12821,False,1,11.10.14,0
+East Thurrock United,Tooting &amp; Mitcham United,433196,12821,False,2,11.10.14,1
+Ebbsfleet United,Basingstoke Town,433206,12821,False,1,11.10.14,2
+Evesham United,Chalfont St Peter,433191,12821,False,4,11.10.14,1
+Frome Town,Boreham Wood,433189,12821,False,2,11.10.14,2
+Gainsborough Trinity,Marine,433184,12821,False,4,11.10.14,0
+Grays Athletic,Bromley,433186,12821,False,0,11.10.14,0
+Guiseley AFC,Halesowen Town,433173,12821,False,3,11.10.14,0
+Harrow Borough,Waltham Abbey,433207,12821,False,2,11.10.14,1
+King's Lynn Town,Lancaster City,433183,12821,False,3,11.10.14,2
+Leamington,Worcester City,433172,12821,False,1,11.10.14,1
+Leek Town,Boston United,433181,12821,False,2,11.10.14,0
+Maidenhead United,Gosport Borough,433199,12821,False,1,11.10.14,1
+Mickleover Sports,Blyth Spartans AFC,433177,12821,False,1,11.10.14,2
+Needham Market,Witham Town,433200,12821,False,1,11.10.14,2
+North Ferriby United,Grantham Town,433170,12821,False,2,11.10.14,1
+Runcorn Town,Norton United,433174,12821,False,2,11.10.14,5
+Shildon,Stourbridge,433175,12821,False,0,11.10.14,0
+Spennymoor Town,Ashton United,433185,12821,False,1,11.10.14,0
+St Albans City,Brackley Town,433208,12821,False,2,11.10.14,0
+Staines Town,Gloucester City,433192,12821,False,1,11.10.14,1
+Stockport County,Ilkeston_,433178,12821,False,1,11.10.14,0
+Sutton United,Burgess Hill Town,433209,12821,False,1,11.10.14,3
+Tamworth,Lowestoft Town,433171,12821,False,1,11.10.14,0
+Whitehawk,Chelmsford City,433210,12821,False,4,11.10.14,4
+Willand Rovers,Aveley,433195,12821,False,3,11.10.14,2
+Wingate &amp; Finchley,Havant &amp; Waterlooville,433198,12821,False,0,11.10.14,2

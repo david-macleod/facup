@@ -6,7 +6,8 @@ from facup.items import ResultsFinalItem
 from scrapy.http import FormRequest
 from scrapy.loader import ItemLoader
 
-fac = pd.read_csv('C:/Users/David/Python/scrapy/facup/facup_archive.csv')
+#this came from an old version of results clean which output fa cup results with missing finals
+fac = pd.read_csv('C:/Users/David/Python/scrapy/facup/00_fa_cup/facup_archive.csv') 
 
 finals = fac[(fac['round'] == 'Final') & (fac['replay'] == False)]['year_id'].values #array of years with finals
 years_series = fac.groupby('year')['year_id'].max()  #series of all year_ids indexed by year

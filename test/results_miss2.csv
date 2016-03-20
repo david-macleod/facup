@@ -1,0 +1,76 @@
+,home_team,away_team,match_id,round_id,replay,home_score,date,away_score,round,year_id,year,stage
+0,Accrington Stanley,Gillingham,98589,12237,False,1,12.01.10,0,Third Round Proper,75425,2010,9.0
+1,Brentford,Doncaster Rovers,98581,12237,False,0,12.01.10,1,Third Round Proper,75425,2010,9.0
+2,Bristol City,Cardiff City,98078,12237,False,1,02.01.10,1,Third Round Proper,75425,2010,9.0
+3,Notts County,Forest Green Rovers,98582,12237,False,2,12.01.10,1,Third Round Proper,75425,2010,9.0
+4,AFC Bournemouth,Burton Albion,383299,12744,False,4,04.01.14,1,Third Round Proper,75769,2014,9.0
+5,Charlton Athletic,Oxford United,383283,12744,False,2,04.01.14,2,Third Round Proper,75769,2014,9.0
+6,Arsenal,Burnley,89981,12159,False,3,16.02.09,0,Fifth Round Proper,75388,2009,11.0
+7,Arsenal,Cardiff City,89968,12158,True,4,03.02.09,0,Fourth Round Proper,75388,2009,10.0
+8,Badshot Lea,Lingfield,95152,12231,True,2,15.09.09,1,First Round Qualifying,75425,2010,3.0
+9,Bamber Bridge,Curzon Ashton,182109,12573,True,3,06.09.11,2,Preliminary Round,75670,2012,2.0
+10,South Shields,Newcastle Benfield,182099,12573,True,0,06.09.11,3,Preliminary Round,75670,2012,2.0
+11,Barnet,Colchester United,78204,10611,False,2,06.01.07,1,Third Round Proper,71226,2007,9.0
+12,Luton Town,Queens Park Rangers,78688,10611,True,1,16.01.07,0,Third Round Proper,71226,2007,9.0
+13,Reading,Burnley,78206,10611,False,3,06.01.07,2,Third Round Proper,71226,2007,9.0
+14,Barnet,Swindon Town,84080,12074,True,1,15.01.08,1,Third Round Proper,75152,2008,9.0
+15,Bristol Rovers,Fulham,84076,12074,True,0,15.01.08,0,Third Round Proper,75152,2008,9.0
+16,Sheffield Wednesday,Derby County,84078,12074,True,1,15.01.08,1,Third Round Proper,75152,2008,9.0
+17,Barrow AFC,Macclesfield Town,310150,12661,False,1,11.12.12,1,Second Round Proper,75721,2013,8.0
+18,Notts County,Rotherham United,310149,12661,True,0,11.12.12,3,Second Round Proper,75721,2013,8.0
+19,Oxford United,Accrington Stanley,310151,12661,True,2,12.12.12,0,Second Round Proper,75721,2013,8.0
+20,Birmingham City,Wolverhampton Wanderers,89096,12157,False,0,03.01.09,2,Third Round Proper,75388,2009,9.0
+21,Cheltenham Town,Doncaster Rovers,89116,12157,False,0,03.01.09,0,Third Round Proper,75388,2009,9.0
+22,Histon,Swansea City,89111,12157,False,1,03.01.09,2,Third Round Proper,75388,2009,9.0
+23,Leyton Orient,Sheffield United,89108,12157,False,1,03.01.09,4,Third Round Proper,75388,2009,9.0
+24,Bishop's Cleeve,Ascot United,247764,12655,False,2,29.08.12,1,Preliminary Round,75721,2013,2.0
+25,Dereham Town,Woodford United,241102,12655,False,3,25.08.12,0,Preliminary Round,75721,2013,2.0
+26,New Mills,Mickleover Sports,241071,12655,False,2,25.08.12,2,Preliminary Round,75721,2013,2.0
+27,Padiham,Burscough,241054,12655,False,0,25.08.12,0,Preliminary Round,75721,2013,2.0
+28,Ramsbottom United,Brigg Town,241059,12655,False,3,25.08.12,0,Preliminary Round,75721,2013,2.0
+29,Sheffield,Abbey Hey,247749,12655,False,1,29.08.12,2,Preliminary Round,75721,2013,2.0
+30,Walton Casuals,Thamesmead Town,241174,12655,False,1,25.08.12,2,Preliminary Round,75721,2013,2.0
+31,Braintree Town,Tranmere Rovers,263144,12660,False,0,04.11.12,3,First Round Proper,75721,2013,7.0
+32,Gloucester City,Leyton Orient,263139,12660,False,0,04.11.12,2,First Round Proper,75721,2013,7.0
+33,Bristol Rovers,Leyton Orient,83190,12072,True,3,20.11.07,3,First Round Proper,75152,2008,7.0
+34,Staines Town,Stockport County,83196,12072,True,1,19.11.07,1,First Round Proper,75152,2008,7.0
+35,Burton Albion,Burscough,14573,10148,False,4,03.12.05,1,Second Round Proper,71054,2006,8.0
+36,Bury,Cambridge United,375504,12742,False,0,09.11.13,0,First Round Proper,75769,2014,7.0
+37,Gateshead,Oxford United,377409,12742,True,0,20.11.13,1,First Round Proper,75769,2014,7.0
+38,Chester,Gainsborough Trinity,255127,12657,True,2,26.09.12,1,Second Round Qualifying,75721,2013,4.0
+39,Harrogate Town,West Auckland Town,255128,12657,True,5,25.09.12,1,Second Round Qualifying,75721,2013,4.0
+40,Workington AFC,Blyth Spartans AFC,255126,12657,True,1,25.09.12,0,Second Round Qualifying,75721,2013,4.0
+41,Chesterfield,Droylsden,88705,12156,False,2,29.11.08,2,Second Round Proper,75388,2009,8.0
+42,Droylsden,Chesterfield,89274,12156,True,2,16.12.08,1,Second Round Proper,75388,2009,8.0
+43,Morecambe,Cheltenham Town,88718,12156,False,2,29.11.08,3,Second Round Proper,75388,2009,8.0
+44,Chichester City,Crawley Down Gatwick,86679,12149,True,3,19.08.08,1,Extra Preliminary Round,75388,2009,1.0
+45,Morpeth Town,Ryton & Crawcrook Albion,86658,12149,False,0,19.08.08,2,Extra Preliminary Round,75388,2009,1.0
+46,Consett AFC,North Ferriby United,86939,12151,False,4,13.09.08,4,First Round Qualifying,75388,2009,3.0
+47,Selby Town,Guiseley AFC,86934,12151,False,2,13.09.08,4,First Round Qualifying,75388,2009,3.0
+48,Crawley Town,Bristol Rovers,384517,12743,True,1,04.01.14,2,Second Round Proper,75769,2014,8.0
+49,Garforth Town,Chorley,15485,10604,False,1,02.09.06,2,Preliminary Round,71226,2007,2.0
+50,St Helens Town,Skelmersdale United,15493,10604,False,0,02.09.06,3,Preliminary Round,71226,2007,2.0
+51,Gillingham,Darlington,71833,9723,False,3,20.11.99,1,Second Round Proper,71048,2000,7.0
+52,Grays Athletic,Carlisle United,88690,12155,True,0,18.11.08,2,First Round Proper,75388,2009,7.0
+53,Grays Athletic,Daventry Town,368954,12740,False,0,13.10.13,4,Third Round Qualifying,75769,2014,5.0
+54,Harrogate Town,Hyde United,263465,12659,True,1,30.10.12,0,Fourth Round Qualifying,75721,2013,6.0
+55,Hartlepool United,Yeovil Town,126620,12498,False,4,07.12.10,2,Second Round Proper,75592,2011,8.0
+56,Lincoln City,Hereford United,130302,12498,True,3,21.12.10,4,Second Round Proper,75592,2011,8.0
+57,Notts County,AFC Bournemouth,126621,12498,False,3,07.12.10,1,Second Round Proper,75592,2011,8.0
+58,Hartley Wintney,Frimley Green,424618,12817,False,2,16.08.14,1,Extra Preliminary Round,75823,2015,1.0
+59,St Margaretsbury,Halstead Town,429920,12817,True,6,20.08.14,2,Extra Preliminary Round,75823,2015,1.0
+60,Hyde United,Salford City,95170,12232,False,2,26.09.09,2,Second Round Qualifying,75425,2010,4.0
+61,Kidsgrove Athletic,Willenhall Town,80590,12068,False,2,15.09.07,0,First Round Qualifying,75152,2008,3.0
+62,Needham Market,Grantham Town,82021,12068,True,0,18.09.07,1,First Round Qualifying,75152,2008,3.0
+63,Newham,Brentwood Town,80638,12068,False,0,15.09.07,4,First Round Qualifying,75152,2008,3.0
+64,Mansfield Town,Concord Rangers,433737,12823,False,1,08.11.14,1,First Round Proper,75823,2015,7.0
+65,Weston Super Mare,Doncaster Rovers,433748,12823,False,1,08.11.14,4,First Round Proper,75823,2015,7.0
+66,Morpeth Town,AFC Emley,102816,12491,False,1,14.08.10,2,Extra Preliminary Round,75592,2011,1.0
+67,Northampton Sileby Rangers,North Greenford United,430206,12819,False,1,13.09.14,3,First Round Qualifying,75823,2015,3.0
+68,Northwich Victoria,AFC Telford United,88108,12154,False,0,25.10.08,3,Fourth Round Qualifying,75388,2009,6.0
+69,Sheffield Wednesday,Charlton Athletic,396115,12746,False,1,15.02.14,2,Fifth Round Proper,75769,2014,11.0
+70,Stockport County,Torquay United,98036,12236,False,0,08.12.09,4,Second Round Proper,75425,2010,8.0
+71,Stocksbridge Park Steels,Washington,14787,10142,True,1,30.08.05,1,Preliminary Round,71054,2006,2.0
+72,Thornaby,Dunston UTS,14788,10144,True,2,28.09.05,1,Second Qualifying Round,71054,2006,4.0
+73,Tottenham Hotspur,Bolton Wanderers,221937,12583,False,1,17.03.12,1,Sixth Round Proper,75670,2012,12.0
+74,Willand Rovers,Falmouth Town AFC,94695,12230,True,2,02.09.09,1,Preliminary Round,75425,2010,2.0

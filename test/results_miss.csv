@@ -1,0 +1,76 @@
+home_team,away_team,match_id,round_id,replay,home_score,date,away_score
+Accrington Stanley,Gillingham,98589,12237,FALSE,1,12.01.10,0
+AFC Bournemouth,Burton Albion,383299,12744,FALSE,4,04.01.14,1
+Arsenal,Burnley,89981,12159,FALSE,3,16.02.09,0
+Arsenal,Cardiff City,89968,12158,TRUE,4,03.02.09,0
+Badshot Lea,Lingfield,95152,12231,TRUE,2,15.09.09,1
+Bamber Bridge,Curzon Ashton,182109,12573,TRUE,3,06.09.11,2
+Barnet,Colchester United,78204,10611,FALSE,2,06.01.07,1
+Barnet,Swindon Town,84080,12074,TRUE,1,15.01.08,1
+Barrow AFC,Macclesfield Town,310150,12661,FALSE,1,11.12.12,1
+Birmingham City,Wolverhampton Wanderers,89096,12157,FALSE,0,03.01.09,2
+Bishop's Cleeve,Ascot United,247764,12655,FALSE,2,29.08.12,1
+Braintree Town,Tranmere Rovers,263144,12660,FALSE,0,04.11.12,3
+Brentford,Doncaster Rovers,98581,12237,FALSE,0,12.01.10,1
+Bristol City,Cardiff City,98078,12237,FALSE,1,02.01.10,1
+Bristol Rovers,Fulham,84076,12074,TRUE,0,15.01.08,0
+Bristol Rovers,Leyton Orient,83190,12072,TRUE,3,20.11.07,3
+Burton Albion,Burscough,14573,10148,FALSE,4,03.12.05,1
+Bury,Cambridge United,375504,12742,FALSE,0,09.11.13,0
+Charlton Athletic,Oxford United,383283,12744,FALSE,2,04.01.14,2
+Cheltenham Town,Doncaster Rovers,89116,12157,FALSE,0,03.01.09,0
+Chester,Gainsborough Trinity,255127,12657,TRUE,2,26.09.12,1
+Chesterfield,Droylsden,88705,12156,FALSE,2,29.11.08,2
+Chichester City,Crawley Down Gatwick,86679,12149,TRUE,3,19.08.08,1
+Consett AFC,North Ferriby United,86939,12151,FALSE,4,13.09.08,4
+Crawley Town,Bristol Rovers,384517,12743,TRUE,1,04.01.14,2
+Dereham Town,Woodford United,241102,12655,FALSE,3,25.08.12,0
+Droylsden,Chesterfield,89274,12156,TRUE,2,16.12.08,1
+Garforth Town,Chorley,15485,10604,FALSE,1,02.09.06,2
+Gateshead,Oxford United,377409,12742,TRUE,0,20.11.13,1
+Gillingham,Darlington,71833,9723,FALSE,3,20.11.99,1
+Gloucester City,Leyton Orient,263139,12660,FALSE,0,04.11.12,2
+Grays Athletic,Carlisle United,88690,12155,TRUE,0,18.11.08,2
+Grays Athletic,Daventry Town,368954,12740,FALSE,0,13.10.13,4
+Harrogate Town,West Auckland Town,255128,12657,TRUE,5,25.09.12,1
+Harrogate Town,Hyde United,263465,12659,TRUE,1,30.10.12,0
+Hartlepool United,Yeovil Town,126620,12498,FALSE,4,07.12.10,2
+Hartley Wintney,Frimley Green,424618,12817,FALSE,2,16.08.14,1
+Histon,Swansea City,89111,12157,FALSE,1,03.01.09,2
+Hyde United,Salford City,95170,12232,FALSE,2,26.09.09,2
+Kidsgrove Athletic,Willenhall Town,80590,12068,FALSE,2,15.09.07,0
+Leyton Orient,Sheffield United,89108,12157,FALSE,1,03.01.09,4
+Lincoln City,Hereford United,130302,12498,TRUE,3,21.12.10,4
+Luton Town,Queens Park Rangers,78688,10611,TRUE,1,16.01.07,0
+Mansfield Town,Concord Rangers,433737,12823,FALSE,1,08.11.14,1
+Morecambe,Cheltenham Town,88718,12156,FALSE,2,29.11.08,3
+Morpeth Town,Ryton & Crawcrook Albion,86658,12149,FALSE,0,19.08.08,2
+Morpeth Town,AFC Emley,102816,12491,FALSE,1,14.08.10,2
+Needham Market,Grantham Town,82021,12068,TRUE,0,18.09.07,1
+New Mills,Mickleover Sports,241071,12655,FALSE,2,25.08.12,2
+Newham,Brentwood Town,80638,12068,FALSE,0,15.09.07,4
+Northampton Sileby Rangers,North Greenford United,430206,12819,FALSE,1,13.09.14,3
+Northwich Victoria,AFC Telford United,88108,12154,FALSE,0,25.10.08,3
+Notts County,Forest Green Rovers,98582,12237,FALSE,2,12.01.10,1
+Notts County,AFC Bournemouth,126621,12498,FALSE,3,07.12.10,1
+Notts County,Rotherham United,310149,12661,TRUE,0,11.12.12,3
+Oxford United,Accrington Stanley,310151,12661,TRUE,2,12.12.12,0
+Padiham,Burscough,241054,12655,FALSE,0,25.08.12,0
+Ramsbottom United,Brigg Town,241059,12655,FALSE,3,25.08.12,0
+Reading,Burnley,78206,10611,FALSE,3,06.01.07,2
+Selby Town,Guiseley AFC,86934,12151,FALSE,2,13.09.08,4
+Sheffield,Abbey Hey,247749,12655,FALSE,1,29.08.12,2
+Sheffield Wednesday,Derby County,84078,12074,TRUE,1,15.01.08,1
+Sheffield Wednesday,Charlton Athletic,396115,12746,FALSE,1,15.02.14,2
+South Shields,Newcastle Benfield,182099,12573,TRUE,0,06.09.11,3
+St Helens Town,Skelmersdale United,15493,10604,FALSE,0,02.09.06,3
+St Margaretsbury,Halstead Town,429920,12817,TRUE,6,20.08.14,2
+Staines Town,Stockport County,83196,12072,TRUE,1,19.11.07,1
+Stockport County,Torquay United,98036,12236,FALSE,0,08.12.09,4
+Stocksbridge Park Steels,Washington,14787,10142,TRUE,1,30.08.05,1
+Thornaby,Dunston UTS,14788,10144,TRUE,2,28.09.05,1
+Tottenham Hotspur,Bolton Wanderers,221937,12583,FALSE,1,17.03.12,1
+Walton Casuals,Thamesmead Town,241174,12655,FALSE,1,25.08.12,2
+Weston Super Mare,Doncaster Rovers,433748,12823,FALSE,1,08.11.14,4
+Willand Rovers,Falmouth Town AFC,94695,12230,TRUE,2,02.09.09,1
+Workington AFC,Blyth Spartans AFC,255126,12657,TRUE,1,25.09.12,0

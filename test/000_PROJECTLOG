@@ -1,0 +1,73 @@
+SPIDERS
+
+00_id: scraping years and rounds ids 
+	output: years.csv
+	
+01_results: scraping results
+	output: results_2.csv
+	
+02_results_missing_scores: scraping all matches with missing scores then manual edit csv from wiki results
+	output: results_miss.csv (edited manually)
+
+03_results_finals: scraping missing finals
+	output: results_finals.csv
+	
+04_tables_1: scraping tables (ABANDONED)
+04_tables_1972: scraping nonleague tables 1972
+	output: nonleague_1972.csv
+	
+07_non_league_tables_1: non-league (2012-2015)
+	output: nonleague_1_v1.csv
+
+
+	
+"SPIDERS" (01_league_tables)
+
+05_football_league_tables: scraping 1946-2015 football league
+	output: football_league_v1.csv
+	
+06_premier_league_tables: scraping premier league
+	output: premier_league_v1.csv
+
+
+IPYTHON (main directory)
+
+years_edit: clean up years/rounds
+	input: years.csv
+	outputs: years_edit.csv
+
+matches: merge results and years tables and create new columns
+	input: results_2.csv, results_miss.csv, years_edit.csv
+	outputs: facup_archive.csv
+	
+fac_finals_merge: merge missing finals with table
+	input: facup_archive.csv
+	outputs: facup_v1.csv
+	
+00_fill_finals_missing_values: add id values for new finals rows
+	input: facup_v1.csv
+	out: facup_v2.csv
+	
+01_matplotlib_tests1_stages_per_year
+	input: facup_v2.csv
+	
+02_matches_per_year: graphs and update to some bad values
+	input: facup_v2
+	output: facup_v3
+
+IPYTHON (01_league_tables)
+
+00_fl_pl_munge: clean and merge fl and pl tables
+	input: premier_league_v1.csv, football_league_v1.csv
+	out: tables_merged_v1.csv
+	
+00_fl_pl_munge: clean and merge fl and pl tables
+	input: premier_league_v1.csv, football_league_v1.csv
+	out: tables_merged_v1.csv
+	
+01_1972_clean_and_merge
+
+02_table_archive_1: merge fl (1947+)/ pl and nl (2012+)
+	input: tables_merged_v1.csv, nonleague_1_v1.csv
+	output: tables_archive_v1.csv
+	
