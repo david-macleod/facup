@@ -1,48 +1,46 @@
-id,x,y,league,teams,,,,
-11,9,1,Premier League,20,,,,
-21,9,2,Championship,24,,,,
-31,9,3,League 1,24,,,,
-41,9,4,League 2,24,,,,
-501,9,5,National League,24,,,,
-601,7.5,6,National League North,22,,,,
-602,10.5,6,National Leagu South,21,,,,
-701,5.5,7,Northern Premier Prem,24,,,,
-702,9,7,Southern League Prem,23,,,,
-703,12.5,7,Isthmian League Prem,24,,,,
-801,4,8,Northern Premier Div One North,22,,,,
-802,6,8,Northern Premier Div One South,22,,,,
-803,8,8,Southern Div One Central,22,,,,
-804,10,8,Southern Div One South & West,22,,,,
-805,12,8,Isthmian League Div One South,24,,,,
-806,14,8,Isthmian League Div One North,24,,,,
-901,2.5,9,Northern League Div One,20,,,,
-902,3.5,9,North West Counties Prem,22,,,,
-903,5.5,9,Midland Football League Prem,22,,,,
-904,8.5,9,Hellenic Prem,19,,,,
-905,9.5,9,Combined Counties Prem,20,,,,
-906,13.5,9,Essex Senior League ,17,,,,
-907,14.5,9,Eastern Counties Prem,20,,,,
-908,12.5,9,Southern Combination Div One,17,,,,
-909,15.5,9,Southern Counties East,19,,,,
-910,4.5,9,Northern Counties East Prem,20,,,,
-911,6.5,9,United Counties Prem,20,,,,
-912,7.5,9,Spartan South Midlands Prem,21,,,,
-913,10.5,9,Wessex League Prem,20,,,,
-914,11.5,9,Western Prem,19,,,,
-1001,1,10,Northern League Div Two,6,,,,
-1002,2,10,North West Counties Div One,5,,,,
-1003,6,10,Midland Football League Div One,8,,,,
-1004,9,10,Hellenic Div One East,0,,,,
-1005,10,10,Hellenic Div One West,1,,,,
-1006,11,10,Combined Counties Div One,7,,,,
-1007,16,10,Eastern Counties Div One,7,,,,
-1008,15,10,Southern Combination Div Two,3,,,,
-1009,17,10,Kent Invicta,0,,,,
-1010,3,10,Northern Counties East Div One,9,,,,
-1011,7,10,United Counties Div One,1,,,,
-1012,8,10,Spartan South Div One,6,,,,
-1013,12,10,Wessex League Div One,7,,,,
-1014,13,10,Western Div One,8,,,,
-1015,14,10,South West Peninsula League Prem,6,,,,
-1016,4,10,West Midlands Regional League,11,,,,
-1017,5,10,East Midlands Counties League,8,,,,
+id,x,y,league,teams
+11,9,1,Premier League,20
+21,9,2,Championship,24
+31,9,3,League 1,24
+41,9,4,League 2,24
+501,9,5,National League,24
+601,7.5,6,National League North,22
+602,10.5,6,National Leagu South,21
+701,5.5,7,Northern Premier Prem,24
+702,9,7,Southern League Prem,23
+703,12.5,7,Isthmian League Prem,24
+801,4,8,Northern Premier Div One North,22
+802,6,8,Northern Premier Div One South,22
+803,8,8,Southern Div One Central,22
+804,10,8,Southern Div One South & West,22
+805,12,8,Isthmian League Div One South,24
+806,14,8,Isthmian League Div One North,24
+901,2.5,9,Northern League Div One,20
+902,3.5,9,North West Counties Prem,22
+903,5.5,9,Midland Football League Prem,22
+904,8.5,9,Hellenic Prem,19
+905,9.5,9,Combined Counties Prem,20
+906,13.5,9,Essex Senior League ,17
+907,14.5,9,Eastern Counties Prem,20
+908,12.5,9,Southern Combination Div One,17
+909,15.5,9,Southern Counties East,19
+910,4.5,9,Northern Counties East Prem,20
+911,6.5,9,United Counties Prem,20
+912,7.5,9,Spartan South Midlands Prem,21
+913,10.5,9,Wessex League Prem,20
+914,11.5,9,Western Prem,19
+1002,2,10,North West Counties Div One,5
+1003,6,10,Midland Football League Div One,8
+1004,9,10,Northern League Div Two,6
+1005,10,10,Hellenic Div One West,1
+1006,11,10,Combined Counties Div One,7
+1007,16,10,Eastern Counties Div One,7
+1008,15,10,Southern Combination Div Two,3
+1010,3,10,Northern Counties East Div One,9
+1011,7,10,United Counties Div One,1
+1012,8,10,Spartan South Div One,6
+1013,12,10,Wessex League Div One,7
+1014,13,10,Western Div One,8
+1015,14,10,South West Peninsula League Prem,6
+1016,4,10,West Midlands Regional League,11
+1017,5,10,East Midlands Counties League,8
